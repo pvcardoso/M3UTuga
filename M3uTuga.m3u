@@ -351,15 +351,6 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="France24Espanol.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/France-24.png",France 24 Español
-https://youtube.com/watch?v=XDJPzMznAjU
-
-#EXTINF:-1 group-title="TV" tvg-id="France24French.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/France-24.png",France 24 Français
-https://youtube.com/watch?v=gxG3pdKvlIs
-
-#EXTINF:-1 group-title="TV" tvg-id="France24Arabic.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/France-24.png",France 24 Arabic
-https://youtube.com/watch?v=8BZpOolYLUA
-
 #EXTINF:-1 group-title="TV" tvg-id="CNNInternationalEurope.us" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN.png",CNN
 #KODIPROP:inputstream=inputstream.adaptive
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
@@ -511,9 +502,6 @@ https://cdnapisec.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_1u7s
 #EXTVLCOPT:http-referrer=https://teveo.cu/
 #KODIPROP:inputstream=inputstream.adaptive
 https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="Sky24Meteo.it" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Sky-TG24.png",Sky TG24
-https://youtube.com/watch?v=HVB_Wx5T16g
 
 #EXTINF:-1 group-title="TV" tvg-id="RaiNews24.it" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Rai-News-24.png",Rai News 24
 #KODIPROP:inputstream=inputstream.adaptive
@@ -679,10 +667,6 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/dubaisportshd5.smil/index.m3u
 #EXTINF:-1 group-title="TV" tvg-id="FashionTVEurope.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Fashion-TV.png",Fashion TV
 #KODIPROP:inputstream=inputstream.adaptive
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="HDFASHIONLifeStyle.ua" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/HD-Fashion-&-Lifestyle-TV.png",HD Fashion & Lifestyle TV
-#KODIPROP:inputstream=inputstream.adaptive
-https://www.youtube.com/watch?v=i646uhJwP5w
 
 #EXTINF:-1 group-title="TV" tvg-id="WorldFashionChannel.ru" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/World-Fashion-Channel.jpg",World Fashion Channel
 #KODIPROP:inputstream=inputstream.adaptive
@@ -3202,7 +3186,7 @@ https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/in
 #EXTINF:-1 group-title="TV"  tvg-country="IT" tvg-language="Italiano" tvg-id="VideolinaSardegna.it",Videolina (Sardegna) (404p) [Not 24/7]
 http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="VisualRadio.it",Visual Radio (576p) [Not 24/7]
+#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" group-title="Music" tvg-id="VisualRadio.it",Visual Radio (576p) [Not 24/7]
 http://wms.shared.streamshow.it:1935/visualradio/visualradio/live.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="",Vivaldi TV (1080p)
