@@ -1367,18 +1367,6 @@ https://directes3-tv-cat.3catdirectes.cat/live-content/tv3-hls/master.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="324.TV" tvg-logo="https://graph.facebook.com/324cat/picture?width=200&height=200" group-title="Cataluña" tvg-name="324",324
 https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="C33.TV" tvg-logo="https://graph.facebook.com/Canal33/picture?width=200&height=200" group-title="Cataluña" tvg-name="33",33 GEO CAT
-https://directes-tv-cat.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="C33.TV" tvg-logo="https://graph.facebook.com/Canal33/picture?width=200&height=200" group-title="Cataluña" tvg-name="33",33 GEO
-https://directes-tv-es.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="SX3.TV" tvg-logo="https://graph.facebook.com/SomSX3/picture?width=200&height=200" group-title="Cataluña" tvg-name="SX3",SX3 GEO CAT
-https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="SX3.TV" tvg-logo="https://graph.facebook.com/SomSX3/picture?width=200&height=200" group-title="Cataluña" tvg-name="SX3",SX3 GEO
-https://directes-tv-es.3catdirectes.cat/live-content/super3-hls/master.m3u8
-
 #EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/som3Cat/picture?width=200&height=200" group-title="Cataluña" tvg-name="3CAT Exclusiu 1",3CAT Exclusiu 1 GEO CAT
 https://directes-tv-cat.3catdirectes.cat/live-content/oca1-hls/master.m3u8
 
