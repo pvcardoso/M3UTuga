@@ -223,7 +223,7 @@ https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="MyTimeMovieNetworkEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/HYgxPVQ.png",MyTime Movie Network (1080p) 
 https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV"  tvg-country="US" tvg-language="English" tvg-id="MovieSphere.us" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/MovieSphere.jpg",MovieSphere
+#EXTINF:-1 group-title="TV" tvg-id="MovieSphere.us" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/MovieSphere.jpg",MovieSphere
 #KODIPROP:inputstream=inputstream.adaptive
 https://moviesphereuk-samsunguk.amagi.tv/1080p-vtt/index.m3u8
 
@@ -351,15 +351,28 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 
+#EXTINF:-1 group-title="TV" tvg-id="France24Espanol.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/France-24.png",France 24 Español
+https://youtube.com/watch?v=XDJPzMznAjU
+
+#EXTINF:-1 group-title="TV" tvg-id="France24French.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/France-24.png",France 24 Français
+https://youtube.com/watch?v=gxG3pdKvlIs
+
+#EXTINF:-1 group-title="TV" tvg-id="France24Arabic.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/France-24.png",France 24 Arabic
+https://youtube.com/watch?v=8BZpOolYLUA
+
 #EXTINF:-1 group-title="TV" tvg-id="CNNInternationalEurope.us" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN.png",CNN
 #KODIPROP:inputstream=inputstream.adaptive
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="LiveNOWfromFOX.us" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/LiveNOW_from_Fox.webp",Fox Now
+#KODIPROP:inputstream=inputstream.adaptive
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="ABCNewsLive.us" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ABC-News.png",ABC News
 #KODIPROP:inputstream=inputstream.adaptive
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
-#EXTINF:-1 group-title="TV"  tvg-country="US" tvg-language="English" tvg-id="CBSNews247.us" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CBSN.png",CBS News
+#EXTINF:-1 group-title="TV" tvg-id="CBSNews247.us" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CBSN.png",CBS News
 #KODIPROP:inputstream=inputstream.adaptive
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
@@ -373,7 +386,7 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(
 #KODIPROP:inputstream=inputstream.adaptive
 https://amg17596-amg17596c1-ntdtv-worldwide-3276.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-ntdtvworldwide/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-country="UK" tvg-language="English"  tvg-id="BBCNews.uk" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BBC-World-News.png",BBC News
+#EXTINF:-1 group-title="TV" tvg-id="BBCNews.uk" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BBC-World-News.png",BBC News
 #KODIPROP:inputstream=inputstream.adaptive
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
@@ -387,15 +400,19 @@ https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Liv
 #KODIPROP:inputstream.adaptive.license_key=0045028c984fbbefcdae89b4338c4729:b08f10f5089048d11adb741080e00141
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(skynews)/master.mpd?audio=all&subtitle=all&forcedNarrative=true
 
+#EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Africa_news.png",Africa News
+#KODIPROP:inputstream=inputstream.adaptive
+https://37c774660687468c821a51190046facf.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-gb_AfricaNews/playlist.m3u8
+
 #EXTINF:-1 group-title="TV" tvg-id="TRTWorld.tr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TRT_World.svg",TRT World
 #KODIPROP:inputstream=inputstream.adaptive
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-country="UK" tvg-language="English"  tvg-id="BloombergTVEurope.uk" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Bloomberg.png",Bloomberg TV Europe
+#EXTINF:-1 group-title="TV" tvg-id="BloombergTVEurope.uk" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Bloomberg.png",Bloomberg TV Europe
 #KODIPROP:inputstream=inputstream.adaptive
 https://8c916ce141544c85a361e55898216cf0.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_Bloomberg-2/22e25f0b-ff48-4517-9faa-35f78c10f563/0.m3u8
 
-#EXTINF:-1 group-title="TV"  tvg-country="UK" tvg-language="English" tvg-id="BloombergTVEurope.uk" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Bloomberg.png",Bloomberg TV Brasil
+#EXTINF:-1 group-title="TV" tvg-id="BloombergTVEurope.uk" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Bloomberg.png",Bloomberg TV Brasil
 #KODIPROP:inputstream=inputstream.adaptive
 #https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
 
@@ -545,6 +562,11 @@ https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/c65696b42ca34e97a9b5f54758
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L1oxmbJum2k66IGvf/hkzw", "kid":"7fGnFd6XSGON0vrXWkGa8g" } ], "type":"temporary" }
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 
+#EXTINF:-1 group-title="TV" tvg-id="oktolidays.sg" tvg-logo="https://i.imgur.com/Dt0kA7e.png",meWATCH oktolidays
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=612eb711dfb444f7a194c5e20d7f7048:b6226449b9ed5066542e6d6ad5ecb346
+https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.mpd
+
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/On-FM.png",On FM Portugal
 #KODIPROP:inputstream=inputstream.adaptive
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
@@ -565,7 +587,7 @@ https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/playlist/amg01131-tr
 #KODIPROP:inputstream=inputstream.adaptive
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="ClubbingTV.fr" tvg-country="FR" tvg-language="´Francais" group-title="Music" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Clubbing-TV.png",Clubbing TV
+#EXTINF:-1 group-title="TV" tvg-id="ClubbingTV.fr" tvg-country="FR' tvg-language="´Francais" group-title="Music" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Clubbing-TV.png",Clubbing TV
 #KODIPROP:inputstream=inputstream.adaptive
 https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
 
@@ -581,15 +603,19 @@ http://tv.nrg91.gr:1935/onweb/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 https://streamcdng5-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="4fun.pl" tvg-country="PL" tvg-language="Polaco"  tvg-id="4fun.pl" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/4Fun-TV.png",4Fun.TV
+#EXTINF:-1 group-title="TV" tvg-id="4fun.pl" tvg-id="4fun.pl" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/4Fun-TV.png",4Fun.TV
 #KODIPROP:inputstream=inputstream.adaptive
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="VH1.it"  tvg-country="IT" tvg-language="Italiano" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/VH1.png",VH1 Italia
+#EXTINF:-1 group-title="TV" tvg-id="KpopTVPlay.br" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Sexy-KPOP-TV.png",Sexy KPOP TV
+#KODIPROP:inputstream=inputstream.adaptive
+https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="VH1.it" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/VH1.png",VH1 Italia
 #KODIPROP:inputstream=inputstream.adaptive
 #https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="FMITALIA.it" tvg-country="IT" tvg-language="Italiano"  tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/FM-Italia-TV.png",FM Italia TV
+#EXTINF:-1 group-title="TV" tvg-id="FMITALIA.it" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/FM-Italia-TV.png",FM Italia TV
 #KODIPROP:inputstream=inputstream.adaptive
 https://stream1.xdevel.com/video0s975817-1182/stream/playlist.m3u8
 
@@ -802,28 +828,28 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="La 1",La 1
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="La 1",La 1
+#EXTINF:-1 group-title="TV"  tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="La 1",La 1
 https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Generalistas" tvg-name="La 2",La 2
+#EXTINF:-1 group-title="TV"  tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Generalistas" tvg-name="La 2",La 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Generalistas" tvg-name="La 2",La 2
+#EXTINF:-1 group-title="TV"  tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Generalistas" tvg-name="La 2",La 2
 https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Generalistas" tvg-name="La 2",La 2
+#EXTINF:-1 group-title="TV"  tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Generalistas" tvg-name="La 2",La 2
 https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="13.TV" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="Generalistas" tvg-name="TRECE",TRECE
+#EXTINF:-1 group-title="TV"  tvg-id="13.TV" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="Generalistas" tvg-name="TRECE",TRECE
 https://live-edge-ff-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="ElToroTV.TV" tvg-country="ES" tvg-language="Espanhol" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="Generalistas" tvg-name="El Toro TV",El Toro TV
+#EXTINF:-1 group-title="TV"  tvg-id="ElToroTV.TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="Generalistas" tvg-name="El Toro TV",El Toro TV
 https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="ElToroTV.TV" tvg-country="ES" tvg-language="Espanhol" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="Generalistas" tvg-name="El Toro TV",El Toro TV
+#EXTINF:-1 group-title="TV"  tvg-id="ElToroTV.TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="Generalistas" tvg-name="El Toro TV",El Toro TV
 https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-country="ES" tvg-language="Espanhol" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="Generalistas" tvg-name="RNE para todos",RNE para todos
+#EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="Generalistas" tvg-name="RNE para todos",RNE para todos
 https://ztnr.rtve.es/ztnr/6688753.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="Generalistas" tvg-name="RNE para todos",RNE para todos
@@ -841,22 +867,22 @@ https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 group-title="TV" tvg-id="Euronews.TV" tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" group-title="Informativos" tvg-name="Euronews",Euronews
 https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/eyJzdGlkIjoiMDA0YjY0NTMtYjY2MC00ZTZkLTlkNzEtMTk3YTM3ZDZhZWIxIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjoxfQ==/26034/euronews-es.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="ElPais.TV" tvg-country="ES" tvg-language="Espanhol" tvg-logo="https://graph.facebook.com/elpais/picture?width=200&height=200" group-title="Informativos" tvg-name="El País",El País
+#EXTINF:-1 group-title="TV" tvg-id="ElPais.TV" tvg-logo="https://graph.facebook.com/elpais/picture?width=200&height=200" group-title="Informativos" tvg-name="El País",El País
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="Negocios.TV" tvg-country="ES" tvg-language="Espanhol" tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" group-title="Informativos" tvg-name="Negocios TV",Negocios TV
+#EXTINF:-1 group-title="TV" tvg-id="Negocios.TV" tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" group-title="Informativos" tvg-name="Negocios TV",Negocios TV
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="ElConfidencial.TV" tvg-country="ES" tvg-language="Espanhol" tvg-logo="https://graph.facebook.com/elconfidencial/picture?width=200&height=200" group-title="Informativos" tvg-name="El Confidencial",El Confidencial
+#EXTINF:-1 group-title="TV" tvg-id="ElConfidencial.TV" tvg-logo="https://graph.facebook.com/elconfidencial/picture?width=200&height=200" group-title="Informativos" tvg-name="El Confidencial",El Confidencial
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="TDP.TV" tvg-country="ES" tvg-language="Espanhol" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Deportivos" tvg-name="Desporto",Teledeporte GEO
+#EXTINF:-1 group-title="TV" tvg-id="TDP.TV" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Deportivos" tvg-name="Teledeporte",Teledeporte GEO
 https://ztnr.rtve.es/ztnr/1712295.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="TDP.TV" tvg-country="ES" tvg-language="Espanhol" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Deportivos" tvg-name="Desporto",Teledeporte GEO
+#EXTINF:-1 group-title="TV" tvg-id="TDP.TV" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Deportivos" tvg-name="Teledeporte",Teledeporte GEO
 https://rtvelivestream-clnx.rtve.es/rtvesec/tdp/tdp_main.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="TDP.TV" tvg-country="ES" tvg-language="Espanhol" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Deportivos" tvg-name="Desporto",Teledeporte
+#EXTINF:-1 group-title="TV" tvg-id="TDP.TV" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Deportivos" tvg-name="Teledeporte",Teledeporte
 https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="E3.TV" tvg-logo="https://graph.facebook.com/Esport3/picture?width=200&height=200" group-title="Deportivos" tvg-name="Esport 3",Esport 3 GEO CAT
@@ -907,16 +933,16 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12109&live=1
 #EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/futsalmafer.tv/picture?width=200&height=200" group-title="Deportivos" tvg-name="Futsalmafer.tv",Futsalmafer.tv
 https://play.agenciastreaming.com:8081/futsalmafertv/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="Clan.TV" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="Infantis" tvg-name="Clan",Clan GEO
+#EXTINF:-1 group-title="TV" tvg-id="Clan.TV" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="Infantiles" tvg-name="Clan",Clan GEO
 https://ztnr.rtve.es/ztnr/5466990.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="Clan.TV" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="Infantis" tvg-name="Clan",Clan GEO
+#EXTINF:-1 group-title="TV" tvg-id="Clan.TV" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="Infantiles" tvg-name="Clan",Clan GEO
 https://rtvelivestream.akamaized.net/rtvesec/clan/clan_main_dvr.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="Clan.TV" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="Infantis" tvg-name="Clan",Clan
+#EXTINF:-1 group-title="TV" tvg-id="Clan.TV" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="Infantiles" tvg-name="Clan",Clan
 https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="Infantis" tvg-name="Pequeradio TV",Pequeradio TV
+#EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="Infantiles" tvg-name="Pequeradio TV",Pequeradio TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="Eventuales" tvg-name="+24",+24
@@ -1340,6 +1366,18 @@ https://directes3-tv-cat.3catdirectes.cat/live-content/tv3-hls/master.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="324.TV" tvg-logo="https://graph.facebook.com/324cat/picture?width=200&height=200" group-title="Cataluña" tvg-name="324",324
 https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="C33.TV" tvg-logo="https://graph.facebook.com/Canal33/picture?width=200&height=200" group-title="Cataluña" tvg-name="33",33 GEO CAT
+https://directes-tv-cat.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="C33.TV" tvg-logo="https://graph.facebook.com/Canal33/picture?width=200&height=200" group-title="Cataluña" tvg-name="33",33 GEO
+https://directes-tv-es.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="SX3.TV" tvg-logo="https://graph.facebook.com/SomSX3/picture?width=200&height=200" group-title="Cataluña" tvg-name="SX3",SX3 GEO CAT
+https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="SX3.TV" tvg-logo="https://graph.facebook.com/SomSX3/picture?width=200&height=200" group-title="Cataluña" tvg-name="SX3",SX3 GEO
+https://directes-tv-es.3catdirectes.cat/live-content/super3-hls/master.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/som3Cat/picture?width=200&height=200" group-title="Cataluña" tvg-name="3CAT Exclusiu 1",3CAT Exclusiu 1 GEO CAT
 https://directes-tv-cat.3catdirectes.cat/live-content/oca1-hls/master.m3u8
@@ -2921,58 +2959,58 @@ http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="TeleLiguriaSud.it",Tele Liguria Sud (576p)
 https://5f22d76e220e1.streamlock.net/tls/tls/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="",Tele Messina (1080p)
+#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="",Tele Messina (1080p)
 https://ssh101-fl.bozztv.com/ssh101/telemessina/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="Telepavia.it",Tele Pavia (720p)
+#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="Telepavia.it",Tele Pavia (720p)
 http://wms.shared.streamshow.it/telepavia/telepavia/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="TelePegasoCatania.it",Tele Pegaso Catania (404p) [Not 24/7]
+#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="TelePegasoCatania.it",Tele Pegaso Catania (404p) [Not 24/7]
 https://flash2.xdevel.com/telepegasocanale812/telepegasocanale812/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="TeleQuattro.it",Tele Quattro (480p) [Not 24/7]
+#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="TeleQuattro.it",Tele Quattro (480p) [Not 24/7]
 http://wms.shared.streamshow.it/telequattro/telequattro/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="TeleRadioSciacca.it",Tele Radio Sciacca (240p) [Not 24/7]
+#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="TeleRadioSciacca.it",Tele Radio Sciacca (240p) [Not 24/7]
 http://5cbd3bc28341f.streamlock.net:1935/trs_live/teleradiosciacca-tv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="TeleRomaUno.it",Tele Roma Uno (720p)
+#EXTINF:-1 group-title="TV" tvg-id="TeleRomaUno.it",Tele Roma Uno (720p)
 https://stream9.xdevel.com/video0s976607-1377/stream/playlist_dvr.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="TSNTeleSondrioNews.it",Tele Sondrio News (480p) [Not 24/7]
+#EXTINF:-1 group-title="TV" tvg-id="TSNTeleSondrioNews.it",Tele Sondrio News (480p) [Not 24/7]
 https://59d8c0cee6f3d.streamlock.net/tsn/tsn_mobile/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="Teleacras.it",Teleacras (576p)
+#EXTINF:-1 group-title="TV" tvg-id="Teleacras.it",Teleacras (576p)
 https://5cbd3bc28341f.streamlock.net:444/teleacras/live/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="TeleAmbienteTV.it",TeleAmbiente TV (720p)
+#EXTINF:-1 group-title="TV" tvg-id="TeleAmbienteTV.it",TeleAmbiente TV (720p)
 https://5f22d76e220e1.streamlock.net/teleambiente/teleambiente/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="TeleArena.it",TeleArena (480p)
+#EXTINF:-1 group-title="TV" tvg-id="TeleArena.it",TeleArena (480p)
 https://5ce9406b73c33.streamlock.net/TeleArena/TeleArena.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="Telebari.it",TeleBari (1080p)
+#EXTINF:-1 group-title="TV" tvg-id="Telebari.it",TeleBari (1080p)
 http://fl1.mediastreaming.it:1935/telebari/livestream/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="Telebelluno.it",Telebelluno (720p)
+#EXTINF:-1 group-title="TV" tvg-id="Telebelluno.it",Telebelluno (720p)
 https://live.mariatvcdn.com/telebelluno/a3b80388da9801906adf885282e73bc3.sdp/mono.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="TeleChiara.it",Telechiara (720p)
+#EXTINF:-1 group-title="TV" tvg-id="TeleChiara.it",Telechiara (720p)
 http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="TelecolorLombardia.it",Telecolor Lombardia (1080p) [Not 24/7]
 https://1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/hlbAWtl/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="Telefoggia.it",Telefoggia (480p) [Not 24/7]
+#EXTINF:-1 group-title="TV" tvg-id="Telefoggia.it",Telefoggia (480p) [Not 24/7]
 http://wms.shared.streamshow.it/telefoggia/mp4:telefoggia/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="Telefoggia.it",Telefoggia (480p) [Not 24/7]
+#EXTINF:-1 group-title="TV" tvg-id="Telefoggia.it",Telefoggia (480p) [Not 24/7]
 https://59d7d6f47d7fc.streamlock.net/telefoggia/telefoggia/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="",TeleFormula (720p) [Not 24/7]
 https://wms60.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="Telefriuli.it",Telefriuli (1080p)
+#EXTINF:-1 group-title="TV" tvg-id="Telefriuli.it",Telefriuli (1080p)
 https://5757bf2aa08e42248fb9b9d620f5d900.msvdn.net/live/S11646715/pE3ax0lT0rBd/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="Telegela647.it",Telegela 647 (720p)
@@ -3083,13 +3121,13 @@ http://ts2000tv.streaming.nextware.it:8081/ts2000tv/ts2000tv/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="Televallo.it",Televallo (576p)
 https://5cbd3bc28341f.streamlock.net:444/televallo/live/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="TeleVenezia.it",TeleVenezia (576p)
+#EXTINF:-1 group-title="TV tvg-country="IT" tvg-language="Italiano" " tvg-id="TeleVenezia.it",TeleVenezia (576p)
 https://59d7d6f47d7fc.streamlock.net/televenezia/televenezia/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="TeleVenezia.it",TeleVenezia (576p)
+#EXTINF:-1 group-title="TV" tvg-id="TeleVenezia.it",TeleVenezia (576p)
 https://59d8c0cee6f3d.streamlock.net/televenezia/televenezia/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="TeleVideoAgrigento.it",TeleVideo Agrigento (480p)
+#EXTINF:-1 group-title="TV" tvg-id="TeleVideoAgrigento.it",TeleVideo Agrigento (480p)
 https://59d7d6f47d7fc.streamlock.net/tva/tva/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="TGNorba24.it",TG Norba 24 (404p)
@@ -3098,7 +3136,7 @@ https://router.xdevel.com/video0s976570-1326/stream/playlist_dvr.m3u8
 #EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="TLTMolise.it",TLT Molise (1080p)
 https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="TRSport.it" tvg-name="Desporto",TR Sport (480p)
+#EXTINF:-1 group-title="TV tvg-country="IT" tvg-language="Italiano" tvg-id="TRSport.it",TR Sport (480p)
 https://livetr.teleromagna.it/mia/live/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="TrentinoTV.it",Trentino TV (720p) [Not 24/7]
@@ -3113,101 +3151,113 @@ https://600f07e114306.streamlock.net/TT2_TELETUTTO/livestream/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="TT24Teletutto.it",TT24 Teletutto (720p)
 https://600f07e114306.streamlock.net/TT24_TELETUTTO/livestream/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="TTTeletutto.it",TT Teletutto (720p)
+#EXTINF:-1 group-title="TV" tvg-id="TTTeletutto.it",TT Teletutto (720p)
 https://600f07e114306.streamlock.net/TT_TELETUTTO/smil:TT.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="TV7Benevento.it",TV7 Benevento (288p) [Not 24/7]
+#EXTINF:-1 group-title="TV" tvg-id="TV7Benevento.it",TV7 Benevento (288p) [Not 24/7]
 http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="",TV7 Meteo (404p)
 https://www.gruppotv7.com:8090/hls/meteo.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="TV7Triveneta.it",TV7 Triveneta (562p)
+#EXTINF:-1 group-title="TV" tvg-id="TV7Triveneta.it",TV7 Triveneta (562p)
 https://www.gruppotv7.com:8090/hls/ireporter.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="TV2000.it",TV 2000 (720p)
+#EXTINF:-1 group-title="TV" tvg-id="TV2000.it",TV 2000 (720p)
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="TVCampane1.it",TV Campane 1 (720p)
+#EXTINF:-1 group-title="TV" tvg-id="TVCampane1.it",TV Campane 1 (720p)
 https://eu1.servers10.com:8081/8032/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="TVPrato.it",TV Prato (1080p)
+#EXTINF:-1 group-title="TV" tvg-id="TVPrato.it",TV Prato (1080p)
 https://live.mariatvcdn.com/tvprato/2db0dd5674586686a867ec52c3aa8e06.sdp/index.m3u8
 
-#EXTINF:-1 group-title="TV"  tvg-country="IT" tvg-language="Italiano"tvg-id="TVQuiModena.it",TV Qui (Modena) (480p)
+#EXTINF:-1 group-title="TV" tvg-id="TVQuiModena.it",TV Qui (Modena) (480p)
 https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="TVSei.it",TV Sei (576p) [Not 24/7]
+#EXTINF:-1 group-title="TV" tvg-id="TVSei.it",TV Sei (576p) [Not 24/7]
 http://185.202.128.1:1935/Tv6Stream/tv6TV.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="TVYesItalia.it",TV Yes Italia (720p)
+#EXTINF:-1 group-title="TV" tvg-id="TVYesItalia.it",TV Yes Italia (720p)
 https://stream1.aswifi.it/radioyes/live/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="TVAVicenza.it",TVA (Vicenza) (720p)
+#EXTINF:-1 group-title="TV" tvg-id="TVAVicenza.it",TVA (Vicenza) (720p)
 http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="TVL.it",TVL (720p) [Not 24/7]
+#EXTINF:-1 group-title="TV" tvg-id="TVL.it",TVL (720p) [Not 24/7]
 https://live.mariatvcdn.com/mariatvcdn/70564e1c6884c007c76f0c128d679eed.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="",TVR Sicilia HD (1080p) [Not 24/7]
+#EXTINF:-1 group-title="TV" tvg-id="",TVR Sicilia HD (1080p) [Not 24/7]
 https://ssh101.bozztv.com/ssh101/televita/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="TVRS.it",TVRS (576p) [Not 24/7]
+#EXTINF:-1 group-title="TV" tvg-id="TVRS.it",TVRS (576p) [Not 24/7]
 http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="UmbriaTV.it",Umbria TV (576p) [Not 24/7]
+#EXTINF:-1 group-title="TV" tvg-id="UmbriaTV.it",Umbria TV (576p) [Not 24/7]
 https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="UniNettunoUniversityTV.it",UniNettuno University TV (720p)
+#EXTINF:-1 group-title="TV" tvg-id="UniNettunoUniversityTV.it",UniNettuno University TV (720p)
 https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="VeraTV.it",Vera TV (1080p) [Not 24/7]
+#EXTINF:-1 group-title="TV" tvg-id="VeraTV.it",Vera TV (1080p) [Not 24/7]
 http://wms.shared.streamshow.it/veratv/mp4:veratv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="VeraTV.it",Vera TV (Marche) (1080p) [Not 24/7]
+#EXTINF:-1 group-title="TV" tvg-id="VeraTV.it",Vera TV (Marche) (1080p) [Not 24/7]
 http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="VH1.it",VH1 Italia (1080p)
+#EXTINF:-1 group-title="TV" tvg-id="VH1.it",VH1 Italia (1080p)
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="VideoRola.it",Video Rola (1080p)
+#EXTINF:-1 group-title="TV" tvg-id="VideoRola.it",Video Rola (1080p)
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="VideolinaSardegna.it",Videolina (Sardegna) (404p) [Not 24/7]
+#EXTINF:-1 group-title="TV" tvg-id="VideolinaSardegna.it",Videolina (Sardegna) (404p) [Not 24/7]
 http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="VisualRadio.it",Visual Radio (576p) [Not 24/7]
+#EXTINF:-1 group-title="TV" tvg-id="VisualRadio.it",Visual Radio (576p) [Not 24/7]
 http://wms.shared.streamshow.it:1935/visualradio/visualradio/live.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="",Vivaldi TV (1080p)
+#EXTINF:-1 group-title="TV" tvg-id="",Vivaldi TV (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01523-mezzo-vivalditv-tcl/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="Vuemme.it",Vuemme (480p)
+#EXTINF:-1 group-title="TV" tvg-id="Vuemme.it",Vuemme (480p)
 https://5db313b643fd8.streamlock.net/Vuemme/Vuemme/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="WeddingTV.it",Wedding TV
+#EXTINF:-1 group-title="TV" tvg-id="WeddingTV.it",Wedding TV
 https://stream.cp.ets-sistemi.it:1936/profservtv/profservtv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="WellTV.it",Well TV
+#EXTINF:-1 group-title="TV" tvg-id="WellTV.it",Well TV
 https://5f22d76e220e1.streamlock.net/canale5/canale5/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="ZerounoTVNews.it",Zerouno TV News (720p)
+#EXTINF:-1 group-title="TV" tvg-id="ZerounoTVNews.it",Zerouno TV News (720p)
 https://5db313b643fd8.streamlock.net/ZerounoTVEventi/ZerounoTVEventi/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="Telenova.it",Telenova (720p)
+#EXTINF:-1 group-title="TV" tvg-id="Telenova.it",Telenova (720p)
 https://64b16f23efbee.streamlock.net/telenova/telenova/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="TeleQuattro.it",Tele Quattro (720p)
+#EXTINF:-1 group-title="TV" tvg-id="TeleQuattro.it",Tele Quattro (720p)
 https://59d7d6f47d7fc.streamlock.net/telequattro/telequattro/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="7RadioVisione.it",7 RadioVisione (720p)
+#EXTINF:-1 group-title="TV" tvg-id="7RadioVisione.it",7 RadioVisione (720p)
 https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="RTV38.it",RTV38 (576p)
+#EXTINF:-1 group-title="TV" tvg-id="RTV38.it",RTV38 (576p)
 https://streamcdne1-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/rtv38_live_main/main_576/chunks_dvr.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="Super.it",Super!
+#EXTINF:-1 group-title="TV" tvg-id="Super.it",Super!
 https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="tv9Telemaremma.it",tv9 Telemaremma (576p)
+#EXTINF:-1 group-title="TV" tvg-id="tv9Telemaremma.it",tv9 Telemaremma (576p)
 https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/2095a288-1384-ed2e-5da0-278ccbb72295.m3u8
+
+#EXTINF:-1 group-title="TV", UK: Sky Cinema Sci-fi & Horror HD
+http://ip.sltv.be:8080/VVq9Xb3th6/aUmq6dAvms/177550
+
+#EXTINF:-1 group-title="TV", UK: Sky Cinema Sci-fi & Horror FHD
+http://ip.sltv.be:8080/VVq9Xb3th6/aUmq6dAvms/177549
+
+#EXTINF:-1 group-title="TV", UK: Sky Cinema Thriller FHD
+http://ip.sltv.be:8080/VVq9Xb3th6/aUmq6dAvms/177552
+
+#EXTINF:-1 group-title="TV", UK: Sky Cinema Thriller HD
+http://ip.sltv.be:8080/VVq9Xb3th6/aUmq6dAvms/177551
