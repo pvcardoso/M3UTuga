@@ -3121,7 +3121,7 @@ http://ts2000tv.streaming.nextware.it:8081/ts2000tv/ts2000tv/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="Televallo.it",Televallo (576p)
 https://5cbd3bc28341f.streamlock.net:444/televallo/live/playlist.m3u8
 
-#EXTINF:-1 group-title="TV tvg-country="IT" tvg-language="Italiano" " tvg-id="TeleVenezia.it",TeleVenezia (576p)
+#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" " tvg-id="TeleVenezia.it",TeleVenezia (576p)
 https://59d7d6f47d7fc.streamlock.net/televenezia/televenezia/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="TeleVenezia.it",TeleVenezia (576p)
@@ -3136,7 +3136,7 @@ https://router.xdevel.com/video0s976570-1326/stream/playlist_dvr.m3u8
 #EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="TLTMolise.it",TLT Molise (1080p)
 https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/playlist.m3u8
 
-#EXTINF:-1 group-title="TV tvg-country="IT" tvg-language="Italiano" tvg-id="TRSport.it",TR Sport (480p)
+#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="TRSport.it",TR Sport (480p)
 https://livetr.teleromagna.it/mia/live/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="TrentinoTV.it",Trentino TV (720p) [Not 24/7]
