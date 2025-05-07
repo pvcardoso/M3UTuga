@@ -565,7 +565,7 @@ https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/playlist/amg01131-tr
 #KODIPROP:inputstream=inputstream.adaptive
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="ClubbingTV.fr" tvg-country="FR' tvg-language="´Francais" group-title="Music" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Clubbing-TV.png",Clubbing TV
+#EXTINF:-1 group-title="TV" tvg-id="ClubbingTV.fr" tvg-country="FR" tvg-language="´Francais" group-title="Music" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Clubbing-TV.png",Clubbing TV
 #KODIPROP:inputstream=inputstream.adaptive
 https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
 
