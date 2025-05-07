@@ -2921,58 +2921,58 @@ http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="TeleLiguriaSud.it",Tele Liguria Sud (576p)
 https://5f22d76e220e1.streamlock.net/tls/tls/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="",Tele Messina (1080p)
+#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="",Tele Messina (1080p)
 https://ssh101-fl.bozztv.com/ssh101/telemessina/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="Telepavia.it",Tele Pavia (720p)
+#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="Telepavia.it",Tele Pavia (720p)
 http://wms.shared.streamshow.it/telepavia/telepavia/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="TelePegasoCatania.it",Tele Pegaso Catania (404p) [Not 24/7]
+#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="TelePegasoCatania.it",Tele Pegaso Catania (404p) [Not 24/7]
 https://flash2.xdevel.com/telepegasocanale812/telepegasocanale812/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="TeleQuattro.it",Tele Quattro (480p) [Not 24/7]
+#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="TeleQuattro.it",Tele Quattro (480p) [Not 24/7]
 http://wms.shared.streamshow.it/telequattro/telequattro/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="TeleRadioSciacca.it",Tele Radio Sciacca (240p) [Not 24/7]
+#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="TeleRadioSciacca.it",Tele Radio Sciacca (240p) [Not 24/7]
 http://5cbd3bc28341f.streamlock.net:1935/trs_live/teleradiosciacca-tv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="TeleRomaUno.it",Tele Roma Uno (720p)
+#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="TeleRomaUno.it",Tele Roma Uno (720p)
 https://stream9.xdevel.com/video0s976607-1377/stream/playlist_dvr.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="TSNTeleSondrioNews.it",Tele Sondrio News (480p) [Not 24/7]
+#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="TSNTeleSondrioNews.it",Tele Sondrio News (480p) [Not 24/7]
 https://59d8c0cee6f3d.streamlock.net/tsn/tsn_mobile/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="Teleacras.it",Teleacras (576p)
+#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="Teleacras.it",Teleacras (576p)
 https://5cbd3bc28341f.streamlock.net:444/teleacras/live/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="TeleAmbienteTV.it",TeleAmbiente TV (720p)
+#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="TeleAmbienteTV.it",TeleAmbiente TV (720p)
 https://5f22d76e220e1.streamlock.net/teleambiente/teleambiente/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="TeleArena.it",TeleArena (480p)
+#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="TeleArena.it",TeleArena (480p)
 https://5ce9406b73c33.streamlock.net/TeleArena/TeleArena.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="Telebari.it",TeleBari (1080p)
+#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="Telebari.it",TeleBari (1080p)
 http://fl1.mediastreaming.it:1935/telebari/livestream/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="Telebelluno.it",Telebelluno (720p)
+#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="Telebelluno.it",Telebelluno (720p)
 https://live.mariatvcdn.com/telebelluno/a3b80388da9801906adf885282e73bc3.sdp/mono.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="TeleChiara.it",Telechiara (720p)
+#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="TeleChiara.it",Telechiara (720p)
 http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="TelecolorLombardia.it",Telecolor Lombardia (1080p) [Not 24/7]
 https://1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/hlbAWtl/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="Telefoggia.it",Telefoggia (480p) [Not 24/7]
+#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="Telefoggia.it",Telefoggia (480p) [Not 24/7]
 http://wms.shared.streamshow.it/telefoggia/mp4:telefoggia/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="Telefoggia.it",Telefoggia (480p) [Not 24/7]
+#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="Telefoggia.it",Telefoggia (480p) [Not 24/7]
 https://59d7d6f47d7fc.streamlock.net/telefoggia/telefoggia/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="",TeleFormula (720p) [Not 24/7]
 https://wms60.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="Telefriuli.it",Telefriuli (1080p)
+#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="Telefriuli.it",Telefriuli (1080p)
 https://5757bf2aa08e42248fb9b9d620f5d900.msvdn.net/live/S11646715/pE3ax0lT0rBd/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="Telegela647.it",Telegela 647 (720p)
@@ -3098,7 +3098,7 @@ https://router.xdevel.com/video0s976570-1326/stream/playlist_dvr.m3u8
 #EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="TLTMolise.it",TLT Molise (1080p)
 https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/playlist.m3u8
 
-#EXTINF:-1 group-title="TV tvg-country="IT" tvg-language="Italiano" tvg-id="TRSport.it",TR Sport (480p)
+#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="TRSport.it" tvg-name="Desporto",TR Sport (480p)
 https://livetr.teleromagna.it/mia/live/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="TrentinoTV.it",Trentino TV (720p) [Not 24/7]
@@ -3113,101 +3113,101 @@ https://600f07e114306.streamlock.net/TT2_TELETUTTO/livestream/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="TT24Teletutto.it",TT24 Teletutto (720p)
 https://600f07e114306.streamlock.net/TT24_TELETUTTO/livestream/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="TTTeletutto.it",TT Teletutto (720p)
+#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="TTTeletutto.it",TT Teletutto (720p)
 https://600f07e114306.streamlock.net/TT_TELETUTTO/smil:TT.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="TV7Benevento.it",TV7 Benevento (288p) [Not 24/7]
+#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="TV7Benevento.it",TV7 Benevento (288p) [Not 24/7]
 http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="",TV7 Meteo (404p)
 https://www.gruppotv7.com:8090/hls/meteo.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="TV7Triveneta.it",TV7 Triveneta (562p)
+#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="TV7Triveneta.it",TV7 Triveneta (562p)
 https://www.gruppotv7.com:8090/hls/ireporter.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="TV2000.it",TV 2000 (720p)
+#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="TV2000.it",TV 2000 (720p)
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="TVCampane1.it",TV Campane 1 (720p)
+#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="TVCampane1.it",TV Campane 1 (720p)
 https://eu1.servers10.com:8081/8032/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="TVPrato.it",TV Prato (1080p)
+#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="TVPrato.it",TV Prato (1080p)
 https://live.mariatvcdn.com/tvprato/2db0dd5674586686a867ec52c3aa8e06.sdp/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="TVQuiModena.it",TV Qui (Modena) (480p)
+#EXTINF:-1 group-title="TV"  tvg-country="IT" tvg-language="Italiano"tvg-id="TVQuiModena.it",TV Qui (Modena) (480p)
 https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="TVSei.it",TV Sei (576p) [Not 24/7]
+#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="TVSei.it",TV Sei (576p) [Not 24/7]
 http://185.202.128.1:1935/Tv6Stream/tv6TV.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="TVYesItalia.it",TV Yes Italia (720p)
+#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="TVYesItalia.it",TV Yes Italia (720p)
 https://stream1.aswifi.it/radioyes/live/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="TVAVicenza.it",TVA (Vicenza) (720p)
+#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="TVAVicenza.it",TVA (Vicenza) (720p)
 http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="TVL.it",TVL (720p) [Not 24/7]
+#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="TVL.it",TVL (720p) [Not 24/7]
 https://live.mariatvcdn.com/mariatvcdn/70564e1c6884c007c76f0c128d679eed.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="TV"  tvg-country="IT" tvg-language="Italiano"  tvg-id="",TVR Sicilia HD (1080p) [Not 24/7]
+#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="",TVR Sicilia HD (1080p) [Not 24/7]
 https://ssh101.bozztv.com/ssh101/televita/playlist.m3u8
 
-#EXTINF:-1 group-title="TV"  tvg-country="IT" tvg-language="Italiano"  tvg-id="TVRS.it",TVRS (576p) [Not 24/7]
+#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="TVRS.it",TVRS (576p) [Not 24/7]
 http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
 
-#EXTINF:-1 group-title="TV"  tvg-country="IT" tvg-language="Italiano"  tvg-id="UmbriaTV.it",Umbria TV (576p) [Not 24/7]
+#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="UmbriaTV.it",Umbria TV (576p) [Not 24/7]
 https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV"   tvg-country="IT" tvg-language="Italiano" tvg-id="UniNettunoUniversityTV.it",UniNettuno University TV (720p)
+#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="UniNettunoUniversityTV.it",UniNettuno University TV (720p)
 https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
 
-#EXTINF:-1 group-title="TV"  tvg-country="IT" tvg-language="Italiano"  tvg-id="VeraTV.it",Vera TV (1080p) [Not 24/7]
+#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="VeraTV.it",Vera TV (1080p) [Not 24/7]
 http://wms.shared.streamshow.it/veratv/mp4:veratv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV"  tvg-country="IT" tvg-language="Italiano"  tvg-id="VeraTV.it",Vera TV (Marche) (1080p) [Not 24/7]
+#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="VeraTV.it",Vera TV (Marche) (1080p) [Not 24/7]
 http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV"   tvg-country="IT" tvg-language="Italiano" tvg-id="VH1.it",VH1 Italia (1080p)
+#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="VH1.it",VH1 Italia (1080p)
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 
-#EXTINF:-1 group-title="TV"  tvg-country="IT" tvg-language="Italiano"  tvg-id="VideoRola.it",Video Rola (1080p)
+#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="VideoRola.it",Video Rola (1080p)
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
 
-#EXTINF:-1 group-title="TV"  tvg-country="IT" tvg-language="Italiano"  tvg-id="VideolinaSardegna.it",Videolina (Sardegna) (404p) [Not 24/7]
+#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="VideolinaSardegna.it",Videolina (Sardegna) (404p) [Not 24/7]
 http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
 
-#EXTINF:-1 group-title="TV"  tvg-country="IT" tvg-language="Italiano"  tvg-id="VisualRadio.it",Visual Radio (576p) [Not 24/7]
+#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="VisualRadio.it",Visual Radio (576p) [Not 24/7]
 http://wms.shared.streamshow.it:1935/visualradio/visualradio/live.m3u8
 
-#EXTINF:-1 group-title="TV"  tvg-country="IT" tvg-language="Italiano"  tvg-id="",Vivaldi TV (1080p)
+#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="",Vivaldi TV (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01523-mezzo-vivalditv-tcl/playlist.m3u8
 
-#EXTINF:-1 group-title="TV"  tvg-country="IT" tvg-language="Italiano"  tvg-id="Vuemme.it",Vuemme (480p)
+#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="Vuemme.it",Vuemme (480p)
 https://5db313b643fd8.streamlock.net/Vuemme/Vuemme/playlist.m3u8
 
-#EXTINF:-1 group-title="TV"  tvg-country="IT" tvg-language="Italiano"  tvg-id="WeddingTV.it",Wedding TV
+#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="WeddingTV.it",Wedding TV
 https://stream.cp.ets-sistemi.it:1936/profservtv/profservtv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV"   tvg-country="IT" tvg-language="Italiano" tvg-id="WellTV.it",Well TV
+#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="WellTV.it",Well TV
 https://5f22d76e220e1.streamlock.net/canale5/canale5/playlist.m3u8
 
-#EXTINF:-1 group-title="TV"  tvg-country="IT" tvg-language="Italiano"  tvg-id="ZerounoTVNews.it",Zerouno TV News (720p)
+#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="ZerounoTVNews.it",Zerouno TV News (720p)
 https://5db313b643fd8.streamlock.net/ZerounoTVEventi/ZerounoTVEventi/playlist.m3u8
 
-#EXTINF:-1 group-title="TV"  tvg-country="IT" tvg-language="Italiano"  tvg-id="Telenova.it",Telenova (720p)
+#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="Telenova.it",Telenova (720p)
 https://64b16f23efbee.streamlock.net/telenova/telenova/playlist.m3u8
 
-#EXTINF:-1 group-title="TV"  tvg-country="IT" tvg-language="Italiano"  tvg-id="TeleQuattro.it",Tele Quattro (720p)
+#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="TeleQuattro.it",Tele Quattro (720p)
 https://59d7d6f47d7fc.streamlock.net/telequattro/telequattro/playlist.m3u8
 
-#EXTINF:-1 group-title="TV"   tvg-country="IT" tvg-language="Italiano" tvg-id="7RadioVisione.it",7 RadioVisione (720p)
+#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="7RadioVisione.it",7 RadioVisione (720p)
 https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8
 
-#EXTINF:-1 group-title="TV"  tvg-country="IT" tvg-language="Italiano"  tvg-id="RTV38.it",RTV38 (576p)
+#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="RTV38.it",RTV38 (576p)
 https://streamcdne1-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/rtv38_live_main/main_576/chunks_dvr.m3u8
 
-#EXTINF:-1 group-title="TV"  tvg-country="IT" tvg-language="Italiano"  tvg-id="Super.it",Super!
+#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="Super.it",Super!
 https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV"  tvg-country="IT" tvg-language="Italiano"  tvg-id="tv9Telemaremma.it",tv9 Telemaremma (576p)
+#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"  tvg-id="tv9Telemaremma.it",tv9 Telemaremma (576p)
 https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/2095a288-1384-ed2e-5da0-278ccbb72295.m3u8
