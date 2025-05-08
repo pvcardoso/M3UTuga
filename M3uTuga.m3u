@@ -454,7 +454,7 @@ https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
 
-#EXTINF:-1 group-title="TV-ES-ES" tvg-id="CanalMalaga.es" tvg-logo="",Canal Málaga
+#EXTINF:-1 group-title="TV-ES" tvg-id="CanalMalaga.es" tvg-logo="",Canal Málaga
 #KODIPROP:inputstream=inputstream.adaptive
 http://canalmalaga-tv-live.flumotion.com/playlist.m3u8
 
@@ -696,14 +696,14 @@ https://w2.manasat.com/kkids/kkids.smil/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 https://w2.manasat.com/kmusic/kmusic.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TV-Religious" tvg-id="TVCancaoNova.pt" tvg-logo="https://tv.cancaonova.pt/wp-content/uploads/2016/01/logo_cn_radio.png",Canção Nova
+#EXTINF:-1 group-title="TV-PT" tvg-id="TVCancaoNova.pt" tvg-logo="https://tv.cancaonova.pt/wp-content/uploads/2016/01/logo_cn_radio.png",Canção Nova
 #KODIPROP:inputstream=inputstream.adaptive
 https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8
 
 #EXTINF:-1 group-title="TV-Movies" tvg-id="MyTimeMovieNetworkEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/HYgxPVQ.png",MyTime Movie Network (1080p) 
 https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="NPCRadioeTV.pt",NPC Rádio e TV (720p)
+#EXTINF:-1 group-title="TV-Music" tvg-country="PT" tvg-language="Portugues" tvg-id="NPCRadioeTV.pt",NPC Rádio e TV (720p)
 https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/playlist.m3u8
 
 #EXTINF:-1 group-title="TV-Music" tvg-id="Pluto TV MTV",Pluto TV MTV Originals (Spain) (480p)
@@ -712,7 +712,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aadf373bed30007
 #EXTINF:-1 group-title="TV-WorldNews" tvg-id="MSNBC" tvg-country="US" tvg-language="English" tvg-logo="tvg-logo="https://i.imgur.com/XpZdSKH.gif",MSNBC (1080p) 
 http://41.205.93.154/MSNBC/index.m3u8
 
-#EXTINF:-1  group-title="TV" tvg-id="BloombergQuicktake.us",Bloomberg Quicktake (1080p)
+#EXTINF:-1 group-title="TV" tvg-id="BloombergQuicktake.us",Bloomberg Quicktake (1080p)
 https://bloomberg-quicktake-1-pt.samsung.wurl.tv/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="BloombergTV.us",Bloomberg TV US (1080p)
@@ -3064,7 +3064,7 @@ https://5757bf2aa08e42248fb9b9d620f5d900.msvdn.net/live/S11646715/pE3ax0lT0rBd/p
 #EXTINF:-1 group-title="TV-IT" tvg-country="IT" tvg-language="Italiano" tvg-id="Telegela647.it",Telegela 647 (720p)
 http://live.sloode.com:1935/qdg_live/AF74-FF2C-7350-41F2/playlist.m3u8
 
-#EXTINF:-1 group-title="TV-IT-IT" tvg-country="IT" tvg-language="Italiano" tvg-id="TeleGenova.it",TeleGenova (404p)
+#EXTINF:-1 group-title="TV-IT" tvg-country="IT" tvg-language="Italiano" tvg-id="TeleGenova.it",TeleGenova (404p)
 https://5db313b643fd8.streamlock.net/Telegenova/Telegenova/playlist.m3u8
 
 #EXTINF:-1 group-title="TV-IT" tvg-country="IT" tvg-language="Italiano" tvg-id="Telegranda.it",Telegranda (720p) [Not 24/7]
