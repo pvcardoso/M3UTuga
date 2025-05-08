@@ -605,10 +605,6 @@ https://streamcdng5-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sM
 #KODIPROP:inputstream=inputstream.adaptive
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="KpopTVPlay.br" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Sexy-KPOP-TV.png",Sexy KPOP TV
-#KODIPROP:inputstream=inputstream.adaptive
-https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
-
 #EXTINF:-1 group-title="TV-Music" tvg-id="VH1.it" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/VH1.png",VH1 Italia
 #KODIPROP:inputstream=inputstream.adaptive
 #https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
@@ -2231,9 +2227,6 @@ https://cloudvideo.servers10.com:8081/8004/index.m3u8
 #EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/urbanrevolution.es/picture?width=200&height=200" tvg-name="La Urban TV España",La Urban TV España
 https://www.urbanrevolution.es:8443/live/TV/playlist.m3u8
 
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/4FUN.TV/picture?width=200&height=200" tvg-name="4FUN TV Polonia",4FUN TV Polonia PL
-https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
-
 #EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/QmusicNL/picture?width=200&height=200" tvg-name="QMusic Holanda",QMusic Holanda NL
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
 
@@ -2424,52 +2417,6 @@ https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
 
 #EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/MySpirittv/picture?width=200&height=200" tvg-name="Spirit TV USA",Spirit TV USA EN
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="EWTN.TV" tvg-logo="https://graph.facebook.com/ewtnespanol/picture?width=200&height=200" group-title="Religiosos" tvg-name="EWTN España",EWTN España
-https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="EWTN.TV" tvg-logo="https://graph.facebook.com/ewtnespanol/picture?width=200&height=200" group-title="Religiosos" tvg-name="EWTN España",EWTN España EN
-https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-logo="https://pbs.twimg.com/profile_images/1730156030795939840/NtRBSxdr_200x200.jpg" group-title="Religiosos" tvg-name="RTV Diocesana Toledo España",RTV Diocesana Toledo España
-https://live.emitstream.com/hls/5i3pxfuz4az356yu22ij/master.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/ecclesiacope/picture?width=200&height=200" group-title="Religiosos" tvg-name="Ecclesia COPE España",Ecclesia COPE España
-https://cope-religion-video.flumotion.com/playlist.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-logo="https://pbs.twimg.com/profile_images/1359486927406321664/WZXLfd2h_200x200.jpg" group-title="Religiosos" tvg-name="RTV Vida España",RTV Vida España
-https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/solidariatv/picture?width=200&height=200" group-title="Religiosos" tvg-name="Solidaria TV España",Solidaria TV España
-https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/TBNEspana/picture?width=200&height=200" group-title="Religiosos" tvg-name="TBN España",TBN España
-https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/cetelmon.television/picture?width=200&height=200" group-title="Religiosos" tvg-name="Cetelmon TV España",Cetelmon TV España
-http://player.cetelmon.tv/protecteddfd43c2f3a8b41f3f28582bf8993aca6/992_high.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/cbnonline/picture?width=200&height=200" group-title="Religiosos" tvg-name="CBN USA",CBN USA
-https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/734546207001/playlist.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/cbnonline/picture?width=200&height=200" group-title="Religiosos" tvg-name="CBN USA",CBN USA EN
-https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/mariavision/picture?width=200&height=200" group-title="Religiosos" tvg-name="María Visión Mexico",María Visión Mexico
-https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/enlacetv/picture?width=200&height=200" group-title="Religiosos" tvg-name="Enlace TV Costa Rica",Enlace TV Costa Rica
-#EXTVLCOPT:http-referrer=https://www.enlace.org/envivo/
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/redevida/picture?width=200&height=200" group-title="Religiosos" tvg-name="Redevida Brasil",Redevida Brasil PT
-https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/3abn.org/picture?width=200&height=200" group-title="Religiosos" tvg-name="3ABN USA",3ABN USA
-https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/3abn.org/picture?width=200&height=200" group-title="Religiosos" tvg-name="3ABN USA",3ABN USA EN
-https://3abn-live.akamaized.net/hls/live/2010543/3ABN/master.m3u8
 
 #EXTINF:-1 group-title="TV-IT" tvg-country="IT" tvg-language="Italiano" tvg-id="12TVParma.it",12 TV Parma (540p) [Not 24/7]
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
