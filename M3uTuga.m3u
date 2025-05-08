@@ -228,6 +228,20 @@ https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist.m3u8
 
 #-----------------
 
+#EXTINF:-1 group-title="TV-UA" tvg-logo="https://graph.facebook.com/news24ukraine/picture?width=200&height=200" group-title="Int. Europa" tvg-name="Channel 24 Ucrania",Channel 24 Ucrania
+http://streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="TV-UA" tvg-logo="https://graph.facebook.com/news24ukraine/picture?width=200&height=200" group-title="Int. Europa" tvg-name="Channel 24 Ucrania",Channel 24 Ucrania
+http://streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="TV-UA" tvg-logo="https://graph.facebook.com/kanalfreedom/picture?width=200&height=200" group-title="Int. Europa" tvg-name="UATV Ucrania",UATV Ucrania
+https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
+
+#EXTINF:-1 group-title="TV-UA" tvg-logo="https://graph.facebook.com/kanalfreedom/picture?width=200&height=200" group-title="Int. Europa" tvg-name="UATV Ucrania",UATV Ucrania
+https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
+
+#------------------
+
 #EXTINF:-1 group-title="TV-RU" tvg-id="RT.ru" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RT-News.png",RT News
 #KODIPROP:inputstream=inputstream.adaptive
 https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/playlist.m3u8
@@ -369,16 +383,16 @@ https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 
 #-----------------
 
-#EXTINF:-1 group-title="TV-US" tvg-logo="https://graph.facebook.com/miamitv/picture?width=200&height=200" group-title="Int. Otros" tvg-name="Miami TV",Miami TV
+#EXTINF:-1 group-title="TV-US" tvg-logo="https://graph.facebook.com/miamitv/picture?width=200&height=200" tvg-name="Miami TV",Miami TV
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
 
-#EXTINF:-1 group-title="TV-US" tvg-logo="https://graph.facebook.com/miamitv/picture?width=200&height=200" group-title="Int. Otros" tvg-name="Miami TV",Miami TV
+#EXTINF:-1 group-title="TV-US" tvg-logo="https://graph.facebook.com/miamitv/picture?width=200&height=200" tvg-name="Miami TV",Miami TV
 https://59ec5453559f0.streamlock.net/Latino/smil:WEB/playlist.m3u8
 
-#EXTINF:-1 group-title="TV-US" tvg-logo="https://graph.facebook.com/miamitv/picture?width=200&height=200" group-title="Int. Otros" tvg-name="Miami TV",Miami TV
+#EXTINF:-1 group-title="TV-US" tvg-logo="https://graph.facebook.com/miamitv/picture?width=200&height=200" tvg-name="Miami TV",Miami TV
 https://59ec5453559f0.streamlock.net/JennyLive/smil:41235/playlist.m3u8
 
-#EXTINF:-1 group-title="TV-US" tvg-logo="https://graph.facebook.com/miamitv/picture?width=200&height=200" group-title="Int. Otros" tvg-name="Miami TV",Miami TV
+#EXTINF:-1 group-title="TV-US" tvg-logo="https://graph.facebook.com/miamitv/picture?width=200&height=200" tvg-name="Miami TV",Miami TV
 https://59ec5453559f0.streamlock.net/miamitvmusic/smil:WEB/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="LoveNature4K.ca" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Love-Nature-TV.png",Love Nature TV
 #KODIPROP:inputstream=inputstream.adaptive
@@ -648,6 +662,31 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&e
 #KODIPROP:inputstream=inputstream.adaptive
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
+#EXTINF:-1 group-title="TV" tvg-id="Geekdot.br" tvg-logo="https://i.imgur.com/jML1u4O.png",Geekdot
+#KODIPROP:inputstream=inputstream.adaptive
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="Gulli.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Gulli.png",Gulli
+#KODIPROP:inputstream=inputstream.adaptive
+https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/c65696b42ca34e97a9b5f54758d6dd50/cmaf/hlsfmp4_short_q2hyb21h_gulli_sd_index.m3u8
+
+#-----------------
+
+#EXTINF:-1 group-title="TV-Anime" tvg-id="AnimaxAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png",Animax
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L1oxmbJum2k66IGvf/hkzw", "kid":"7fGnFd6XSGON0vrXWkGa8g" } ], "type":"temporary" }
+https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
+
+#EXTINF:-1 group-title="TV-Anime" tvg-id="AnimeTV.br" tvg-logo="https://i.imgur.com/CFSSTID.png",Anime TV
+#KODIPROP:inputstream=inputstream.adaptive
+#https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+
+#EXTINF:-1 group-title="TV-Anime" tvg-id="LocomotionTV.do" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Locomotion.png",Locomotion
+#KODIPROP:inputstream=inputstream.adaptive
+http://51.222.85.85:81/hls/loco/index.m3u8
+
 #EXTINF:-1 group-title="TV-Anime" tvg-id="BabyFirst.br" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/BabyFirst.png",BabyFirst
 #KODIPROP:inputstream=inputstream.adaptive
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
@@ -656,28 +695,11 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e1
 #KODIPROP:inputstream=inputstream.adaptive
 #https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV-Anime" tvg-id="AnimeTV.br" tvg-logo="https://i.imgur.com/CFSSTID.png",Anime TV
-#KODIPROP:inputstream=inputstream.adaptive
-#https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+#-----------------
 
-#EXTINF:-1 group-title="TV" tvg-id="Geekdot.br" tvg-logo="https://i.imgur.com/jML1u4O.png",Geekdot
+#EXTINF:-1 group-title="TV" tvg-id="ClubbingTV.fr" tvg-country="FR" tvg-language="Francais" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Clubbing-TV.png",Clubbing TV
 #KODIPROP:inputstream=inputstream.adaptive
-https://stream.ichibantv.com:3764/hybrid/play.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="LocomotionTV.do" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Locomotion.png",Locomotion
-#KODIPROP:inputstream=inputstream.adaptive
-http://51.222.85.85:81/hls/loco/index.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="Gulli.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Gulli.png",Gulli
-#KODIPROP:inputstream=inputstream.adaptive
-https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/c65696b42ca34e97a9b5f54758d6dd50/cmaf/hlsfmp4_short_q2hyb21h_gulli_sd_index.m3u8
-
-#EXTINF:-1 group-title="TV-Anime" tvg-id="AnimaxAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png",Animax
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L1oxmbJum2k66IGvf/hkzw", "kid":"7fGnFd6XSGON0vrXWkGa8g" } ], "type":"temporary" }
-https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
+https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="TV-Music" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/On-FM.png",On FM Portugal
 #KODIPROP:inputstream=inputstream.adaptive
@@ -698,10 +720,6 @@ https://amg01131-tracetv-tracebrazuca-xiaomi-vvr19.amagi.tv/playlist/amg01131-tr
 #EXTINF:-1 group-title="TV-Music" tvg-id="TraceLatina.fr" tvg-language="´Francais" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TRACE-Latina.png",Trace Latina
 #KODIPROP:inputstream=inputstream.adaptive
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="ClubbingTV.fr" tvg-country="FR" tvg-language="Francais" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Clubbing-TV.png",Clubbing TV
-#KODIPROP:inputstream=inputstream.adaptive
-https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="TV-Music" tvg-id="1HDMusicTelevision.ru" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/1HD.png",1HD Music
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1374,64 +1392,61 @@ https://streaming.proceso.info:8888/vision6-web/stream.m3u8
 #EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-logo="https://graph.facebook.com/television.imas/picture?width=200&height=200" group-title="Castilla-La Mancha" tvg-name="Imás TV",Imás TV
 https://secure3.todostreaming.es/live/imastv-livestream.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/AlcarriaTV/picture?width=200&height=200" group-title="Castilla-La Mancha" tvg-name="Alcarria TV",Alcarria TV
+#EXTINF:-1 group-title="TV-ES" tvg-logo="https://graph.facebook.com/AlcarriaTV/picture?width=200&height=200" group-title="Castilla-La Mancha" tvg-name="Alcarria TV",Alcarria TV
 https://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/AlcarriaTV/picture?width=200&height=200" group-title="Castilla-La Mancha" tvg-name="Alcarria TV",Alcarria TV
+#EXTINF:-1 group-title="TV-ES" tvg-logo="https://graph.facebook.com/AlcarriaTV/picture?width=200&height=200" group-title="Castilla-La Mancha" tvg-name="Alcarria TV",Alcarria TV
 http://217.182.77.27/live/alcarriatv-livestream.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/canal4villarrobledo/picture?width=200&height=200" group-title="Castilla-La Mancha" tvg-name="Canal 4 Mancha Centro",Canal 4 Mancha Centro
+#EXTINF:-1 group-title="TV-ES" tvg-logo="https://graph.facebook.com/canal4villarrobledo/picture?width=200&height=200" group-title="Castilla-La Mancha" tvg-name="Canal 4 Mancha Centro",Canal 4 Mancha Centro
 https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/Teletoledo/picture?width=200&height=200" group-title="Castilla-La Mancha" tvg-name="TeleToledo",TeleToledo
+#EXTINF:-1 group-title="TV-ES" tvg-logo="https://graph.facebook.com/Teletoledo/picture?width=200&height=200" group-title="Castilla-La Mancha" tvg-name="TeleToledo",TeleToledo
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12688&live=1
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/canal2000/picture?width=200&height=200" group-title="Castilla-La Mancha" tvg-name="Canal 2000",Canal 2000
+#EXTINF:-1 group-title="TV-ES" tvg-logo="https://graph.facebook.com/canal2000/picture?width=200&height=200" group-title="Castilla-La Mancha" tvg-name="Canal 2000",Canal 2000
 http://canal2000.berkano-systems.net/streaming/streams/canal2000-720p.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/575943555801687/picture?width=200&height=200" group-title="Castilla y León" tvg-name="TV Aranda",TV Aranda
+#EXTINF:-1 group-title="TV-ES" tvg-logo="https://graph.facebook.com/575943555801687/picture?width=200&height=200" group-title="Castilla y León" tvg-name="TV Aranda",TV Aranda
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12686&live=1
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/juntadecastillayleon/picture?width=200&height=200" group-title="Castilla y León" tvg-name="Junta Castilla y León",Junta Castilla y León
+#EXTINF:-1 group-title="TV-ES" tvg-logo="https://graph.facebook.com/juntadecastillayleon/picture?width=200&height=200" group-title="Castilla y León" tvg-name="Junta Castilla y León",Junta Castilla y León
 https://16escalones-live2.flumotion.com/chunks.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="TV3.TV" tvg-logo="https://pbs.twimg.com/profile_images/1269286508625891328/rVes9BS__200x200.png" group-title="Cataluña" tvg-name="TV3",TV3 GEO CAT
-https://directes3-tv-cat.3catdirectes.cat/live-content/tv3-hls/master.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="324.TV" tvg-logo="https://graph.facebook.com/324cat/picture?width=200&height=200" group-title="Cataluña" tvg-name="324",324
+#EXTINF:-1 group-title="TV-ES" tvg-id="324.TV" tvg-logo="https://graph.facebook.com/324cat/picture?width=200&height=200" group-title="Cataluña" tvg-name="324",324
 https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/som3Cat/picture?width=200&height=200" group-title="Cataluña" tvg-name="3CAT Exclusiu 1",3CAT Exclusiu 1 GEO CAT
+#EXTINF:-1 group-title="TV-ES" tvg-logo="https://graph.facebook.com/som3Cat/picture?width=200&height=200" group-title="Cataluña" tvg-name="3CAT Exclusiu 1",3CAT Exclusiu 1 GEO CAT
 https://directes-tv-cat.3catdirectes.cat/live-content/oca1-hls/master.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/som3Cat/picture?width=200&height=200" group-title="Cataluña" tvg-name="3CAT Exclusiu 1",3CAT Exclusiu 1 GEO
+#EXTINF:-1 group-title="TV-ES" tvg-logo="https://graph.facebook.com/som3Cat/picture?width=200&height=200" group-title="Cataluña" tvg-name="3CAT Exclusiu 1",3CAT Exclusiu 1 GEO
 https://directes-tv-es.3catdirectes.cat/live-content/oca1-hls/master.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/som3Cat/picture?width=200&height=200" group-title="Cataluña" tvg-name="3CAT Exclusiu 2",3CAT Exclusiu 2 GEO CAT
+#EXTINF:-1 group-title="TV-ES" tvg-logo="https://graph.facebook.com/som3Cat/picture?width=200&height=200" group-title="Cataluña" tvg-name="3CAT Exclusiu 2",3CAT Exclusiu 2 GEO CAT
 https://directes-tv-cat.3catdirectes.cat/live-content/oca2-hls/master.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/som3Cat/picture?width=200&height=200" group-title="Cataluña" tvg-name="3CAT Exclusiu 2",3CAT Exclusiu 2 GEO
+#EXTINF:-1 group-title="TV-ES" tvg-logo="https://graph.facebook.com/som3Cat/picture?width=200&height=200" group-title="Cataluña" tvg-name="3CAT Exclusiu 2",3CAT Exclusiu 2 GEO
 https://directes-tv-es.3catdirectes.cat/live-content/oca2-hls/master.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/som3Cat/picture?width=200&height=200" group-title="Cataluña" tvg-name="3CAT Exclusiu 3",3CAT Exclusiu 3 GEO CAT
+#EXTINF:-1 group-title="TV-ES" tvg-logo="https://graph.facebook.com/som3Cat/picture?width=200&height=200" group-title="Cataluña" tvg-name="3CAT Exclusiu 3",3CAT Exclusiu 3 GEO CAT
 https://directes-tv-cat.3catdirectes.cat/live-content/oca3-hls/master.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/som3Cat/picture?width=200&height=200" group-title="Cataluña" tvg-name="3CAT Exclusiu 3",3CAT Exclusiu 3 GEO
+#EXTINF:-1 group-title="TV-ES" tvg-logo="https://graph.facebook.com/som3Cat/picture?width=200&height=200" group-title="Cataluña" tvg-name="3CAT Exclusiu 3",3CAT Exclusiu 3 GEO
 https://directes-tv-es.3catdirectes.cat/live-content/oca1-hls/master.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/som3Cat/picture?width=200&height=200" group-title="Cataluña" tvg-name="3CAT Joc de Cartes",3CAT Joc de Cartes
+#EXTINF:-1 group-title="TV-ES" tvg-logo="https://graph.facebook.com/som3Cat/picture?width=200&height=200" group-title="Cataluña" tvg-name="3CAT Joc de Cartes",3CAT Joc de Cartes
 https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel1/hls.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/som3Cat/picture?width=200&height=200" group-title="Cataluña" tvg-name="3CAT Plats bruts",3CAT Plats bruts
+#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-logo="https://graph.facebook.com/som3Cat/picture?width=200&height=200" group-title="Cataluña" tvg-name="3CAT Plats bruts",3CAT Plats bruts
 https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="24H_CAT" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="Cataluña" tvg-name="24h Catalunya",24h Catalunya
+#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="24H_CAT" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="Cataluña" tvg-name="24h Catalunya",24h Catalunya
 https://ztnr.rtve.es/ztnr/4952053.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="BonDiaTV_CAT.TV" tvg-logo="https://i2.wp.com/blocs.mesvilaweb.cat/wp-content/uploads/sites/1858/2018/11/BONDIA.png" group-title="Cataluña" tvg-name="Bon Dia TV",Bon Dia TV
+#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="BonDiaTV_CAT.TV" tvg-logo="https://i2.wp.com/blocs.mesvilaweb.cat/wp-content/uploads/sites/1858/2018/11/BONDIA.png" group-title="Cataluña" tvg-name="Bon Dia TV",Bon Dia TV
 https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="BTV.TV" tvg-logo="https://graph.facebook.com/betevecat/picture?width=200&height=200" group-title="Cataluña" tvg-name="betevé",betevé
+#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="BTV.TV" tvg-logo="https://graph.facebook.com/betevecat/picture?width=200&height=200" group-title="Cataluña" tvg-name="betevé",betevé
 https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/protocol/https/format/applehttp/a.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
 
 #EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-logo="https://graph.facebook.com/GRUP4COM/picture?width=200&height=200" group-title="Cataluña" tvg-name="Canal 4 TV Cataluña",Canal 4 TV Cataluña
@@ -1549,73 +1564,73 @@ https://ingest1-video.streaming-pro.com/canaltaronja/sabadell/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/FitelTelevision/picture?width=200&height=200" group-title="Cataluña" tvg-name="Fitel Television",Fitel Television
 https://tv.mywifisocial.es/live.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/1397103013646307/picture?width=200&height=200" group-title="Cataluña" tvg-name="TV Gran Vía Radio",TV Gran Vía Radio
+#EXTINF:-1 group-title="TV-ES" tvg-logo="https://graph.facebook.com/1397103013646307/picture?width=200&height=200" group-title="Cataluña" tvg-name="TV Gran Vía Radio",TV Gran Vía Radio
 https://streamlov.alsolnet.com/granviaradiofm/live/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="Telemadrid.TV" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="C. de Madrid" tvg-name="Telemadrid",Telemadrid
+#EXTINF:-1 group-title="TV-ES" tvg-id="Telemadrid.TV" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="C. de Madrid" tvg-name="Telemadrid",Telemadrid
 https://telemadrid-23-secure2.akamaized.net/master.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="Telemadrid.TV" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="C. de Madrid" tvg-name="Telemadrid",Telemadrid
+#EXTINF:-1 group-title="TV-ES" tvg-id="Telemadrid.TV" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="C. de Madrid" tvg-name="Telemadrid",Telemadrid
 https://eventos-23-secure2.akamaized.net/eventos_1-hls/master.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="Telemadrid.TV" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="C. de Madrid" tvg-name="Telemadrid",Telemadrid
+#EXTINF:-1 group-title="TV-ES" tvg-id="Telemadrid.TV" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="C. de Madrid" tvg-name="Telemadrid",Telemadrid
 https://eventos-23-secure2.akamaized.net/eventos_2-hls/master.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="Telemadrid.TV" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="C. de Madrid" tvg-name="Telemadrid",Telemadrid
+#EXTINF:-1 group-title="TV-ES" tvg-id="Telemadrid.TV" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="C. de Madrid" tvg-name="Telemadrid",Telemadrid
 https://eventos-23-secure2.akamaized.net/eventos_3-hls/master.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="LaOtra.TV" tvg-logo="https://pbs.twimg.com/profile_images/1279727978268839938/jSZUiboT_200x200.jpg" group-title="C. de Madrid" tvg-name="LaOtra",LaOtra
+#EXTINF:-1 group-title="TV-ES" tvg-id="LaOtra.TV" tvg-logo="https://pbs.twimg.com/profile_images/1279727978268839938/jSZUiboT_200x200.jpg" group-title="C. de Madrid" tvg-name="LaOtra",LaOtra
 https://laotra-1-23-secure2.akamaized.net/master.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="OndaMadrid.TV" tvg-logo="https://graph.facebook.com/ondamadridradio/picture?width=200&height=200" group-title="C. de Madrid" tvg-name="Webcam OndaMadrid",Webcam OndaMadrid
+#EXTINF:-1 group-title="TV-ES" tvg-id="OndaMadrid.TV" tvg-logo="https://graph.facebook.com/ondamadridradio/picture?width=200&height=200" group-title="C. de Madrid" tvg-name="Webcam OndaMadrid",Webcam OndaMadrid
 https://tvradio-1-23-secure2.akamaized.net/master.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/1423419417957760/picture?width=200&height=200" group-title="C. de Madrid" tvg-name="Teleganés",Teleganés
+#EXTINF:-1 group-title="TV-ES" tvg-logo="https://graph.facebook.com/1423419417957760/picture?width=200&height=200" group-title="C. de Madrid" tvg-name="Teleganés",Teleganés
 https://live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="Distrito.TV" tvg-logo="https://graph.facebook.com/2004860103163343/picture?width=200&height=200" group-title="C. de Madrid" tvg-name="Distrito TV",Distrito TV
+#EXTINF:-1 group-title="TV-ES" tvg-id="Distrito.TV" tvg-logo="https://graph.facebook.com/2004860103163343/picture?width=200&height=200" group-title="C. de Madrid" tvg-name="Distrito TV",Distrito TV
 https://live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="Dejate.TV" tvg-logo="https://graph.facebook.com/DejateDeHistoriasTV/picture?width=200&height=200" group-title="C. de Madrid" tvg-name="Déjate de Historias TV",Déjate de Historias TV
+#EXTINF:-1 group-title="TV-ES" tvg-id="Dejate.TV" tvg-logo="https://graph.facebook.com/DejateDeHistoriasTV/picture?width=200&height=200" group-title="C. de Madrid" tvg-name="Déjate de Historias TV",Déjate de Historias TV
 https://limited44.todostreaming.es/live/dejatedeh-livestream.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="C33M.TV" tvg-logo="https://graph.facebook.com/Canal33Madrid/picture?width=200&height=200" group-title="C. de Madrid" tvg-name="C33 Madrid",C33 Madrid
+#EXTINF:-1 group-title="TV-ES" tvg-id="C33M.TV" tvg-logo="https://graph.facebook.com/Canal33Madrid/picture?width=200&height=200" group-title="C. de Madrid" tvg-name="C33 Madrid",C33 Madrid
 https://media2.streambrothers.com:1936/8140/8140/.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/100146922067408/picture?width=200&height=200" group-title="C. de Madrid" tvg-name="EsTuTele",EsTuTele
+#EXTINF:-1 group-title="TV-ES" tvg-logo="https://graph.facebook.com/100146922067408/picture?width=200&height=200" group-title="C. de Madrid" tvg-name="EsTuTele",EsTuTele
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12680&live=1
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/GRUP4COM/picture?width=200&height=200" group-title="C. de Madrid" tvg-name="Canal 4 TV Madrid",Canal 4 TV Madrid
+#EXTINF:-1 group-title="TV-ES" tvg-logo="https://graph.facebook.com/GRUP4COM/picture?width=200&height=200" group-title="C. de Madrid" tvg-name="Canal 4 TV Madrid",Canal 4 TV Madrid
 https://limited35.todostreaming.es/live/mitjans-livestream2.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/liratvlive/picture?width=200&height=200" group-title="C. de Madrid" tvg-name="LIRA TV",LIRA TV
+#EXTINF:-1 group-title="TV-ES" tvg-logo="https://graph.facebook.com/liratvlive/picture?width=200&height=200" group-title="C. de Madrid" tvg-name="LIRA TV",LIRA TV
 https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://pbs.twimg.com/profile_images/780539549239902208/g2MfVVuY_200x200.jpg" group-title="C. Foral de Navarra" tvg-name="TeleRibera",TeleRibera
+#EXTINF:-1 group-title="TV-ES" tvg-logo="https://pbs.twimg.com/profile_images/780539549239902208/g2MfVVuY_200x200.jpg" group-title="C. Foral de Navarra" tvg-name="TeleRibera",TeleRibera
 https://video3.lhdserver.es/teleribera/live.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://pbs.twimg.com/profile_images/1517046445030924289/r4OIw84T_200x200.jpg" group-title="C. Foral de Navarra" tvg-name="Parlamento de Navarra",Parlamento de Navarra
+#EXTINF:-1 group-title="TV-ES" tvg-logo="https://pbs.twimg.com/profile_images/1517046445030924289/r4OIw84T_200x200.jpg" group-title="C. Foral de Navarra" tvg-name="Parlamento de Navarra",Parlamento de Navarra
 https://broadcasting.parlamentodenavarra.es/live/canal1/playlist.m3u8?DVR
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://pbs.twimg.com/profile_images/1517046445030924289/r4OIw84T_200x200.jpg" group-title="C. Foral de Navarra" tvg-name="Parlamento de Navarra",Parlamento de Navarra
+#EXTINF:-1 group-title="TV-ES" tvg-logo="https://pbs.twimg.com/profile_images/1517046445030924289/r4OIw84T_200x200.jpg" group-title="C. Foral de Navarra" tvg-name="Parlamento de Navarra",Parlamento de Navarra
 https://broadcasting.parlamentodenavarra.es/live/canal2/playlist.m3u8?DVR
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://pbs.twimg.com/profile_images/1517046445030924289/r4OIw84T_200x200.jpg" group-title="C. Foral de Navarra" tvg-name="Parlamento de Navarra",Parlamento de Navarra
+#EXTINF:-1 group-title="TV-ES" tvg-logo="https://pbs.twimg.com/profile_images/1517046445030924289/r4OIw84T_200x200.jpg" group-title="C. Foral de Navarra" tvg-name="Parlamento de Navarra",Parlamento de Navarra
 https://broadcasting.parlamentodenavarra.es/live/canal3/playlist.m3u8?DVR
 
-#EXTINF:-1 group-title="TV" tvg-id="APUNT.TV" tvg-logo="https://graph.facebook.com/apuntmedia/picture?width=200&height=200" group-title="C. Valenciana" tvg-name="À Punt",À Punt
+#EXTINF:-1 group-title="TV-ES" tvg-id="APUNT.TV" tvg-logo="https://graph.facebook.com/apuntmedia/picture?width=200&height=200" group-title="C. Valenciana" tvg-name="À Punt",À Punt
 https://bcovlive-a.akamaihd.net/8499d938ef904e39b58a4adec2ddeada/eu-west-1/6057955885001/playlist_dvr.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="7Televalencia.TV" tvg-logo="https://pbs.twimg.com/profile_images/1876660632478437376/rbEqYeqC_200x200.jpg" group-title="C. Valenciana" tvg-name="7 TeleValencia",7 TeleValencia
+#EXTINF:-1 group-title="TV-ES" tvg-id="7Televalencia.TV" tvg-logo="https://pbs.twimg.com/profile_images/1876660632478437376/rbEqYeqC_200x200.jpg" group-title="C. Valenciana" tvg-name="7 TeleValencia",7 TeleValencia
 https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/Intercomarcal.Television/picture?width=200&height=200" group-title="C. Valenciana" tvg-name="Intercomarcal TV",Intercomarcal TV
+#EXTINF:-1 group-title="TV-ES" tvg-logo="https://graph.facebook.com/Intercomarcal.Television/picture?width=200&height=200" group-title="C. Valenciana" tvg-name="Intercomarcal TV",Intercomarcal TV
 https://streamingtvi.gestec-video.com/hls/tvixa.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/Intercomarcal.Television/picture?width=200&height=200" group-title="C. Valenciana" tvg-name="Intercomarcal TV",Intercomarcal TV
+#EXTINF:-1 group-title="TV-ES" tvg-logo="https://graph.facebook.com/Intercomarcal.Television/picture?width=200&height=200" group-title="C. Valenciana" tvg-name="Intercomarcal TV",Intercomarcal TV
 https://streamingtvi.gestec-video.com/hls/tvixa1.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/Intercomarcal.Television/picture?width=200&height=200" group-title="C. Valenciana" tvg-name="Intercomarcal TV",Intercomarcal TV
+#EXTINF:-1 group-title="TV-ES" tvg-logo="https://graph.facebook.com/Intercomarcal.Television/picture?width=200&height=200" group-title="C. Valenciana" tvg-name="Intercomarcal TV",Intercomarcal TV
 https://streamingtvi.gestec-video.com/hls/tvixa3.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="TeleElx.TV" tvg-logo="https://graph.facebook.com/teleelx/picture?width=200&height=200" group-title="C. Valenciana" tvg-name="TeleElx",TeleElx
@@ -1952,12 +1967,6 @@ https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1h
 #EXTINF:-1 group-title="TV-AL" tvg-logo="https://graph.facebook.com/vizionplustv/picture?width=200&height=200" group-title="Int. Europa" tvg-name="VizionPlus Albania",VizionPlus Albania
 https://fe.tring.al/delta/105/out/u/rdghfhsfhfshs.m3u8
 
-#EXTINF:-1 group-title="TV-UA" tvg-logo="https://graph.facebook.com/news24ukraine/picture?width=200&height=200" group-title="Int. Europa" tvg-name="Channel 24 Ucrania",Channel 24 Ucrania
-http://streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/kanalfreedom/picture?width=200&height=200" group-title="Int. Europa" tvg-name="UATV Ucrania",UATV Ucrania
-https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
-
 #EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/currenttimetv/picture?width=200&height=200" group-title="Int. Europa" tvg-name="Current Time TV",Current Time TV
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/livenowfox/picture?width=200&height=200" group-title="Int. América" tvg-name="FOX Live Now USA",FOX Live Now USA EN
@@ -2224,28 +2233,28 @@ https://rrsatrtmp.tulix.tv/tvge1/tvge1multi.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/televisionsaharaui/picture?width=200&height=200" group-title="Int. África" tvg-name="RASD TV",RASD TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12830&live=1
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/abcnews.au/picture?width=200&height=200" group-title="Int. Otros" tvg-name="ABC News Australia",ABC News Australia EN
+#EXTINF:-1 group-title="TV-AU" tvg-logo="https://graph.facebook.com/abcnews.au/picture?width=200&height=200" tvg-name="ABC News Australia",ABC News Australia EN
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2bc792/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://yt3.ggpht.com/fTP5oS376nZhVbS55-OocogCJCDH4UXIyRrirF6keIya4AN4I54TmLkFnnjvE4FRq5UMv8BO=s200" group-title="Int. Otros" tvg-name="Bloomberg Quicktake",Bloomberg Quicktake EN
+#EXTINF:-1 group-title="TV-US" tvg-logo="https://yt3.ggpht.com/fTP5oS376nZhVbS55-OocogCJCDH4UXIyRrirF6keIya4AN4I54TmLkFnnjvE4FRq5UMv8BO=s200" tvg-name="Bloomberg Quicktake",Bloomberg Quicktake EN
 https://www.bloomberg.com/media-manifest/streams/qt.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/TastemadeEs/picture?width=200&height=200" group-title="Int. Otros" tvg-name="Tastemade",Tastemade
+#EXTINF:-1 group-title="TV-Others" tvg-logo="https://graph.facebook.com/TastemadeEs/picture?width=200&height=200" tvg-name="Tastemade",Tastemade
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees16international24i-ono/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/TastemadeEs/picture?width=200&height=200" group-title="Int. Otros" tvg-name="Tastemade",Tastemade EN
+#EXTINF:-1 group-title="TV-Others" tvg-logo="https://graph.facebook.com/TastemadeEs/picture?width=200&height=200" tvg-name="Tastemade",Tastemade EN
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadeinternationalenglish24i-ono/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/FTV/picture?width=200&height=200" group-title="Int. Otros" tvg-name="Fashion TV",Fashion TV
+#EXTINF:-1 group-title="TV-Other" tvg-logo="https://graph.facebook.com/FTV/picture?width=200&height=200" tvg-name="Fashion TV",Fashion TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=5457&live=1
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://pbs.twimg.com/profile_images/956583141245775872/2en3-8Ag_200x200.jpg" group-title="Int. Otros" tvg-name="Classic Arts Showcase",Classic Arts Showcase EN
+#EXTINF:-1 group-title="TV-Other" tvg-logo="https://pbs.twimg.com/profile_images/956583141245775872/2en3-8Ag_200x200.jpg" tvg-name="Classic Arts Showcase",Classic Arts Showcase EN
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/WatchAKCTV/picture?width=200&height=200" group-title="Int. Otros" tvg-name="AKC TV Dogs",AKC TV Dogs EN
+#EXTINF:-1 group-title="TV-Others" tvg-logo="https://graph.facebook.com/WatchAKCTV/picture?width=200&height=200" tvg-name="AKC TV Dogs",AKC TV Dogs EN
 https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/WatchAKCTV/picture?width=200&height=200" group-title="Int. Otros" tvg-name="AKC TV Dogs",AKC TV Dogs EN
+#EXTINF:-1 group-title="TV-Others" tvg-logo="https://graph.facebook.com/WatchAKCTV/picture?width=200&height=200" tvg-name="AKC TV Dogs",AKC TV Dogs EN
 https://install.akctvcontrol.com/speed/broadcast/141/desktop-playlist.m3u8
 
 #EXTINF:-1 group-title="TV-Sports" tvg-logo="https://graph.facebook.com/Motorsport.tvUK/picture?width=200&height=200" tvg-name="Motorsport.tv",Motorsport.tv
@@ -2334,12 +2343,6 @@ https://stream.cmctv.hr:49998/cmc/live.m3u8
 
 #EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/skyfolk.mk/picture?width=200&height=200" tvg-name="Sky Folk Macedonia",Sky Folk Macedonia
 https://eu.live.skyfolk.mk/live.m3u8
-
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/onemusicchannel/picture?width=200&height=200" tvg-name="1Muz Bielorrusia",1Muz Bielorrusia
-http://hz1.teleport.cc/HLS/HD.m3u8
-
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/onemusicchannel/picture?width=200&height=200" tvg-name="1Muz Bielorrusia",1Muz Bielorrusia
-http://hz1.teleport.cc/HLS/SD.m3u8
 
 #EXTINF:-1 group-title="TV-Music" tvg-logo="https://yt3.ggpht.com/NRCQpVxbetuJyjtPjotQ4H7rq3nfFm0J2VEc2aBs7XQV7-lBFqZMfu2tGZNGOfl7TPPdQjCMxQ=s200" tvg-name="RU.TV Rusia",RU.TV Rusia
 https://hls-03-video.webcaramba.com/rutv/live.m3u8
