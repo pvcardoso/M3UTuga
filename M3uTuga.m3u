@@ -699,24 +699,24 @@ https://w2.manasat.com/kcine/kcine.smil/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 https://w2.manasat.com/kkids/kkids.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="KuriakosMusic.pt" tvg-country="PT' tvg-language="Português" tvg-logo="https://kuriakosmusic.com/wp-content/uploads/2022/11/263x196_v1.png",Kuriakos Music
+#EXTINF:-1 group-title="TV-Music" tvg-id="KuriakosMusic.pt" tvg-country="PT' tvg-language="Português" tvg-logo="https://kuriakosmusic.com/wp-content/uploads/2022/11/263x196_v1.png",Kuriakos Music
 #KODIPROP:inputstream=inputstream.adaptive
 https://w2.manasat.com/kmusic/kmusic.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="TVCancaoNova.pt" tvg-logo="https://tv.cancaonova.pt/wp-content/uploads/2016/01/logo_cn_radio.png",Canção Nova
+#EXTINF:-1 group-title="TV-Religious" tvg-id="TVCancaoNova.pt" tvg-logo="https://tv.cancaonova.pt/wp-content/uploads/2016/01/logo_cn_radio.png",Canção Nova
 #KODIPROP:inputstream=inputstream.adaptive
 https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="MyTimeMovieNetworkEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/HYgxPVQ.png",MyTime Movie Network (1080p) 
+#EXTINF:-1 group-title="TV-Movies" tvg-id="MyTimeMovieNetworkEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/HYgxPVQ.png",MyTime Movie Network (1080p) 
 https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="NPCRadioeTV.pt",NPC Rádio e TV (720p)
 https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="Pluto TV MTV",Pluto TV MTV Originals (Spain) (480p)
+#EXTINF:-1 group-title="TV-Music" tvg-id="Pluto TV MTV",Pluto TV MTV Originals (Spain) (480p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aadf373bed3000794d1d7/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1aadf373bed3000794d1d7&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=300&terminate=false&userId=
 
-#EXTINF:-1 group-title="TV" tvg-id="MSNBC" tvg-country="US" tvg-language="English" tvg-logo="tvg-logo="https://i.imgur.com/XpZdSKH.gif",MSNBC (1080p) 
+#EXTINF:-1 group-title="TV-WorldNews" tvg-id="MSNBC" tvg-country="US" tvg-language="English" tvg-logo="tvg-logo="https://i.imgur.com/XpZdSKH.gif",MSNBC (1080p) 
 http://41.205.93.154/MSNBC/index.m3u8
 
 #EXTINF:-1  group-title="TV" tvg-id="BloombergQuicktake.us",Bloomberg Quicktake (1080p)
@@ -737,7 +737,7 @@ http://luong.utako.moe/js4/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="space_shower" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/SPACE_SHOWER_TV.jpg",Space Shower TV
 http://luong.utako.moe/spaceshower/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="nhkg_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G
+#EXTINF:-1 group-title="TV-JP" tvg-id="nhkg_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G
 http://vthanh.utako.moe/NHK_G/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="mbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1920px-Mainichi_Broadcasting_System_logo.svg.png",MBS
@@ -749,11 +749,11 @@ http://luong.utako.moe/abc/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="tv_osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tv_osaka_logo.svg/178px-Tv_osaka_logo.svg.png",TV Osaka
 http://luong.utako.moe/tvo/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="AviationTV",AviationTV
+#EXTINF:-1 group-title="TV-PT" tvg-id="AviationTV",AviationTV
 #KODIPROP:inputstream=inputstream.adaptive
 https://www.youtube.com/watch?v=B7zZOt2iKQI
 
-#EXTINF:-1 group-title="TV" tvg-id="AfrobeatTVEntertainment.uk",Afrobeats (1080p)
+#EXTINF:-1 group-title="TV-Music" tvg-id="AfrobeatTVEntertainment.uk",Afrobeats (1080p)
 https://stream.ecable.tv/afrobeats/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="DRTV.dk",DRTV (1080p)
@@ -777,34 +777,34 @@ http://sdream.info:8080/hls/livestream/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="TVCidade.cv",TV Cidade (614p)
 https://stmv1.srvif.com/tvcidade/tvcidade/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="La1_CAT.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Cataluña" tvg-name="La 1 Catalunya",La 1 Catalunya
+#EXTINF:-1 group-title="TV-ES" tvg-id="La1_CAT.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Cataluña" tvg-name="La 1 Catalunya",La 1 Catalunya
 https://ztnr.rtve.es/ztnr/3293681.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="La1_CAT.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Cataluña" tvg-name="La 1 Catalunya",La 1 Catalunya
+#EXTINF:-1 group-title="TV-ES" tvg-id="La1_CAT.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Cataluña" tvg-name="La 1 Catalunya",La 1 Catalunya
 https://rtvelivestream.akamaized.net/rtvesec/cat/la1_cat_main_dvr.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="La2_CAT.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Cataluña" tvg-name="La 2 Catalunya",La 2 Catalunya
+#EXTINF:-1 group-title="TV-ES" tvg-id="La2_CAT.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Cataluña" tvg-name="La 2 Catalunya",La 2 Catalunya
 https://ztnr.rtve.es/ztnr/3987218.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="La2_CAT.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Cataluña" tvg-name="La 2 Catalunya",La 2 Catalunya
+#EXTINF:-1 group-title="TV-ES" tvg-id="La2_CAT.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Cataluña" tvg-name="La 2 Catalunya",La 2 Catalunya
 https://rtvelivestream.akamaized.net/rtvesec/cat/la2_cat_main_dvr.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="La1_CAN.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="La 1 Canarias",La 1 Canarias
 https://ztnr.rtve.es/ztnr/5190066.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="La2_CAN.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Generalistas" tvg-name="La 2 Canarias",La 2 Canarias
+#EXTINF:-1 group-title="TV-ES" tvg-id="La2_CAN.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Generalistas" tvg-name="La 2 Canarias",La 2 Canarias
 https://ztnr.rtve.es/ztnr/5468585.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="La 1",La 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="La 1",La 1
+#EXTINF:-1 group-title="TV-ES" tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="La 1",La 1
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
 
-#EXTINF:-1 group-title="TV"  tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="La 1",La 1
+#EXTINF:-1 group-title="TV-ES"  tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="La 1",La 1
 https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
 
-#EXTINF:-1 group-title="TV"  tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Generalistas" tvg-name="La 2",La 2
+#EXTINF:-1 group-title="TV-ES"  tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Generalistas" tvg-name="La 2",La 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 
 #EXTINF:-1 group-title="TV"  tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Generalistas" tvg-name="La 2",La 2
