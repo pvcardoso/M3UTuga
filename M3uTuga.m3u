@@ -654,7 +654,7 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/va
 #KODIPROP:inputstream=inputstream.adaptive
 #https://admdn4.cdn.mangomolo.com/adsports4/adsports4.stream.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="YasTV.ae" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Yas-TV.png",Yas TV
+#EXTINF:-1 group-title="TV-1" tvg-id="YasTV.ae" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Yas-TV.png",Yas TV
 #KODIPROP:inputstream=inputstream.adaptive
 #https://admdn1.cdn.mangomolo.com/yastv/yastv.stream.smil/playlist.m3u8
 
@@ -671,7 +671,10 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/dubaisportshd.smil/index.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/dubaisportshd5.smil/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="DubaiRacing.ae" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Dubai-Racing.png",Dubai Racing
+#EXTINF:-1 group-title="TV-Sports" tvg-id="ACISportTV.it",ACI Sport TV (1080p)
+https://g4wlk6xpy23a-hls-live.mariatvcdn.it/acisporttv/b7a3464f8e2001314de9fefebf11229d.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="TV-Sports" tvg-id="DubaiRacing.ae" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Dubai-Racing.png",Dubai Racing
 #KODIPROP:inputstream=inputstream.adaptive
 #https://dmisvthvll.cdn.mangomolo.com/events/events.smil/index.m3u8
 
@@ -2429,12 +2432,6 @@ https://5db313b643fd8.streamlock.net/111TV/111TV/playlist.m3u8
 
 #EXTINF:-1 group-title="TV-IT" tvg-country="IT" tvg-language="Italiano" tvg-id="A2iTV.it",A2i TV (1080p)
 https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
-
-#EXTINF:-1 group-title="TV-IT" tvg-country="IT" tvg-language="Italiano" tvg-id="ABChannel.it",AB Channel (720p)
-https://tsw.streamingwebtv24.it:1936/abchanneltv/abchanneltv/playlist.m3u8
-
-#EXTINF:-1 group-title="TV-Sports" tvg-id="ACISportTV.it",ACI Sport TV (1080p)
-https://g4wlk6xpy23a-hls-live.mariatvcdn.it/acisporttv/b7a3464f8e2001314de9fefebf11229d.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="TV-IT" tvg-id="Adnkronos.it",Adnkronos (720p)
 https://5e73cf528f404.streamlock.net/GR_sport/livestream/playlist.m3u8
