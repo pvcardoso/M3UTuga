@@ -196,6 +196,10 @@ https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 https://euronews-live-por-pt.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6572/bitok/eyJzdGlkIjoiOWE0ZWZmNzItMmE0ZC00NmFjLWIzZjgtNzJiNjIzODU3N2I5IiwibWt0IjoicHQiLCJjaCI6NjU3MiwicHRmIjo1fQ==/26035/euronews-pt.m3u8
 
+#EXTINF:-1 group-title="TV-PT" tvg-id="Euronews PT" tvg-country="PT" tvg-language="Português" tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" ,Euronews PT
+#KODIPROP:inputstream=inputstream.adaptive
+https://euronews-live-por-pt.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6572/7392d4f0-7e24-4dbe-8482-f165e712eeed/5.m3u8
+
 #-----------------
 
 #EXTINF:-1 group-title="TV-BR" tvg-id="CNNBrasil.br" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Brasil.png",CNN Brasil
@@ -233,6 +237,13 @@ https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/playli
 #EXTINF:-1 group-title="TV-FR" tvg-id="France24English.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/France-24.png",France 24 English
 #KODIPROP:inputstream=inputstream.adaptive
 https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
+
+#-----------------
+
+#EXTINF:-1 group-title="TV-CU" tvg-id="CubavisionInternacional.cu" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Cubavisión-Internacional.png",Cubavisión Internacional
+#EXTVLCOPT:http-referrer=https://teveo.cu/
+#KODIPROP:inputstream=inputstream.adaptive
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
 
 #-----------------
 
@@ -318,7 +329,8 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(
 
 #EXTINF:-1 group-title="TV-WorldNews" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Africa_news.png",Africa News
 #KODIPROP:inputstream=inputstream.adaptive
-https://37c774660687468c821a51190046facf.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-gb_AfricaNews/playlist.m3u8
+https://youtu.be/NQjabLGdP5g
+#https://37c774660687468c821a51190046facf.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-gb_AfricaNews/playlist.m3u8
 
 #EXTINF:-1 group-title="TV-WorldNews" tvg-id="Euronews.TV" tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" tvg-name="Euronews.TV",Euronews.TV
 https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/eyJzdGlkIjoiMDA0YjY0NTMtYjY2MC00ZTZkLTlkNzEtMTk3YTM3ZDZhZWIxIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjoxfQ==/26034/euronews-es.m3u8
@@ -386,6 +398,165 @@ https://amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv/playlist/amg010
 
 #-----------------
 
+#EXTINF:-1 group-title="TV-ES" tvg-id="TVE24h.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVE-24h.png",TVE 24h
+#KODIPROP:inputstream=inputstream.adaptive
+https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main.m3u8
+
+#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="RakutenViki.es" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Rakuten_Viki.png",Rakuten Viki
+#KODIPROP:inputstream=inputstream.adaptive
+https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8
+
+#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="GaliciaTVEuropa.es" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVG.png",TV Galicia
+#KODIPROP:inputstream=inputstream.adaptive
+https://crtvg-europa.flumotion.cloud/playlist.m3u8
+
+#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="Telemadrid.es" tvg-logo="",TeleMadrid
+#KODIPROP:inputstream=inputstream.adaptive
+https://telemadrid-23.secure2.footprint.net/master.m3u8
+
+#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="TV3cat.es" tvg-logo="",TV3 Catalunya
+#KODIPROP:inputstream=inputstream.adaptive
+https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
+
+#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="Canal324.es" tvg-logo="",Canal 324
+#KODIPROP:inputstream=inputstream.adaptive
+https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
+
+#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="CanalMalaga.es" tvg-logo="",Canal Málaga
+#KODIPROP:inputstream=inputstream.adaptive
+http://canalmalaga-tv-live.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="AragonTV.es" tvg-logo="",Aragón TV
+#KODIPROP:inputstream=inputstream.adaptive
+http://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+
+#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="ETB1.es" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ETB-1.png",ETB 1
+#KODIPROP:inputstream=inputstream.adaptive
+https://multimedia.eitb.eus/live-content/etb1hd-hls/index.m3u8
+
+#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="ETB2.es" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ETB-2.png",ETB 2
+#KODIPROP:inputstream=inputstream.adaptive
+https://multimedia.eitb.eus/live-content/etb2hd-hls/index.m3u8
+
+#EXTINF:-1 group-title="TV-ES" tvg-id="ETBBasque.es" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/EITB-EUS.png",EITB Basque
+#KODIPROP:inputstream=inputstream.adaptive
+https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
+
+#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="CanalExtremadura.es" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Canal-Extremadura.png",Canal Extremadura
+#KODIPROP:inputstream=inputstream.adaptive
+https://cdnapisec.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_1u7ssdy3/protocol/https/format/applehttp/flavorIds/1_8xbndriw/a.m3u8
+
+#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="GaliciaTVEuropa.es" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVG.png",TV Galicia
+#KODIPROP:inputstream=inputstream.adaptive
+https://crtvg-europa.flumotion.cloud/playlist.m3u8
+
+#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="Telemadrid.es" tvg-logo="",TeleMadrid
+#KODIPROP:inputstream=inputstream.adaptive
+https://telemadrid-23.secure2.footprint.net/master.m3u8
+
+#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="TV3cat.es" tvg-logo="",TV3 Catalunya
+#KODIPROP:inputstream=inputstream.adaptive
+https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
+
+#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="Canal324.es" tvg-logo="",Canal 324
+#KODIPROP:inputstream=inputstream.adaptive
+https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
+
+#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="CanalMalaga.es" tvg-logo="",Canal Málaga
+#KODIPROP:inputstream=inputstream.adaptive
+http://canalmalaga-tv-live.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="AragonTV.es" tvg-logo="",Aragón TV
+#KODIPROP:inputstream=inputstream.adaptive
+http://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+
+#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="ETB1.es" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ETB-1.png",ETB 1
+#KODIPROP:inputstream=inputstream.adaptive
+https://multimedia.eitb.eus/live-content/etb1hd-hls/index.m3u8
+
+#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="ETB2.es" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ETB-2.png",ETB 2
+#KODIPROP:inputstream=inputstream.adaptive
+https://multimedia.eitb.eus/live-content/etb2hd-hls/index.m3u8
+
+#EXTINF:-1 group-title="TV-ES" tvg-id="ETBBasque.es" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/EITB-EUS.png",EITB Basque
+#KODIPROP:inputstream=inputstream.adaptive
+https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
+
+#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="CanalExtremadura.es" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Canal-Extremadura.png",Canal Extremadura
+#KODIPROP:inputstream=inputstream.adaptive
+https://cdnapisec.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_1u7ssdy3/protocol/https/format/applehttp/flavorIds/1_8xbndriw/a.m3u8
+
+#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="La1_CAT.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Cataluña" tvg-name="La 1 Catalunya",La 1 Catalunya
+https://ztnr.rtve.es/ztnr/3293681.m3u8
+
+#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="La1_CAT.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Cataluña" tvg-name="La 1 Catalunya",La 1 Catalunya
+https://rtvelivestream.akamaized.net/rtvesec/cat/la1_cat_main_dvr.m3u8
+
+#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="La2_CAT.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Cataluña" tvg-name="La 2 Catalunya",La 2 Catalunya
+https://ztnr.rtve.es/ztnr/3987218.m3u8
+
+#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="La2_CAT.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Cataluña" tvg-name="La 2 Catalunya",La 2 Catalunya
+https://rtvelivestream.akamaized.net/rtvesec/cat/la2_cat_main_dvr.m3u8
+
+#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="La1_CAN.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" tvg-name="La 1 Canarias",La 1 Canarias
+https://ztnr.rtve.es/ztnr/5190066.m3u8
+
+#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="La2_CAN.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" tvg-name="La 2 Canarias",La 2 Canarias
+https://ztnr.rtve.es/ztnr/5468585.m3u8
+
+#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" tvg-name="La 1",La 1
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+
+#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" tvg-name="La 1",La 1
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
+
+#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" tvg-name="La 1",La 1
+https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
+
+#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" tvg-name="La 2",La 2
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+
+#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" tvg-name="La 2",La 2
+https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
+
+#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" tvg-name="La 2",La 2
+https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8
+
+#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="13.TV" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" tvg-name="TRECE",TRECE",Trece Trece
+https://live-edge-ff-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
+
+#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="ElToroTV.TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" tvg-name="El Toro TV",El Toro TV
+https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
+
+#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="ElToroTV.TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" tvg-name="El Toro TV",El Toro TV
+https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8
+
+#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" tvg-name="RNE para todos",RNE para todos
+https://ztnr.rtve.es/ztnr/6688753.m3u8
+
+#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" tvg-name="RNE para todos",RNE para todos
+https://rtvelivestream.akamaized.net/rtvesec/rne/rne_para_todos_main.m3u8
+
+#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png"  tvg-name="24h",24h
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+
+#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png"  tvg-name="24h",24h
+https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
+
+#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png"  tvg-name="24h",24h
+https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlow3qkp9tmdm/24H_ES.m3u8
+
+#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="ElPais.TV" tvg-logo="https://graph.facebook.com/elpais/picture?width=200&height=200" tvg-name="El País",El País
+https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
+
+#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="Negocios.TV" tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg"  tvg-name="Negocios TV",Negocios TV
+https://streaming013.gestec-video.com/hls/negociostv.m3u8
+
+#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="ElConfidencial.TV" tvg-logo="https://graph.facebook.com/elconfidencial/picture?width=200&height=200" tvg-name="El Confidencial",El Confidencial
+https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
+
+#----------------
+
 #EXTINF:-1 group-title="TV" tvg-id="LotusTV.mo" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/macau_lotus_tv_mo.png",Lotus Macau
 #KODIPROP:inputstream=inputstream.adaptive
 #https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
@@ -442,14 +613,6 @@ https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r
 #KODIPROP:inputstream=inputstream.adaptive
 https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 
-#EXTINF:-1 group-title="TV-PT" tvg-id="Euronews PT" tvg-country="PT" tvg-language="Português" tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" ,Euronews PT
-#KODIPROP:inputstream=inputstream.adaptive
-https://euronews-live-por-pt.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6572/7392d4f0-7e24-4dbe-8482-f165e712eeed/5.m3u8
-
-#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="RakutenViki.es" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Rakuten_Viki.png",Rakuten Viki
-#KODIPROP:inputstream=inputstream.adaptive
-https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8
-
 #EXTINF:-1 group-title="TV" tvg-id="TRTWorld.tr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TRT_World.svg",TRT World
 #KODIPROP:inputstream=inputstream.adaptive
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
@@ -480,55 +643,6 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&e
 #EXTINF:-1 group-title="TV" tvg-id="7NN.es" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/7NN-Noticias.png",7NN Noticias
 #KODIPROP:inputstream=inputstream.adaptive
 #https://dxf45ob769xpw.cloudfront.net/out/v1/90ce358337e14be3bb82b6566b50a8b1/index.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="TVE24h.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVE-24h.png",TVE 24h
-#KODIPROP:inputstream=inputstream.adaptive
-https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main.m3u8
-
-#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="GaliciaTVEuropa.es" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVG.png",TV Galicia
-#KODIPROP:inputstream=inputstream.adaptive
-https://crtvg-europa.flumotion.cloud/playlist.m3u8
-
-#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="Telemadrid.es" tvg-logo="",TeleMadrid
-#KODIPROP:inputstream=inputstream.adaptive
-https://telemadrid-23.secure2.footprint.net/master.m3u8
-
-#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="TV3cat.es" tvg-logo="",TV3 Catalunya
-#KODIPROP:inputstream=inputstream.adaptive
-https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
-
-#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="Canal324.es" tvg-logo="",Canal 324
-#KODIPROP:inputstream=inputstream.adaptive
-https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
-
-#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="CanalMalaga.es" tvg-logo="",Canal Málaga
-#KODIPROP:inputstream=inputstream.adaptive
-http://canalmalaga-tv-live.flumotion.com/playlist.m3u8
-
-#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="AragonTV.es" tvg-logo="",Aragón TV
-#KODIPROP:inputstream=inputstream.adaptive
-http://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
-
-#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="ETB1.es" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ETB-1.png",ETB 1
-#KODIPROP:inputstream=inputstream.adaptive
-https://multimedia.eitb.eus/live-content/etb1hd-hls/index.m3u8
-
-#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="ETB2.es" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ETB-2.png",ETB 2
-#KODIPROP:inputstream=inputstream.adaptive
-https://multimedia.eitb.eus/live-content/etb2hd-hls/index.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="ETBBasque.es" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/EITB-EUS.png",EITB Basque
-#KODIPROP:inputstream=inputstream.adaptive
-https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
-
-#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="CanalExtremadura.es" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Canal-Extremadura.png",Canal Extremadura
-#KODIPROP:inputstream=inputstream.adaptive
-https://cdnapisec.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_1u7ssdy3/protocol/https/format/applehttp/flavorIds/1_8xbndriw/a.m3u8
-
-#EXTINF:-1 group-title="TV-CU" tvg-id="CubavisionInternacional.cu" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Cubavisión-Internacional.png",Cubavisión Internacional
-#EXTVLCOPT:http-referrer=https://teveo.cu/
-#KODIPROP:inputstream=inputstream.adaptive
-https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="NickClassico.br" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Nick-Clássico.jpg",Nick Clássico
 #KODIPROP:inputstream=inputstream.adaptive
@@ -807,75 +921,6 @@ http://sdream.info:8080/hls/livestream/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="TVCidade.cv",TV Cidade (614p)
 https://stmv1.srvif.com/tvcidade/tvcidade/playlist.m3u8
-
-#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="La1_CAT.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Cataluña" tvg-name="La 1 Catalunya",La 1 Catalunya
-https://ztnr.rtve.es/ztnr/3293681.m3u8
-
-#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="La1_CAT.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Cataluña" tvg-name="La 1 Catalunya",La 1 Catalunya
-https://rtvelivestream.akamaized.net/rtvesec/cat/la1_cat_main_dvr.m3u8
-
-#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="La2_CAT.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Cataluña" tvg-name="La 2 Catalunya",La 2 Catalunya
-https://ztnr.rtve.es/ztnr/3987218.m3u8
-
-#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="La2_CAT.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Cataluña" tvg-name="La 2 Catalunya",La 2 Catalunya
-https://rtvelivestream.akamaized.net/rtvesec/cat/la2_cat_main_dvr.m3u8
-
-#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="La1_CAN.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" tvg-name="La 1 Canarias",La 1 Canarias
-https://ztnr.rtve.es/ztnr/5190066.m3u8
-
-#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="La2_CAN.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" tvg-name="La 2 Canarias",La 2 Canarias
-https://ztnr.rtve.es/ztnr/5468585.m3u8
-
-#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" tvg-name="La 1",La 1
-https://ztnr.rtve.es/ztnr/1688877.m3u8
-
-#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" tvg-name="La 1",La 1
-https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
-
-#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" tvg-name="La 1",La 1
-https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
-
-#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" tvg-name="La 2",La 2
-https://ztnr.rtve.es/ztnr/1688885.m3u8
-
-#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" tvg-name="La 2",La 2
-https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
-
-#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" tvg-name="La 2",La 2
-https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8
-
-#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="13.TV" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" tvg-name="TRECE",TRECE",Trece Trece
-https://live-edge-ff-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
-
-#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="ElToroTV.TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" tvg-name="El Toro TV",El Toro TV
-https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
-
-#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="ElToroTV.TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" tvg-name="El Toro TV",El Toro TV
-https://edge-nodo-002.streaming.hitcloser.net/eltorotv-streaming-web/index.m3u8
-
-#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" tvg-name="RNE para todos",RNE para todos
-https://ztnr.rtve.es/ztnr/6688753.m3u8
-
-#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" tvg-name="RNE para todos",RNE para todos
-https://rtvelivestream.akamaized.net/rtvesec/rne/rne_para_todos_main.m3u8
-
-#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png"  tvg-name="24h",24h
-https://ztnr.rtve.es/ztnr/1694255.m3u8
-
-#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png"  tvg-name="24h",24h
-https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
-
-#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png"  tvg-name="24h",24h
-https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlow3qkp9tmdm/24H_ES.m3u8
-
-#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="ElPais.TV" tvg-logo="https://graph.facebook.com/elpais/picture?width=200&height=200" tvg-name="El País",El País
-https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
-
-#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="Negocios.TV" tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg"  tvg-name="Negocios TV",Negocios TV
-https://streaming013.gestec-video.com/hls/negociostv.m3u8
-
-#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="ElConfidencial.TV" tvg-logo="https://graph.facebook.com/elconfidencial/picture?width=200&height=200" tvg-name="El Confidencial",El Confidencial
-https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
 
 #EXTINF:-1 group-title="TV-Sports" tvg-id="TDP.TV" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" tvg-name="Teledeporte",Teledeporte GEO
 https://ztnr.rtve.es/ztnr/1712295.m3u8
