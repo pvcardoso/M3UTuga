@@ -558,19 +558,19 @@ https://ztnr.rtve.es/ztnr/6688753.m3u8
 #EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" tvg-name="RNE para todos",RNE para todos
 https://rtvelivestream.akamaized.net/rtvesec/rne/rne_para_todos_main.m3u8
 
-#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png"  tvg-name="24h",24h
+#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" tvg-name="24h",24h
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
-#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png"  tvg-name="24h",24h
+#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" tvg-name="24h",24h
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 
-#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png"  tvg-name="24h",24h
+#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" tvg-name="24h",24h
 https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlow3qkp9tmdm/24H_ES.m3u8
 
 #EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="ElPais.TV" tvg-logo="https://graph.facebook.com/elpais/picture?width=200&height=200" tvg-name="El País",El País
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
 
-#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="Negocios.TV" tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg"  tvg-name="Negocios TV",Negocios TV
+#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="Negocios.TV" tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" tvg-name="Negocios TV",Negocios TV
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 
 #EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="ElConfidencial.TV" tvg-logo="https://graph.facebook.com/elconfidencial/picture?width=200&height=200" tvg-name="El Confidencial",El Confidencial
@@ -745,7 +745,7 @@ http://tv.nrg91.gr:1935/onweb/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 https://streamcdng5-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 
-#EXTINF:-1 group-title="TV-Music" tvg-id="DeejayTV.it"  tvg-language="Italiano" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DeeJay-TV.png",Deejay TV (1080p)
+#EXTINF:-1 group-title="TV-Music" tvg-id="DeejayTV.it" tvg-language="Italiano" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DeeJay-TV.png",Deejay TV (1080p)
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 
 #EXTINF:-1 group-title="TV-Music" tvg-id="4fun" tvg-id="4fun" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/4Fun-TV.png",4Fun.TV
@@ -2312,7 +2312,7 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/molahitstv/picture?width=200&height=200" tvg-name="Molahits TV España",Molahits TV España
 https://ventdelnord.tv:8080/mola/directe.m3u8
 
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://pbs.twimg.com/profile_images/1463159511133442059/uVV15n4k_200x200.jpg"  tvg-name="Verbena TV España",Verbena TV España
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://pbs.twimg.com/profile_images/1463159511133442059/uVV15n4k_200x200.jpg" tvg-name="Verbena TV España",Verbena TV España
 https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8
 
 #EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/spektramusictv/picture?width=200&height=200" tvg-name="Spektra TV España",Spektra TV España
@@ -2421,37 +2421,37 @@ https://60015180a7f57.streamlock.net:444/public/stream_source/playlist.m3u8
 #EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/DancestarTV/picture?width=200&height=200" tvg-name="DanceStar TV",DanceStar TV EN
 https://d3pyjh3ffabib0.cloudfront.net/scheduler/scheduleMaster/388.m3u8
 
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_200x200.jpg"  tvg-name="Dance TV Estonia",Dance TV Estonia
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_200x200.jpg" tvg-name="Dance TV Estonia",Dance TV Estonia
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_200x200.jpg"  tvg-name="Dance TV Estonia",Dance TV Estonia
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_200x200.jpg" tvg-name="Dance TV Estonia",Dance TV Estonia
 https://m1b2.worldcast.tv/dancetelevisiontwo/2/dancetelevisiontwo.m3u8
 
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_200x200.jpg"  tvg-name="Dance TV Estonia",Dance TV Estonia
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_200x200.jpg" tvg-name="Dance TV Estonia",Dance TV Estonia
 https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionthree.m3u8
 
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_200x200.jpg"  tvg-name="Dance TV Estonia",Dance TV Estonia
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_200x200.jpg" tvg-name="Dance TV Estonia",Dance TV Estonia
 https://m2b2.worldcast.tv:7443/dancetelevisionfour/2/dancetelevisionfour.m3u8
 
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_200x200.jpg"  tvg-name="Dance TV Estonia",Dance TV Estonia
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_200x200.jpg" tvg-name="Dance TV Estonia",Dance TV Estonia
 https://m2b2.worldcast.tv:7443/dancetelevisionfive/2/dancetelevisionfive.m3u8
 
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_200x200.jpg"  tvg-name="Dance TV Estonia",Dance TV Estonia
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_200x200.jpg" tvg-name="Dance TV Estonia",Dance TV Estonia
 https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8
 
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_200x200.jpg"  tvg-name="Dance TV Estonia",Dance TV Estonia
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_200x200.jpg" tvg-name="Dance TV Estonia",Dance TV Estonia
 https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8
 
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_200x200.jpg"  tvg-name="Dance TV Estonia",Dance TV Estonia
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_200x200.jpg" tvg-name="Dance TV Estonia",Dance TV Estonia
 https://mbit1.worldcast.tv/dancetelevisioneight/multibit.m3u8
 
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_200x200.jpg"  tvg-name="Dance TV Estonia",Dance TV Estonia
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_200x200.jpg" tvg-name="Dance TV Estonia",Dance TV Estonia
 https://mbit1.worldcast.tv/dancetelevisionnine/multibit.m3u8
 
 #EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/vmlatinocr/picture?width=200&height=200" tvg-name="VM Latino Costa Rica",VM Latino Costa Rica
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://pbs.twimg.com/profile_images/1758522981175754752/6DxX5Hbv_200x200.jpg"  tvg-name="Venus Media Paraguay",Venus Media Paraguay
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://pbs.twimg.com/profile_images/1758522981175754752/6DxX5Hbv_200x200.jpg" tvg-name="Venus Media Paraguay",Venus Media Paraguay
 https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
 
 #EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/lamegaworldwide/picture?width=200&height=200" tvg-name="La Mega Mundial USA",La Mega Mundial USA
@@ -2800,19 +2800,19 @@ https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="PromovideoTV.it",Promovideo TV (486p)
 https://media2021.rtvweb.com/promovideo_web/promovideo/playlist.m3u8
 
-#EXTINF:-1 group-title="TV"  tvg-country="IT" tvg-language="Italiano"tvg-id="QuartoCanaleFlegreo.it",Quarto Canale Flegreo (720p)
+#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"tvg-id="QuartoCanaleFlegreo.it",Quarto Canale Flegreo (720p)
 https://live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="QVC.it",QVC Italia (540p)
 https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
 
-#EXTINF:-1 group-title="TV"  tvg-country="IT" tvg-language="Italiano"tvg-id="R101TV.it",R 101 Italia IT (576p)
+#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"tvg-id="R101TV.it",R 101 Italia IT (576p)
 https://live3-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(er)/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="Radio105TV.it",Radio 105 TV (576p)
 https://live3-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ec)/index.m3u8
 
-#EXTINF:-1 group-title="TV"  tvg-country="IT" tvg-language="Italiano"tvg-id="RadioBirikinaTV.it",Radio Birikina TV (720p) [Not 24/7]
+#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano"tvg-id="RadioBirikinaTV.it",Radio Birikina TV (720p) [Not 24/7]
 https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8
 
 #EXTINF:-1 group-title="TV-IT" tvg-country="IT" tvg-language="Italiano" tvg-id="Radiofreccia.it",Radio Freccia TV (1080p)
@@ -2860,22 +2860,22 @@ https://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
 #EXTINF:-1 group-title="TV-IT" tvg-country="IT" tvg-language="Italiano" tvg-id="Rai3.it",Rai 3 (720p) [Not 24/7]
 https://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="Rai4.it",Rai 4 (576p)
+#EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="Rai4.it",Rai 4 (576p)
 https://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=746966
 
-#EXTINF:-1 group-title="TV-IT,TV-Anime" tvg-id="RaiGulp.it" tvg-country="IT" tvg-language="Italiano",Rai Gulp (1080p)
+#EXTINF:-1 group-title="TV-IT;TV-Anime" tvg-id="RaiGulp.it" tvg-country="IT" tvg-language="Italiano",Rai Gulp (1080p)
 http://188.60.179.180:8000/play/xxRaiGulpxx
 
 #EXTINF:-1 group-title="TV-IT,TV-Movies" tvg-country="IT" tvg-language="Italiano" tvg-id="RaiMovie.it",Rai Movie (1080p)
 http://188.60.179.180:8000/play/xxRaiMOviexx
 
-#EXTINF:-1 group-title="TV-IT" tvg-id="RaiNews24.it",Rai News 24 (720p)
+#EXTINF:-1 group-title="TV-IT" tvg-country="IT" tvg-language="Italiano" tvg-id="RaiNews24.it",Rai News 24 (720p)
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
 
-#EXTINF:-1 group-title="TV-IT" tvg-id="RaiPremium.it",Rai Premium (1080p)
+#EXTINF:-1 group-title="TV-IT" tvg-country="IT" tvg-language="Italiano" tvg-id="RaiPremium.it",Rai Premium (1080p)
 http://188.60.179.180:8000/play/a0oy
 
-#EXTINF:-1 group-title="TV-IT" tvg-id="",Rai Sport 2
+#EXTINF:-1 group-title="TV-IT" tvg-country="IT" tvg-language="Italiano" tvg-id="",Rai Sport 2
 http://originstream12.rai.it/italy/raisport2_1200/master.m3u8
 
 #EXTINF:-1 group-title="TV-IT" tvg-id="RaiYoyo.it",Rai Yoyo (1080p)
@@ -2929,28 +2929,28 @@ http://fl1.mediastreaming.it:1935/calabriachannel/livestream/playlist.m3u8
 #EXTINF:-1 group-title="TV-IT" tvg-country="IT" tvg-language="Italiano" tvg-id="RTCTelecalabria.it",RTC Telecalabria (720p) [Not 24/7]
 https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8
 
-#EXTINF:-1 group-title="TV-IT" tvg-id="RTL1025Napule.it",RTL 102.5 Napulé (1080p)
+#EXTINF:-1 group-title="TV-IT" tvg-country="IT" tvg-language="Italiano" tvg-id="RTL1025Napule.it",RTL 102.5 Napulé (1080p)
 https://streamcdnb5-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8
 
-#EXTINF:-1 group-title="TV-IT" tvg-id="RTL1025RomeoJuliet.it",RTL 102.5 Romeo&Juliet (1080p)
+#EXTINF:-1 group-title="TV-IT" tvg-country="IT" tvg-language="Italiano" tvg-id="RTL1025RomeoJuliet.it",RTL 102.5 Romeo&Juliet (1080p)
 https://streamcdnb4-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8
 
-#EXTINF:-1 group-title="TV-IT" tvg-id="RTMTV.it",RTM TV (1080p)
+#EXTINF:-1 group-title="TV-IT" tvg-country="IT" tvg-language="Italiano" tvg-id="RTMTV.it",RTM TV (1080p)
 https://5f22d76e220e1.streamlock.net/rtm/rtm/playlist.m3u8
 
-#EXTINF:-1 group-title="TV-IT" tvg-id="RTP.it",RTP (404p)
+#EXTINF:-1 group-title="TV-IT" tvg-country="IT" tvg-language="Italiano" tvg-id="RTP.it",RTP (404p)
 https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV-IT" tvg-id="RTTRTrento.it",RTTR Trento (720p)
+#EXTINF:-1 group-title="TV-IT" tvg-country="IT" tvg-language="Italiano" tvg-id="RTTRTrento.it",RTTR Trento (720p)
 https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
 
-#EXTINF:-1 group-title="TV-IT" tvg-id="SardegnaUno.it",Sardegna Uno
+#EXTINF:-1 group-title="TV-IT" tvg-country="IT" tvg-language="Italiano" tvg-id="SardegnaUno.it",Sardegna Uno
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Sardegna1.m3u8
 
-#EXTINF:-1 group-title="TV-IT" tvg-id="SienaTV.it",Siena TV (1080p)
+#EXTINF:-1 group-title="TV-IT" tvg-country="IT" tvg-language="Italiano" tvg-id="SienaTV.it",Siena TV (1080p)
 https://stream10.xdevel.com/video0s976727-1544/stream/playlist.m3u8
 
-#EXTINF:-1 group-title="TV-IT" tvg-id="SL48TV.it",SL48 TV (576p)
+#EXTINF:-1 group-title="TV-IT" tvg-country="IT" tvg-language="Italiano" tvg-id="SL48TV.it",SL48 TV (576p)
 http://media.velcom.it:1935/sl48/sl48/playlist.m3u8
 
 #EXTINF:-1 group-title="TV-IT" tvg-country="IT" tvg-language="Italiano" tvg-id="SophiaTV.it",Sophia TV (720p)
@@ -3241,10 +3241,10 @@ https://ssh101.bozztv.com/ssh101/televita/playlist.m3u8
 #EXTINF:-1 group-title="TV-IT" tvg-country="IT" tvg-language="Italiano" tvg-id="TVRS.it",TVRS (576p) [Not 24/7]
 http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
 
-#EXTINF:-1 group-title="TV-IT" tvg-country="IT" tvg-language="Italiano" tvg-id="UmbriaTV.it",Umbria TV (576p) [Not 24/7]
+#EXTINF:-1 group-title="TV-IT" tvg-country="IT" tvg-language="Italiano" tvg-country="IT" tvg-language="Italiano" tvg-id="UmbriaTV.it",Umbria TV (576p) [Not 24/7]
 https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV-IT" tvg-id="UniNettunoUniversityTV.it",UniNettuno University TV (720p)
+#EXTINF:-1 group-title="TV-IT" tvg-country="IT" tvg-language="Italiano" tvg-id="UniNettunoUniversityTV.it",UniNettuno University TV (720p)
 https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
 
 #EXTINF:-1 group-title="TV-IT" tvg-country="IT" tvg-language="Italiano" tvg-id="VeraTV.it",Vera TV (1080p) [Not 24/7]
@@ -3259,7 +3259,7 @@ https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/in
 #EXTINF:-1 group-title="TV-IT" tvg-country="IT" tvg-language="Italiano" tvg-id="VideolinaSardegna.it",Videolina (Sardegna) (404p) [Not 24/7]
 http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
 
-#EXTINF:-1 group-title="TV-Music" tvg-country="IT" tvg-language="Italiano"  tvg-id="VisualRadio.it",Visual Radio (576p) [Not 24/7]
+#EXTINF:-1 group-title="TV-Music" tvg-country="IT" tvg-language="Italiano" tvg-id="VisualRadio.it",Visual Radio (576p) [Not 24/7]
 http://wms.shared.streamshow.it:1935/visualradio/visualradio/live.m3u8
 
 #EXTINF:-1 group-title="TV-IT" tvg-country="IT" tvg-language="Italiano" tvg-id="Vuemme.it",Vuemme (480p)
