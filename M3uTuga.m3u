@@ -1,5 +1,4 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PT1.xml.gz,https://www.tdtchannels.com/epg/TV.xml.gz,https://epg.pw/api/epg.xml?lang=en&date=20250508&channel_id=7020,https://github.com/LITUATUI/M3UPT/raw/refs/heads/main/EPG/epg-pt.xml.xz"
-
 ###,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-rtp-pt.xml.xz,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-rytec-pt.xml.xz,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-mitv-br.xml.xz,http://www.xmltvepg.nl/rytecES_Basic.xz,http://www.xmltvepg.nl/rytecBE_FR_Basic.xz,http://www.xmltvepg.nl/rytecIT_Basic.xz,http://www.xmltvepg.nl/rytecUK_Basic.xz,https://www.tdtchannels.com/epg/TV.xml.gz"
 
 # 📺 TV
@@ -196,6 +195,13 @@ https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/ch
 #KODIPROP:inputstream=inputstream.adaptive
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
 
+#EXTINF:-1 group-title="TV-PT" tvg-id="FUELTV.at" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Fuel-TV.png",Fuel TV BR
+#KODIPROP:inputstream=inputstream.adaptive
+#https://fueltv-fueltv-9-br.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="FUELTV.at" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Fuel-TV.png",Fuel TV
+#KODIPROP:inputstream=inputstream.adaptive
+#https://fueltv-fueltv-1.samsung.wurl.com/manifest/playlist.m3u8
 
 #-----------------
 
@@ -580,6 +586,9 @@ https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #KODIPROP:inputstream=inputstream.adaptive
 https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 
+#EXTINF:-1 group-title="TV-JP" tvg-id="tv_osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tv_osaka_logo.svg/178px-Tv_osaka_logo.svg.png",TV Osaka
+http://luong.utako.moe/tvo/index.m3u8
+
 #----------------
 
 #EXTINF:-1 group-title="TV" tvg-id="LotusTV.mo" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/macau_lotus_tv_mo.png",Lotus Macau
@@ -756,13 +765,7 @@ http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 https://cmc-ono.amagi.tv/amRdirect/device[did]=%5BAD_IDFA%5B&us_privacy=%7BUS_PRIVACY%7D&coppa=%7BCOPPA%7D&uid=1fpn9sr15-vpg2-1jg-4kgx-p57ss8l4h2/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/1920x1080_5711200/index.m3u8
 
-#EXTINF:-1 group-title="TV-PT" tvg-id="FUELTV.at" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Fuel-TV.png",Fuel TV BR
-#KODIPROP:inputstream=inputstream.adaptive
-#https://fueltv-fueltv-9-br.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="FUELTV.at" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Fuel-TV.png",Fuel TV
-#KODIPROP:inputstream=inputstream.adaptive
-#https://fueltv-fueltv-1.samsung.wurl.com/manifest/playlist.m3u8
+#------------------------
 
 #EXTINF:-1 group-title="TV-Sports" tvg-id="RedBullTV.at" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Red-Bull-TV.png",Red Bull TV EN
 #KODIPROP:inputstream=inputstream.adaptive
@@ -912,12 +915,13 @@ http://luong.utako.moe/mbs/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="abc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/261px-Asahi_Broadcasting_Corporation_Logo.svg.png",ABC
 http://luong.utako.moe/abc/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="tv_osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tv_osaka_logo.svg/178px-Tv_osaka_logo.svg.png",TV Osaka
-http://luong.utako.moe/tvo/index.m3u8
+
 
 #EXTINF:-1 group-title="TV-PT" tvg-id="AviationTV",AviationTV
 #KODIPROP:inputstream=inputstream.adaptive
 https://www.youtube.com/watch?v=B7zZOt2iKQI
+
+#----------------
 
 #EXTINF:-1 group-title="TV-Music" tvg-id="AfrobeatTVEntertainment.uk",Afrobeats (1080p)
 https://stream.ecable.tv/afrobeats/index.m3u8
@@ -2885,19 +2889,19 @@ http://210.210.155.37/x6bnqe/s/s63/index2.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="RaiMovie.it",Rai Movie (1080p)
 http://188.60.179.180:8000/play/xxRaiMOviexx
 
-#EXTINF:-1 group-title="TV" tvg-id="RaiNews24.it",Rai News 24 (720p)
+#EXTINF:-1 group-title="TV-IT" tvg-id="RaiNews24.it",Rai News 24 (720p)
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="RaiPremium.it",Rai Premium (1080p)
+#EXTINF:-1 group-title="TV-IT" tvg-id="RaiPremium.it",Rai Premium (1080p)
 http://188.60.179.180:8000/play/a0oy
 
-#EXTINF:-1 group-title="TV" tvg-id="",Rai Sport 2
+#EXTINF:-1 group-title="TV-IT" tvg-id="",Rai Sport 2
 http://originstream12.rai.it/italy/raisport2_1200/master.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="RaiYoyo.it",Rai Yoyo (1080p)
+#EXTINF:-1 group-title="TV-IT" tvg-id="RaiYoyo.it",Rai Yoyo (1080p)
 http://188.60.179.180:8000/play/xxRaiYoyo
 
-#EXTINF:-1 group-title="TV" tvg-id="RDSSocialTV.it",RDS Social TV (720p)
+#EXTINF:-1 group-title="TV-IT" tvg-id="RDSSocialTV.it",RDS Social TV (720p)
 https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8
 
 #EXTINF:-1 group-title="TV-IT" tvg-country="IT" tvg-language="Italiano" tvg-id="ReggioTV.it",ReggioTV (480p) [Not 24/7]
@@ -2948,25 +2952,25 @@ https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8
 #EXTINF:-1 group-title="TV-IT" tvg-country="IT" tvg-language="Italiano" tvg-id="RTL1025Best.it",RTL 102.5 Best (1080p)
 https://streamcdnb7-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_video.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="RTL1025BroSis.it",RTL 102.5 Bro&Sis (1080p)
+#EXTINF:-1 group-title="TV-IT" tvg-id="RTL1025BroSis.it",RTL 102.5 Bro&Sis (1080p)
 https://streamcdnb6-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="RTL1025Doc.it",RTL 102.5 Doc (1080p)
+#EXTINF:-1 group-title="TV-IT" tvg-id="RTL1025Doc.it",RTL 102.5 Doc (1080p)
 https://streamcdnb12-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_video.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="",RTL 102.5 Extra (1080p)
+#EXTINF:-1 group-title="TV-IT" tvg-id="",RTL 102.5 Extra (1080p)
 https://streamcdnb2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S26743519/49ksH8apMKou/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="RTL1025Napule.it",RTL 102.5 Napulé (1080p)
+#EXTINF:-1 group-title="TV-IT" tvg-id="RTL1025Napule.it",RTL 102.5 Napulé (1080p)
 https://streamcdnb5-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="RTL1025News.it",RTL 102.5 News (1080p)
+#EXTINF:-1 group-title="TV-IT" tvg-id="RTL1025News.it",RTL 102.5 News (1080p)
 https://streamcdnb2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="RTL1025RomeoJuliet.it",RTL 102.5 Romeo&Juliet (1080p)
+#EXTINF:-1 group-title="TV-IT" tvg-id="RTL1025RomeoJuliet.it",RTL 102.5 Romeo&Juliet (1080p)
 https://streamcdnb4-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="RTL1025TV.it",RTL 102.5 TV (1080p)
+#EXTINF:-1 group-title="TV-IT" tvg-id="RTL1025TV.it",RTL 102.5 TV (1080p)
 https://streamcdnb12-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
 
 #EXTINF:-1 group-title="TV-IT" tvg-id="RTMTV.it",RTM TV (1080p)
