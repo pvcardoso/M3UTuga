@@ -2081,7 +2081,7 @@ https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea
 https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://pbs.twimg.com/profile_images/1839572220722454528/2u2sUAeY_200x200.jpg" group-title="Int. América" tvg-name="NET Channel Perú",NET Channel Perú
-https://media.streambrothers.com:19360/8158/8158.m3u8
+https://media.streambr.com:19360/8158/8158.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="TeleSUR.TV" tvg-logo="https://graph.facebook.com/teleSUR/picture?width=200&height=200" group-title="Int. América" tvg-name="TeleSUR Venezuela",TeleSUR Venezuela
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
@@ -2238,10 +2238,10 @@ https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2b
 #EXTINF:-1 group-title="TV-US" tvg-logo="https://yt3.ggpht.com/fTP5oS376nZhVbS55-OocogCJCDH4UXIyRrirF6keIya4AN4I54TmLkFnnjvE4FRq5UMv8BO=s200" tvg-name="Bloomberg Quicktake",Bloomberg Quicktake EN
 https://www.bloomberg.com/media-manifest/streams/qt.m3u8
 
-#EXTINF:-1 group-title="TV-Others" tvg-logo="https://graph.facebook.com/TastemadeEs/picture?width=200&height=200" tvg-name="Tastemade",Tastemade
+#EXTINF:-1 group-title="TV-Other" tvg-logo="https://graph.facebook.com/TastemadeEs/picture?width=200&height=200" tvg-name="Tastemade",Tastemade
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees16international24i-ono/playlist.m3u8
 
-#EXTINF:-1 group-title="TV-Others" tvg-logo="https://graph.facebook.com/TastemadeEs/picture?width=200&height=200" tvg-name="Tastemade",Tastemade EN
+#EXTINF:-1 group-title="TV-Other" tvg-logo="https://graph.facebook.com/TastemadeEs/picture?width=200&height=200" tvg-name="Tastemade",Tastemade EN
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadeinternationalenglish24i-ono/playlist.m3u8
 
 #EXTINF:-1 group-title="TV-Other" tvg-logo="https://graph.facebook.com/FTV/picture?width=200&height=200" tvg-name="Fashion TV",Fashion TV
@@ -2250,10 +2250,10 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=5457&live=1
 #EXTINF:-1 group-title="TV-Other" tvg-logo="https://pbs.twimg.com/profile_images/956583141245775872/2en3-8Ag_200x200.jpg" tvg-name="Classic Arts Showcase",Classic Arts Showcase EN
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 
-#EXTINF:-1 group-title="TV-Others" tvg-logo="https://graph.facebook.com/WatchAKCTV/picture?width=200&height=200" tvg-name="AKC TV Dogs",AKC TV Dogs EN
+#EXTINF:-1 group-title="TV-Other" tvg-logo="https://graph.facebook.com/WatchAKCTV/picture?width=200&height=200" tvg-name="AKC TV Dogs",AKC TV Dogs EN
 https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8
 
-#EXTINF:-1 group-title="TV-Others" tvg-logo="https://graph.facebook.com/WatchAKCTV/picture?width=200&height=200" tvg-name="AKC TV Dogs",AKC TV Dogs EN
+#EXTINF:-1 group-title="TV-Other" tvg-logo="https://graph.facebook.com/WatchAKCTV/picture?width=200&height=200" tvg-name="AKC TV Dogs",AKC TV Dogs EN
 https://install.akctvcontrol.com/speed/broadcast/141/desktop-playlist.m3u8
 
 #EXTINF:-1 group-title="TV-Sports" tvg-logo="https://graph.facebook.com/Motorsport.tvUK/picture?width=200&height=200" tvg-name="Motorsport.tv",Motorsport.tv
@@ -2775,9 +2775,6 @@ https://iptv.peer.biz/live/peertv.m3u8
 #EXTVLCOPT:http-referrer=https://pluto.tv/it/live-tv/64c109a4798def0008a6e03e
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64c109a4798def0008a6e03e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 group-title="TV-IT" tvg-country="IT" tvg-language="Italiano" tvg-id="",POP Television (720p)
-https://stream1.aswifi.it/poptelevision/live/index.m3u8
-
 #EXTINF:-1 group-title="TV-IT" tvg-country="IT" tvg-language="Italiano" tvg-id="PrimaTVNapoli.it",Prima TV Napoli (720p)
 https://stream1.aswifi.it/primatvnapoli/live/index.m3u8
 
@@ -2831,9 +2828,6 @@ https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
 
 #EXTINF:-1 group-title="TV-IT" tvg-country="IT" tvg-language="Italiano" tvg-id="",Radio Radicale TV (240p) [Not 24/7]
 https://video-ar.radioradicale.it/diretta/padtv2/playlist.m3u8
-
-#EXTINF:-1 group-title="TV-IT" tvg-country="IT" tvg-language="Italiano" tvg-country="IT" tvg-language="Italiano" tvg-id="RadioRadioTV.it",Radio Radio TV (720p)
-https://api.new.livestream.com/accounts/11463451/events/3679884/live.m3u8
 
 #EXTINF:-1 group-title="TV-IT" tvg-country="IT" tvg-language="Italiano" tvg-id="RadioStudioDeltaTV.it",Radio Studio Delta TV (1080p) [Not 24/7]
 https://5ce9406b73c33.streamlock.net/RSD/ngrp:livestream_all/playlist.m3u8
@@ -3288,14 +3282,8 @@ http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
 #EXTINF:-1 group-title="TV-Music" tvg-country="IT" tvg-language="Italiano"  tvg-id="VisualRadio.it",Visual Radio (576p) [Not 24/7]
 http://wms.shared.streamshow.it:1935/visualradio/visualradio/live.m3u8
 
-#EXTINF:-1 group-title="TV-IT" tvg-country="IT" tvg-language="Italiano" tvg-id="",Vivaldi TV (1080p)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01523-mezzo-vivalditv-tcl/playlist.m3u8
-
 #EXTINF:-1 group-title="TV-IT" tvg-country="IT" tvg-language="Italiano" tvg-id="Vuemme.it",Vuemme (480p)
 https://5db313b643fd8.streamlock.net/Vuemme/Vuemme/playlist.m3u8
-
-#EXTINF:-1 group-title="TV-IT" tvg-country="IT" tvg-language="Italiano" tvg-id="WeddingTV.it",Wedding TV
-https://stream.cp.ets-sistemi.it:1936/profservtv/profservtv/playlist.m3u8
 
 #EXTINF:-1 group-title="TV-IT" tvg-country="IT" tvg-language="Italiano" tvg-id="WellTV.it",Well TV
 https://5f22d76e220e1.streamlock.net/canale5/canale5/playlist.m3u8
@@ -3320,3 +3308,55 @@ https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_h
 
 #EXTINF:-1 group-title="TV-IT" tvg-country="IT" tvg-language="Italiano" tvg-id="tv9Telemaremma.it",tv9 Telemaremma (576p)
 https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/2095a288-1384-ed2e-5da0-278ccbb72295.m3u8
+
+#------------------------
+
+EXTINF:-1 tvg-id="FunRoads.us" tvg-logo="https://i.imgur.com/2Q6TENm.png" group-title="TV-Travel",Fun Roads (404p)
+http://104.143.4.5:2080/funroads.m3u8
+#EXTINF:-1 tvg-id="GoTraveler.us" tvg-logo="https://i.imgur.com/IaRcN1G.png" group-title="TV-Travel",Go Traveler (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgotraveler/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="Journy.us" tvg-logo="https://i.imgur.com/1JNrLxq.png" group-title="TV-Travel",Journy (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxjourny/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="LoveinVenice.it" tvg-logo="https://i.imgur.com/Jv4WiO6.png" group-title="TV-Travel",Love in Venice (480p)
+https://59d7d6f47d7fc.streamlock.net/loveinvenice/loveinvenice/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAnimauxFrance.fr" tvg-logo="https://i.imgur.com/jxYlLsd.png" group-title="TV-Travel",Pluto TV Animaux (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60925a44f0350600075a1fdc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc78c1-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5cc06a56-861b-4448-84df-34ad224ceaa7
+#EXTINF:-1 tvg-id="PlutoTVTravel.us" tvg-logo="https://i.imgur.com/hgJ1Z0w.png" group-title="TV-Travel",Pluto TV Travel (240p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59c01b1953680139c6ae9d4d/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=59c01b1953680139c6ae9d4d&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=678&terminate=false&userId=
+#EXTINF:-1 tvg-id="RadioRutasdelPeru.es" tvg-logo="https://i.imgur.com/88Iyvm8.png" group-title="TV-Travel",Radio Rutas del Perú (360p) [Not 24/7]
+https://tv.portalexpress.es:3731/stream/play.m3u8
+#EXTINF:-1 tvg-id="RTGTV.ru" tvg-logo="https://i.imgur.com/ZMKPAho.png" group-title="TV-Travel" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",RTG (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s80/index.m3u8
+#EXTINF:-1 tvg-id="RTGHD.ru" tvg-logo="https://i.imgur.com/jEkgahl.png" group-title="TV-Travel" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",RTG HD (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s63/index.m3u8
+#EXTINF:-1 tvg-id="SchladmingDachsteinTV.at" tvg-logo="https://i.ibb.co/VjnzhMM/Logo-Schl-Dachstein-TV-HP-JPG.jpg" group-title="TV-Travel",Schladming-Dachstein TV (720p)
+https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SunChannel.ve" tvg-logo="https://i.imgur.com/B26qL3e.png" group-title="TV-Travel",Sun Channel (720p)
+https://vcndistroscale.teleosmedia.com/linear/sun/sun/playlist.m3u8
+#EXTINF:-1 tvg-id="Teletur.do" tvg-logo="https://i.imgur.com/Ig4gR93.png" group-title="TV-Travel",Teletur
+https://cdn4.hostlagarto.com:8081/static/teletur/playlist.m3u8
+#EXTINF:-1 tvg-id="TelevisiondelEste.do" tvg-logo="https://i.imgur.com/mmjbcGr.png" group-title="News;Travel",Televisión del Este (720p)
+http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8=
+#EXTINF:-1 tvg-id="TravelTV.bg" tvg-logo="https://i.imgur.com/eZjcf2R.png" group-title="TV-Travel",Travel TV (576p)
+https://streamer103.neterra.tv/travel/live.m3u8
+#EXTINF:-1 tvg-id="Travelxp.in" tvg-logo="https://i.imgur.com/8KQirah.png" group-title="TV-Travel",Travel XP (720p)
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TunisieImmobilierTV.tn" tvg-logo="https://i.imgur.com/cZM2t0P.png" group-title="TV-Travel",Tunisie Immobilier TV (720p) [Not 24/7]
+https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="TuristikTV.mx" tvg-logo="https://i.imgur.com/g9j0ze8.png" group-title="TV-Travel",Turistik TV (720p)
+https://5fa5de1a545ae.streamlock.net/8030/8030/.m3u8
+#EXTINF:-1 tvg-id="TVParanaTurismo.br" tvg-logo="https://i.imgur.com/I6pKoBd.png" group-title="TV-Travel",TV Paraná Turismo (720p) [Not 24/7]
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1 tvg-id="TVart.bg" tvg-logo="https://i.imgur.com/YNmrCF7.png" group-title="Culture;Travel",TVart (1080p)
+https://stream.osc.bg/tvart/Stream3/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSTravelNetwork.us" tvg-logo="https://i.imgur.com/vSFf5Ce.png" group-title="TV-Travel",TVS Travel Network (720p) [Not 24/7]
+https://rpn1.bozztv.com/36bay2/gusa-tvstravel/index.m3u8
+#EXTINF:-1 tvg-id="NashaSibir.ru" tvg-logo="https://i.imgur.com/uXOz2d9.png" group-title="TV-Travel",Наша Сибирь / Кемерово (1080p) [Not 24/7]
+https://strm.yandex.ru/kal/sibir/sibir0.m3u8
+#EXTINF:-1 tvg-id="TVTURTV.ru" tvg-logo="https://i.imgur.com/YzcQodB.png" group-title="TV-Travel",ТВТУР (720p) [Geo-blocked]
+https://strm.yandex.ru/kal/tvtour/tvtour0.m3u8
+#EXTINF:-1 tvg-id="Teleputeshestviya.ru" tvg-logo="https://i.imgur.com/eXJm1n3.png" group-title="TV-Travel" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Телепутешествия (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s71/index.m3u8
