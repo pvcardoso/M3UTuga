@@ -683,11 +683,6 @@ https://stream.ichibantv.com:3764/hybrid/play.m3u8
 https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/c65696b42ca34e97a9b5f54758d6dd50/cmaf/hlsfmp4_short_q2hyb21h_gulli_sd_index.m3u8
 
 #-----------------
-#EXTINF:-1 tvg-id="Nickelodeon.uk" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="TV-Anime",Nickelodeon (720p)
-http://92.114.85.72:8000/play/a02o
-
-#EXTINF:-1 tvg-id="Nicktoons.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" group-title="TV-Anime",Nicktoons (576p)
-http://92.114.85.72:8000/play/a0a6
 
 #EXTINF:-1 group-title="TV-Anime" tvg-id="AnimaxAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png",Animax
 #KODIPROP:inputstreamaddon=inputstream.adaptive
