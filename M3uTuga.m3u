@@ -683,6 +683,11 @@ https://stream.ichibantv.com:3764/hybrid/play.m3u8
 https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/c65696b42ca34e97a9b5f54758d6dd50/cmaf/hlsfmp4_short_q2hyb21h_gulli_sd_index.m3u8
 
 #-----------------
+#EXTINF:-1 tvg-id="Nickelodeon.uk" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="TV-Anime",Nickelodeon (720p)
+http://92.114.85.72:8000/play/a02o
+
+#EXTINF:-1 tvg-id="Nicktoons.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" group-title="TV-Anime",Nicktoons (576p)
+http://92.114.85.72:8000/play/a0a6
 
 #EXTINF:-1 group-title="TV-Anime" tvg-id="AnimaxAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png",Animax
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -709,7 +714,210 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e1
 
 #-----------------
 
-#EXTINF:-1 group-title="TV" tvg-id="ClubbingTV.fr" tvg-country="FR" tvg-language="Francais" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Clubbing-TV.png",Clubbing TV
+#EXTINF:-1 tvg-id="MTVEurope.uk" tvg-logo="https://i.imgur.com/zNscEST.png" group-title="TV-Music",MTV Hits Europe
+http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="MTVMusic.uk" tvg-logo="https://i.imgur.com/hdyJ4PT.png" group-title="TV-Music",MTV Music
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6245d15062cd1f00070a2338/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1ec342-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a56dace8-66e4-4b9a-a55f-d5348160dae2
+
+#EXTINF:-1 tvg-id="MuseumTVEnglish.fr" tvg-logo="https://i.imgur.com/WbjURLo.png" group-title="TV-Culture",Museum TV English (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-xiaomi/playlist.m3u8
+
+#EXTINF:-1 group-title="TV-Music" tvg-id="SolMusica.TV" tvg-logo="https://graph.facebook.com/solmusica/picture?width=200&height=200" tvg-name="Sol Música España",Sol Música España
+https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
+
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/cadena.elitegranada/picture?width=200&height=200" tvg-name="Cadena Elite España",Cadena Elite España
+https://cloudvideo.servers10.com:8081/8004/index.m3u8
+
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/urbanrevolution.es/picture?width=200&height=200" tvg-name="La Urban TV España",La Urban TV España
+https://www.urbanrevolution.es:8443/live/TV/playlist.m3u8
+
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/QmusicNL/picture?width=200&height=200" tvg-name="QMusic Holanda",QMusic Holanda NL
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/tvocko/picture?width=200&height=200" tvg-name="Ocko Chequia",Ocko Chequia CZ
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/ockostar/picture?width=200&height=200" tvg-name="Star Chequia",Star Chequia CZ
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/activafm.radiomusical/picture?width=200&height=200" tvg-name="Activa TV España",Activa TV España
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
+
+#EXTINF:-1 group-title="TV-Sports" tvg-logo="https://pbs.twimg.com/profile_images/1169992187314167808/TeabGtEB_200x200.jpg" tvg-name="Garage TV Argentina",Garage TV Argentina
+https://stream1.sersat.com/hls/garagetv.m3u8
+
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/molahitstv/picture?width=200&height=200" tvg-name="Molahits TV España",Molahits TV España
+https://ventdelnord.tv:8080/mola/directe.m3u8
+
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://pbs.twimg.com/profile_images/1463159511133442059/uVV15n4k_200x200.jpg" tvg-name="Verbena TV España",Verbena TV España
+https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8
+
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/spektramusictv/picture?width=200&height=200" tvg-name="Spektra TV España",Spektra TV España
+https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/radioitalia/picture?width=200&height=200" tvg-name="Radio Italia TV",Radio Italia TV IT
+https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
+
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/RTL102.5/picture?width=200&height=200" tvg-name="RTL 102.5 Italia",RTL 102.5 Italia IT
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/Number1FM/picture?width=200&height=200" tvg-name="Number1 FM Turquía",Number1 FM Turquía
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/kronehit/picture?width=200&height=200" tvg-name="Kronehit Austria",Kronehit Austria
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/OckoExpres/picture?width=200&height=200" tvg-name="Expres Chequia",Expres Chequia CZ
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/radiom2o/picture?width=200&height=200" tvg-name="m2o Italia",m2o Italia IT
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/RadioCapitalfm/picture?width=200&height=200" tvg-name="Radio Capital Italia",Radio Capital Italia IT
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
+
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/radiozeta.it/picture?width=200&height=200" tvg-name="Radio ZETA Italia",Radio ZETA Italia IT
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
+
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/ONFM93.8/picture?width=200&height=200" tvg-name="On TV Portugal",On TV Portugal
+https://5ce9406b73c33.streamlock.net/ONFM/livestream/master.m3u8
+
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://yt3.ggpht.com/KGxBhcmGT-UX_3Hhnfw7Gwnypyn4XzUQ3_OElJuNKllBcZmE58-z_FpozwfIxl9fA7z9RPnVBwE=s200" tvg-name="NRG91 Grecia",NRG91 Grecia
+https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
+
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/retromusic/picture?width=200&height=200" tvg-name="Retro Music TV Chequia",Retro Music TV Chequia EN
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/powerapp/picture?width=200&height=200" tvg-name="Power TV Turquía",Power TV Turquía
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
+
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/CroatianMusicChannel/picture?width=200&height=200" tvg-name="CMC Croacia",CMC Croacia
+https://stream.cmctv.hr:49998/cmc/live.m3u8
+
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/skyfolk.mk/picture?width=200&height=200" tvg-name="Sky Folk Macedonia",Sky Folk Macedonia
+https://eu.live.skyfolk.mk/live.m3u8
+
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://yt3.ggpht.com/NRCQpVxbetuJyjtPjotQ4H7rq3nfFm0J2VEc2aBs7XQV7-lBFqZMfu2tGZNGOfl7TPPdQjCMxQ=s200" tvg-name="RU.TV Rusia",RU.TV Rusia
+https://hls-03-video.webcaramba.com/rutv/live.m3u8
+
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" tvg-name="Muzzik TV Serbia",Muzzik TV Serbia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
+
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" tvg-name="Muzzik Rock&Roll Serbia",Muzzik Rock&Roll Serbia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
+
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" tvg-name="Muzzik Pop Star Serbia",Muzzik Pop Star Serbia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" tvg-name="Muzzik Worldwide Serbia",Muzzik Worldwide Serbia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
+
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" tvg-name="Muzzik Jeka Serbia",Muzzik Jeka Serbia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
+
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" tvg-name="Muzzik Tiktak Serbia",Muzzik Tiktak Serbia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
+
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" tvg-name="Muzzik ZZ TV Serbia",Muzzik ZZ TV Serbia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" tvg-name="Muzzik Sense Serbia",Muzzik Sense Serbia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
+
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" tvg-name="Muzzik MTS Serbia",Muzzik MTS Serbia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+https://muzzik-live.morescreens.com/mts-a7/playlist.m3u8
+
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" tvg-name="Muzzik Flashback Serbia",Muzzik Flashback Serbia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
+
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" tvg-name="Muzzik Moba Serbia",Muzzik Moba Serbia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
+
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" tvg-name="Muzzik Electro Serbia",Muzzik Electro Serbia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+https://muzzik-live.morescreens.com/mts-9/playlist.m3u8
+
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/vtwobeat/picture?width=200&height=200" tvg-name="5k V2Beat TV",5k V2Beat TV EN
+https://abr.de1se01.v2beat.live/playlist.m3u8
+
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/sonusfmpage/picture?width=200&height=200" tvg-name="Sonus FM Alemania",Sonus FM Alemania
+#EXTVLCOPT:http-referrer=https://www.sonus.fm
+https://60015180a7f57.streamlock.net:444/public/stream_source/playlist.m3u8
+
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/DancestarTV/picture?width=200&height=200" tvg-name="DanceStar TV",DanceStar TV EN
+https://d3pyjh3ffabib0.cloudfront.net/scheduler/scheduleMaster/388.m3u8
+
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_200x200.jpg" tvg-name="Dance TV Estonia",Dance TV Estonia
+https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_200x200.jpg" tvg-name="Dance TV Estonia",Dance TV Estonia
+https://m1b2.worldcast.tv/dancetelevisiontwo/2/dancetelevisiontwo.m3u8
+
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_200x200.jpg" tvg-name="Dance TV Estonia",Dance TV Estonia
+https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionthree.m3u8
+
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_200x200.jpg" tvg-name="Dance TV Estonia",Dance TV Estonia
+https://m2b2.worldcast.tv:7443/dancetelevisionfour/2/dancetelevisionfour.m3u8
+
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_200x200.jpg" tvg-name="Dance TV Estonia",Dance TV Estonia
+https://m2b2.worldcast.tv:7443/dancetelevisionfive/2/dancetelevisionfive.m3u8
+
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_200x200.jpg" tvg-name="Dance TV Estonia",Dance TV Estonia
+https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8
+
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_200x200.jpg" tvg-name="Dance TV Estonia",Dance TV Estonia
+https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8
+
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_200x200.jpg" tvg-name="Dance TV Estonia",Dance TV Estonia
+https://mbit1.worldcast.tv/dancetelevisioneight/multibit.m3u8
+
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_200x200.jpg" tvg-name="Dance TV Estonia",Dance TV Estonia
+https://mbit1.worldcast.tv/dancetelevisionnine/multibit.m3u8
+
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/vmlatinocr/picture?width=200&height=200" tvg-name="VM Latino Costa Rica",VM Latino Costa Rica
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
+
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://pbs.twimg.com/profile_images/1758522981175754752/6DxX5Hbv_200x200.jpg" tvg-name="Venus Media Paraguay",Venus Media Paraguay
+https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
+
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/lamegaworldwide/picture?width=200&height=200" tvg-name="La Mega Mundial USA",La Mega Mundial USA
+https://server40.servistreaming.com:3477/stream/play.m3u8
+
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/30atv/picture?width=200&height=200" tvg-name="30A Music USA",30A Music USA EN
+https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8
+
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/DittyTV/picture?width=200&height=200" tvg-name="Ditty TV USA",Ditty TV USA EN
+https://0ba805a2403b4660bbb05c0a210ebbdc.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_DittyTV/playlist.m3u8
+
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/RadioU/picture?width=200&height=200" tvg-name="RadioU TV USA",RadioU TV USA EN
+#EXTVLCOPT:http-referrer=https://radiou.com/tv/
+https://1826200335.rsc.cdn77.org/1826200335/index.m3u8
+
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/retroplustv/picture?width=200&height=200" tvg-name="Retro Plus TV Chile",Retro Plus TV Chile
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/retroplustv/playlist.m3u8
+
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/CaliforniaMusicChannel/picture?width=200&height=200" tvg-name="California Music Channel USA",California Music Channel USA EN
+https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8?device=TDTChannels
+
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj90kC8kqjZ69oiVT718JUs9iedB5o1w9cKfApo=s200" tvg-name="Portal Foxmix Chile",Portal Foxmix Chile
+https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
+
+#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/MySpirittv/picture?width=200&height=200" tvg-name="Spirit TV USA",Spirit TV USA EN
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
+
+#EXTINF:-1 group-title="TV-Music" tvg-id="ClubbingTV.fr" tvg-country="FR" tvg-language="Francais" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Clubbing-TV.png",Clubbing TV
 #KODIPROP:inputstream=inputstream.adaptive
 https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
 
@@ -2285,199 +2493,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=7333
 
 #----------------------------
 
-#EXTINF:-1 group-title="TV-Music" tvg-id="SolMusica.TV" tvg-logo="https://graph.facebook.com/solmusica/picture?width=200&height=200" tvg-name="Sol Música España",Sol Música España
-https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
 
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/cadena.elitegranada/picture?width=200&height=200" tvg-name="Cadena Elite España",Cadena Elite España
-https://cloudvideo.servers10.com:8081/8004/index.m3u8
-
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/urbanrevolution.es/picture?width=200&height=200" tvg-name="La Urban TV España",La Urban TV España
-https://www.urbanrevolution.es:8443/live/TV/playlist.m3u8
-
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/QmusicNL/picture?width=200&height=200" tvg-name="QMusic Holanda",QMusic Holanda NL
-https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
-
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/tvocko/picture?width=200&height=200" tvg-name="Ocko Chequia",Ocko Chequia CZ
-https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
-
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/ockostar/picture?width=200&height=200" tvg-name="Star Chequia",Star Chequia CZ
-https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
-
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/activafm.radiomusical/picture?width=200&height=200" tvg-name="Activa TV España",Activa TV España
-https://streamtv.mediasector.es/hls/activatv/index.m3u8
-
-#EXTINF:-1 group-title="TV-Sports" tvg-logo="https://pbs.twimg.com/profile_images/1169992187314167808/TeabGtEB_200x200.jpg" tvg-name="Garage TV Argentina",Garage TV Argentina
-https://stream1.sersat.com/hls/garagetv.m3u8
-
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/molahitstv/picture?width=200&height=200" tvg-name="Molahits TV España",Molahits TV España
-https://ventdelnord.tv:8080/mola/directe.m3u8
-
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://pbs.twimg.com/profile_images/1463159511133442059/uVV15n4k_200x200.jpg" tvg-name="Verbena TV España",Verbena TV España
-https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8
-
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/spektramusictv/picture?width=200&height=200" tvg-name="Spektra TV España",Spektra TV España
-https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/radioitalia/picture?width=200&height=200" tvg-name="Radio Italia TV",Radio Italia TV IT
-https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
-
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/RTL102.5/picture?width=200&height=200" tvg-name="RTL 102.5 Italia",RTL 102.5 Italia IT
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
-
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/Number1FM/picture?width=200&height=200" tvg-name="Number1 FM Turquía",Number1 FM Turquía
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/kronehit/picture?width=200&height=200" tvg-name="Kronehit Austria",Kronehit Austria
-https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/OckoExpres/picture?width=200&height=200" tvg-name="Expres Chequia",Expres Chequia CZ
-https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
-
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/radiom2o/picture?width=200&height=200" tvg-name="m2o Italia",m2o Italia IT
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
-
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/RadioCapitalfm/picture?width=200&height=200" tvg-name="Radio Capital Italia",Radio Capital Italia IT
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
-
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/radiozeta.it/picture?width=200&height=200" tvg-name="Radio ZETA Italia",Radio ZETA Italia IT
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
-
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/ONFM93.8/picture?width=200&height=200" tvg-name="On TV Portugal",On TV Portugal
-https://5ce9406b73c33.streamlock.net/ONFM/livestream/master.m3u8
-
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://yt3.ggpht.com/KGxBhcmGT-UX_3Hhnfw7Gwnypyn4XzUQ3_OElJuNKllBcZmE58-z_FpozwfIxl9fA7z9RPnVBwE=s200" tvg-name="NRG91 Grecia",NRG91 Grecia
-https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
-
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/retromusic/picture?width=200&height=200" tvg-name="Retro Music TV Chequia",Retro Music TV Chequia EN
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/powerapp/picture?width=200&height=200" tvg-name="Power TV Turquía",Power TV Turquía
-https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
-
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/CroatianMusicChannel/picture?width=200&height=200" tvg-name="CMC Croacia",CMC Croacia
-https://stream.cmctv.hr:49998/cmc/live.m3u8
-
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/skyfolk.mk/picture?width=200&height=200" tvg-name="Sky Folk Macedonia",Sky Folk Macedonia
-https://eu.live.skyfolk.mk/live.m3u8
-
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://yt3.ggpht.com/NRCQpVxbetuJyjtPjotQ4H7rq3nfFm0J2VEc2aBs7XQV7-lBFqZMfu2tGZNGOfl7TPPdQjCMxQ=s200" tvg-name="RU.TV Rusia",RU.TV Rusia
-https://hls-03-video.webcaramba.com/rutv/live.m3u8
-
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" tvg-name="Muzzik TV Serbia",Muzzik TV Serbia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
-
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" tvg-name="Muzzik Rock&Roll Serbia",Muzzik Rock&Roll Serbia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
-
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" tvg-name="Muzzik Pop Star Serbia",Muzzik Pop Star Serbia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
-
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" tvg-name="Muzzik Worldwide Serbia",Muzzik Worldwide Serbia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
-
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" tvg-name="Muzzik Jeka Serbia",Muzzik Jeka Serbia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
-
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" tvg-name="Muzzik Tiktak Serbia",Muzzik Tiktak Serbia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
-
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" tvg-name="Muzzik ZZ TV Serbia",Muzzik ZZ TV Serbia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
-
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" tvg-name="Muzzik Sense Serbia",Muzzik Sense Serbia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
-
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" tvg-name="Muzzik MTS Serbia",Muzzik MTS Serbia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-https://muzzik-live.morescreens.com/mts-a7/playlist.m3u8
-
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" tvg-name="Muzzik Flashback Serbia",Muzzik Flashback Serbia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
-
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" tvg-name="Muzzik Moba Serbia",Muzzik Moba Serbia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
-
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/muzzik.television/picture?width=200&height=200" tvg-name="Muzzik Electro Serbia",Muzzik Electro Serbia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-https://muzzik-live.morescreens.com/mts-9/playlist.m3u8
-
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/vtwobeat/picture?width=200&height=200" tvg-name="5k V2Beat TV",5k V2Beat TV EN
-https://abr.de1se01.v2beat.live/playlist.m3u8
-
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/sonusfmpage/picture?width=200&height=200" tvg-name="Sonus FM Alemania",Sonus FM Alemania
-#EXTVLCOPT:http-referrer=https://www.sonus.fm
-https://60015180a7f57.streamlock.net:444/public/stream_source/playlist.m3u8
-
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/DancestarTV/picture?width=200&height=200" tvg-name="DanceStar TV",DanceStar TV EN
-https://d3pyjh3ffabib0.cloudfront.net/scheduler/scheduleMaster/388.m3u8
-
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_200x200.jpg" tvg-name="Dance TV Estonia",Dance TV Estonia
-https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
-
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_200x200.jpg" tvg-name="Dance TV Estonia",Dance TV Estonia
-https://m1b2.worldcast.tv/dancetelevisiontwo/2/dancetelevisiontwo.m3u8
-
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_200x200.jpg" tvg-name="Dance TV Estonia",Dance TV Estonia
-https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionthree.m3u8
-
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_200x200.jpg" tvg-name="Dance TV Estonia",Dance TV Estonia
-https://m2b2.worldcast.tv:7443/dancetelevisionfour/2/dancetelevisionfour.m3u8
-
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_200x200.jpg" tvg-name="Dance TV Estonia",Dance TV Estonia
-https://m2b2.worldcast.tv:7443/dancetelevisionfive/2/dancetelevisionfive.m3u8
-
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_200x200.jpg" tvg-name="Dance TV Estonia",Dance TV Estonia
-https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8
-
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_200x200.jpg" tvg-name="Dance TV Estonia",Dance TV Estonia
-https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8
-
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_200x200.jpg" tvg-name="Dance TV Estonia",Dance TV Estonia
-https://mbit1.worldcast.tv/dancetelevisioneight/multibit.m3u8
-
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_200x200.jpg" tvg-name="Dance TV Estonia",Dance TV Estonia
-https://mbit1.worldcast.tv/dancetelevisionnine/multibit.m3u8
-
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/vmlatinocr/picture?width=200&height=200" tvg-name="VM Latino Costa Rica",VM Latino Costa Rica
-https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
-
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://pbs.twimg.com/profile_images/1758522981175754752/6DxX5Hbv_200x200.jpg" tvg-name="Venus Media Paraguay",Venus Media Paraguay
-https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
-
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/lamegaworldwide/picture?width=200&height=200" tvg-name="La Mega Mundial USA",La Mega Mundial USA
-https://server40.servistreaming.com:3477/stream/play.m3u8
-
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/30atv/picture?width=200&height=200" tvg-name="30A Music USA",30A Music USA EN
-https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8
-
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/DittyTV/picture?width=200&height=200" tvg-name="Ditty TV USA",Ditty TV USA EN
-https://0ba805a2403b4660bbb05c0a210ebbdc.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_DittyTV/playlist.m3u8
-
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/RadioU/picture?width=200&height=200" tvg-name="RadioU TV USA",RadioU TV USA EN
-#EXTVLCOPT:http-referrer=https://radiou.com/tv/
-https://1826200335.rsc.cdn77.org/1826200335/index.m3u8
-
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/retroplustv/picture?width=200&height=200" tvg-name="Retro Plus TV Chile",Retro Plus TV Chile
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/retroplustv/playlist.m3u8
-
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/CaliforniaMusicChannel/picture?width=200&height=200" tvg-name="California Music Channel USA",California Music Channel USA EN
-https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8?device=TDTChannels
-
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj90kC8kqjZ69oiVT718JUs9iedB5o1w9cKfApo=s200" tvg-name="Portal Foxmix Chile",Portal Foxmix Chile
-https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
-
-#EXTINF:-1 group-title="TV-Music" tvg-logo="https://graph.facebook.com/MySpirittv/picture?width=200&height=200" tvg-name="Spirit TV USA",Spirit TV USA EN
-https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 
 #----------------------------
 
