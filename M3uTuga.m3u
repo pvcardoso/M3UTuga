@@ -108,16 +108,6 @@ https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX
 #KODIPROP:inputstream=inputstream.adaptive
 https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 
-#EXTINF:-1 group-title="TV-WorldNews" tvg-id="Euronews.TV" tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" tvg-name="Euronews.TV",Euronews.TV
-https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/eyJzdGlkIjoiMDA0YjY0NTMtYjY2MC00ZTZkLTlkNzEtMTk3YTM3ZDZhZWIxIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjoxfQ==/26034/euronews-es.m3u8
-
-#EXTINF:-1 group-title="TV-PT;TV-WorldNews" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews PT
-#KODIPROP:inputstream=inputstream.adaptive
-https://euronews-live-por-pt.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6572/7392d4f0-7e24-4dbe-8482-f165e712eeed/5.m3u8
-
-#EXTINF:-1 group-title="TV-PT;TV-WorldNews" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews PT
-#https://youtu.be/XuZAl-ZPEcA
-
 #EXTINF:-1 group-title="TV-PT" tvg-id="ARTV.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ARTV.png",ARTV
 #KODIPROP:inputstream=inputstream.adaptive
 https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3u8
@@ -281,23 +271,33 @@ http://online.tvm.co.mz:1935/live/Channel1.smil/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 http://online.tvm.co.mz:1935/live/Channel2.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="TV-PT;TV-WorldNews" tvg-id="Euronews.TV" tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" tvg-name="Euronews.TV",Euronews.TV
+https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/eyJzdGlkIjoiMDA0YjY0NTMtYjY2MC00ZTZkLTlkNzEtMTk3YTM3ZDZhZWIxIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjoxfQ==/26034/euronews-es.m3u8
+
+#EXTINF:-1 group-title="TV-PT;TV-WorldNews" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews PT
+#KODIPROP:inputstream=inputstream.adaptive
+https://euronews-live-por-pt.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6572/7392d4f0-7e24-4dbe-8482-f165e712eeed/5.m3u8
+
+#EXTINF:-1 group-title="TV-PT;TV-WorldNews" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews PT
+#https://youtu.be/XuZAl-ZPEcA
+
 #EXTINF:-1 group-title="TV-PT" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews EN
 #KODIPROP:inputstream=inputstream.adaptive
 https://rakuten-euronews-9-gb.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV-PT" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews ES
+#EXTINF:-1 group-title="TV-PT;TV-WorldNews" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews ES
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hlshttps://rakuten-euronews-12-es.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV-PT" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews IT
+#EXTINF:-1 group-title="TV-PT;TV-WorldNews" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews IT
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hlshttps://rakuten-euronews-11-it.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV-PT" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews FR
+#EXTINF:-1 group-title="TV-PT;TV-WorldNews" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews FR
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hlshttps://rakuten-euronews-2-fr.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV-PT" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews DE
+#EXTINF:-1 group-title="TV-PT;TV-WorldNews" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews DE
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hlshttps://rakuten-euronews-13-de.lg.wurl.tv/playlist.m3u8
 
@@ -486,10 +486,6 @@ https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
 #EXTINF:-1 group-title="TV-PT" tvg-id="CanalMalaga.es" tvg-logo="",Canal Málaga
 #KODIPROP:inputstream=inputstream.adaptive
 http://canalmalaga-tv-live.flumotion.com/playlist.m3u8
-
-#EXTINF:-1 group-title="TV-PT" tvg-id="AragonTV.es" tvg-logo="",Aragón TV
-#KODIPROP:inputstream=inputstream.adaptive
-http://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
 #EXTINF:-1 group-title="TV-PT" tvg-id="ETB1.es" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ETB-1.png",ETB 1
 #KODIPROP:inputstream=inputstream.adaptive
@@ -785,10 +781,6 @@ https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 http://canalmalaga-tv-live.flumotion.com/playlist.m3u8
 
-#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="AragonTV.es" tvg-logo="",Aragón TV
-#KODIPROP:inputstream=inputstream.adaptive
-http://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
-
 #EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="ETB1.es" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ETB-1.png",ETB 1
 #KODIPROP:inputstream=inputstream.adaptive
 https://multimedia.eitb.eus/live-content/etb1hd-hls/index.m3u8
@@ -824,10 +816,6 @@ https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
 #EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="CanalMalaga.es" tvg-logo="",Canal Málaga
 #KODIPROP:inputstream=inputstream.adaptive
 http://canalmalaga-tv-live.flumotion.com/playlist.m3u8
-
-#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="AragonTV.es" tvg-logo="",Aragón TV
-#KODIPROP:inputstream=inputstream.adaptive
-http://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
 #EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="ETB1.es" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ETB-1.png",ETB 1
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1933,10 +1921,14 @@ https://stream2.parlamentodeandalucia.es/realizacion3/realizacion3/playlist.m3u8
 #EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-logo="https://graph.facebook.com/parlamentodeandalucia.es/picture?width=200&height=200" tvg-name="Parlamento de Andalucía",Parlamento de Andalucía
 https://stream2.parlamentodeandalucia.es/realizacion4/realizacion4/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="AragonTV.TV" tvg-logo="https://graph.facebook.com/AragonTV/picture?width=200&height=200" group-title="Aragón" tvg-name="Aragón TV",Aragón TV
+#EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="AragonTV.es" tvg-logo="",Aragón TV
+#KODIPROP:inputstream=inputstream.adaptive
+http://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+
+#EXTINF:-1 group-title="TV-ES" tvg-id="AragonTV.TV" tvg-logo="https://graph.facebook.com/AragonTV/picture?width=200&height=200" group-title="Aragón" tvg-name="Aragón TV",Aragón TV
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/AragonNoticias/picture?width=200&height=200" group-title="Aragón" tvg-name="Aragón Noticias",Aragón Noticias
+#EXTINF:-1 group-title="TV-ES" tvg-logo="https://graph.facebook.com/AragonNoticias/picture?width=200&height=200" group-title="Aragón" tvg-name="Aragón Noticias",Aragón Noticias
 https://cartv-streaming.aranova.es/hls/live/anoticias_canal3.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/tvbarbastro/picture?width=200&height=200" group-title="Aragón" tvg-name="Canal 25 Barbastro TV",Canal 25 Barbastro TV
