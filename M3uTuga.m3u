@@ -3140,7 +3140,7 @@ https://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=746966
 #EXTINF:-1 group-title="TV-IT;TV-Anime" tvg-id="RaiGulp.it" tvg-country="IT" tvg-language="Italiano",Rai Gulp (1080p)
 http://188.60.179.180:8000/play/xxRaiGulpxx
 
-#EXTINF:-1 group-title="TV-IT,TV-Movies" tvg-country="IT" tvg-language="Italiano" tvg-id="RaiMovie.it",Rai Movie (1080p)
+#EXTINF:-1 group-title="TV-IT;TV-Movies" tvg-country="IT" tvg-language="Italiano" tvg-id="RaiMovie.it",Rai Movie (1080p)
 http://188.60.179.180:8000/play/xxRaiMOviexx
 
 #EXTINF:-1 group-title="TV-IT" tvg-country="IT" tvg-language="Italiano" tvg-id="RaiNews24.it",Rai News 24 (720p)
