@@ -539,6 +539,22 @@ https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.
 
 #-----------------
 
+#EXTINF:-1 group-title="Entertainment",Comedy Central
+https://pluto.tv/us/live-tv/5ca671f215a62078d2ec0abf
+
+#EXTINF:-1group-title="Entertainment",Sitcom Legends
+https://pluto.tv/us/live-tv/633354b63df9700007f6a1b7
+
+#EXTINF:-1 group-title="Entertainment",Cheers + Frasier
+https://pluto.tv/us/live-tv/66ba495ffe11e5000881f049
+
+#EXTINF:-1 group-title="Entertainment",TV Land Sitcoms
+https://pluto.tv/us/live-tv/5c2d64ffbdf11b71587184b8
+
+
+
+#-----------------
+
 #EXTINF:-1 group-title="TV-BR;TV-Anime" tvg-id="Geekdot.br" tvg-logo="https://i.imgur.com/jML1u4O.png",Geekdot
 #KODIPROP:inputstream=inputstream.adaptive
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
@@ -3735,4 +3751,5 @@ https://amg00376-magellan-amg00376c11-rakuten-us-1700.playouts.now.amagi.tv/play
 https://worldofloveisland-rakuten.amagi.tv/playlist.m3u8
 
 #-------------------------------------------------
+
 
