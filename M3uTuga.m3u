@@ -45,16 +45,18 @@ https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="XITE.nl" tvg-logo="https://i.imgur.com/jxuwGRi.png",XITE
 https://xite-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="KuriakosCine.pt" tvg-logo="https://kuriakos-cine.com/wp-content/uploads/2022/11/Logo_cine.png",Kuriakos Cine
+#-----------------
+
+#EXTINF:-1 group-title="TV-PT" tvg-id="KuriakosCine.pt" tvg-logo="https://kuriakos-cine.com/wp-content/uploads/2022/11/Logo_cine.png",Kuriakos Cine
 https://w2.manasat.com/kcine/kcine.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="KuriakosKids.pt" tvg-logo="https://kuriakos-kids.com/wp-content/uploads/2023/06/KuriakosKids_curvas.jpg",Kuriakos Kids
+#EXTINF:-1 group-title="TV-PT" tvg-id="KuriakosKids.pt" tvg-logo="https://kuriakos-kids.com/wp-content/uploads/2023/06/KuriakosKids_curvas.jpg",Kuriakos Kids
 https://w2.manasat.com/kkids/kkids.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="KuriakosMusic.pt" tvg-logo="https://kuriakosmusic.com/wp-content/uploads/2022/11/263x196_v1.png",Kuriakos Music
+#EXTINF:-1 group-title="TV-PT" tvg-id="KuriakosMusic.pt" tvg-logo="https://kuriakosmusic.com/wp-content/uploads/2022/11/263x196_v1.png",Kuriakos Music
 https://w2.manasat.com/kmusic/kmusic.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="TVCancaoNova.pt" tvg-logo="https://tv.cancaonova.pt/wp-content/uploads/2016/01/logo_cn_radio.png",Canção Nova
+#EXTINF:-1 group-title="TV-PT" tvg-id="TVCancaoNova.pt" tvg-logo="https://tv.cancaonova.pt/wp-content/uploads/2016/01/logo_cn_radio.png",Canção Nova
 https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8
 
 
@@ -68,7 +70,6 @@ http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 
 #EXTINF:-1 group-title="TV-WorldNews" tvg-id="Fox.Business.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-business-us.png?raw=true" tvg-name="FOX Business Network",FOX Business Network
 http://fl3.moveonjoy.com/FOX_Business_Network/index.m3u8
-
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="plex.tv.FOX.SOUL.plex" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-soul-us.png?raw=true" tvg-name="FOX SOUL",FOX SOUL
 http://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
@@ -1836,16 +1837,16 @@ https://media.streambr.com:19360/8158/8158.m3u8
 #EXTINF:-1 group-title="TV-US" tvg-id="FailArmy.us@Poland" tvg-logo="https://i.imgur.com/VIpQJxL.png" group-title="TV-Comedy",Fail Army (720p)
 https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/playlist.m3u8
 
-#EXTINF:-1 group-title="TV-US" tvg-logo="https://graph.facebook.com/miamitv/picture?width=200&height=200" tvg-name="Miami TV",Miami TV
+#EXTINF:-1 group-title="TV-US" tvg-logo="https://graph.facebook.com/miamitv/picture?width=200&height=200" tvg-name="Miami TV 1",Miami TV 1
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
 
-#EXTINF:-1 group-title="TV-US" tvg-logo="https://graph.facebook.com/miamitv/picture?width=200&height=200" tvg-name="Miami TV",Miami TV
+#EXTINF:-1 group-title="TV-US" tvg-logo="https://graph.facebook.com/miamitv/picture?width=200&height=200" tvg-name="Miami TV 2",Miami TV 2
 https://59ec5453559f0.streamlock.net/Latino/smil:WEB/playlist.m3u8
 
-#EXTINF:-1 group-title="TV-US" tvg-logo="https://graph.facebook.com/miamitv/picture?width=200&height=200" tvg-name="Miami TV",Miami TV
+#EXTINF:-1 group-title="TV-US" tvg-logo="https://graph.facebook.com/miamitv/picture?width=200&height=200" tvg-name="Miami TV 3",Miami TV 3
 https://59ec5453559f0.streamlock.net/JennyLive/smil:41235/playlist.m3u8
 
-#EXTINF:-1 group-title="TV-US;TV-MUSIC" tvg-logo="https://graph.facebook.com/miamitv/picture?width=200&height=200" tvg-name="Miami TV",Miami TV
+#EXTINF:-1 group-title="TV-US" tvg-logo="https://graph.facebook.com/miamitv/picture?width=200&height=200" tvg-name="Miami TV 4",Miami TV 4
 https://59ec5453559f0.streamlock.net/miamitvmusic/smil:WEB/playlist.m3u8
 
 #EXTINF:-1 group-title="TV-US" tvg-logo="https://yt3.ggpht.com/fTP5oS376nZhVbS55-OocogCJCDH4UXIyRrirF6keIya4AN4I54TmLkFnnjvE4FRq5UMv8BO=s200" tvg-name="Bloomberg Quicktake",Bloomberg Quicktake EN
