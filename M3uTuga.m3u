@@ -125,7 +125,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #EXTINF:-1 group-title="TV-DE" tvg-id="DW.TV" tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200" tvg-name="DW Alemania",DW Alemania DE
-https://dwamdstream111.akamaized.net/hls/live/2017972/dwstream111/index.m3u8
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8
 
 #EXTINF:-1 group-title="TV-DE" tvg-logo="https://graph.facebook.com/DasErste/picture?width=200&height=200" tvg-name="Das Erste Alemania",Das Erste Alemania DE
 https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
