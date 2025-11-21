@@ -1,5 +1,8 @@
 ## 📺 TV
 
+#EXTINF:-1 group-title="TV" tvg-id="RecordTV Europa" tvg-logo="https://i.imgur.com/DvxfBTE.png",RecordTV Europa
+https://live-recordeuropa.visioncdn.com/live/recordeuropa/master.m3u8
+
 #EXTINF:-1 group-title="TV" tvg-id="RealWild.us" tvg-logo="https://i.imgur.com/T9HHmAO.png",Real Wild
 https://lds-realwild-vizio.amagi.tv/playlist.m3u8
 
