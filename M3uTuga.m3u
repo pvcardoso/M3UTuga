@@ -36,6 +36,9 @@ https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.
 #KODIPROP:inputstream=inputstream.adaptive
 https://w1.manasat.com/ktv/ktv.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="TV-PT" tvg-id="Rakuten Família",Rakuten Família
+https://48faa1daf24549fab34594bc5bdd99f2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6213/master.m3u8
+
 #-----------------
 
 #EXTINF:-1 group-title="TV-AD" tvg-id="ATVHD.TV" tvg-logo="https://graph.facebook.com/rtva.andorra/picture?width=200&height=200" tvg-name="ATV Andorra",ATV Andorra
@@ -115,14 +118,15 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/patscz/playlist.m3u8
 
 #----------------------------
 
-#EXTINF:-1 group-title="TV-DE" tvg-id="DW.TV" tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200" tvg-name="DW Alemania",DW Alemania
+#EXTINF:-1 group-title="TV-DE" tvg-id="DW.TV" tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200" tvg-name="DW Alemania",DW Alemania ES
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #EXTINF:-1 group-title="TV-DE" tvg-id="DW.TV" tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200" tvg-name="DW Alemania",DW Alemania EN
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #EXTINF:-1 group-title="TV-DE" tvg-id="DW.TV" tvg-logo="https://graph.facebook.com/dw.espanol/picture?width=200&height=200" tvg-name="DW Alemania",DW Alemania DE
-https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
+#https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
+https://dwamdstream111.akamaized.net/hls/live/2017972/dwstream111/index.m3u8
 
 #EXTINF:-1 group-title="TV-DE" tvg-logo="https://graph.facebook.com/DasErste/picture?width=200&height=200" tvg-name="Das Erste Alemania",Das Erste Alemania DE
 https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
@@ -317,26 +321,6 @@ https://www.bloomberg.com/media-manifest/streams/us-event.m3u8
 
 #EXTINF:-1 group-title="TV-Generic" tvg-id="PeopleAreAwesome.pl" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/1cc9ab7e-8283-4c32-a3f3-e2a4d0e1d33f-width200-quality90.jpeg" group-title="Undefined",People Are Awesome (720p)
 https://3ab76e42.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1Blb3BsZUFyZUF3ZXNvbWVfSExT/playlist.m3u8
-
-#-------------------
-
-#EXTINF:-1 group-title="TV-JP" tvg-id="tv_osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tv_osaka_logo.svg/178px-Tv_osaka_logo.svg.png",TV Osaka
-http://luong.utako.moe/tvo/index.m3u8
-
-#EXTINF:-1 group-title="TV-JP" tvg-logo="https://graph.facebook.com/nhkworld/picture?width=200&height=200" tvg-name="NHK World Japan",NHK World Japan EN
-https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
-
-#EXTINF:-1 group-title="TV-JP" tvg-logo="https://graph.facebook.com/ntvnews24/picture?width=200&height=200" tvg-name="Nippon News TV Japan",Nippon News TV Japan
-https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-
-#EXTINF:-1 group-title="TV-JP" tvg-id="nhkg_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G
-http://vthanh.utako.moe/NHK_G/index.m3u8
-
-#EXTINF:-1 group-title="TV-JP" tvg-id="mbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1920px-Mainichi_Broadcasting_System_logo.svg.png",MBS
-http://luong.utako.moe/mbs/index.m3u8
-
-#EXTINF:-1 group-title="TV-JP" tvg-id="abc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/261px-Asahi_Broadcasting_Corporation_Logo.svg.png",ABC
-http://luong.utako.moe/abc/index.m3u8
 
 #----------------------------
 
@@ -2552,12 +2536,6 @@ https://media.streambr.com:19360/8158/8158.m3u8
 
 #----------------------------
 
-#EXTINF:-1 group-title="TV-US" tvg-id="plex.tv.FOX.SOUL.plex" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-soul-us.png?raw=true" tvg-name="FOX SOUL",FOX SOUL
-http://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
-
-#EXTINF:-1 group-title="TV-US" tvg-logo="https://graph.facebook.com/livenowfox/picture?width=200&height=200" tvg-name="FOX Live Now USA",FOX Live Now USA EN
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 group-title="TV-US" tvg-logo="https://graph.facebook.com/ABCNews/picture?width=200&height=200" tvg-name="ABC News USA",ABC News USA EN
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
@@ -2596,9 +2574,6 @@ https://live.gideo.video/americateve2/master.m3u8
 
 #EXTINF:-1 group-title="TV-US" tvg-id="Rakuten Documentários",Rakuten Documentários
 https://ead2625dd95b42dabfd015fadcf144e3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6222/master.m3u8
-
-#EXTINF:-1 group-title="TV-US" tvg-id="Rakuten Família",Rakuten Família
-https://48faa1daf24549fab34594bc5bdd99f2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6213/master.m3u8
 
 #-----------------
 
