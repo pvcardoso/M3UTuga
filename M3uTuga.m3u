@@ -3,9 +3,6 @@
 #EXTINF:-1 group-title="TV" tvg-id="RFPtv.pt" tvg-logo="https://www.rfptv.pt/storage/479/config/MYvhCGImba3MPCwmRu2pZgGkFhy2L6tkTLsSO3LN.png",RFPtv
 https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="ShemarooBollywood.us" tvg-logo="https://i.imgur.com/TFxLj80.png",shemaroo Bollywood
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-
 #EXTINF:-1 group-title="TV" tvg-id="RealWild.us" tvg-logo="https://i.imgur.com/T9HHmAO.png",Real Wild
 https://lds-realwild-vizio.amagi.tv/playlist.m3u8
 
