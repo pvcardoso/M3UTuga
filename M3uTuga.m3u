@@ -38,6 +38,15 @@ https://videos.rtva.ad/live/rtva/playlist.m3u8
 #EXTINF:-1 group-title="TV-AO" tvg-id="TVZimbo.ao" tvg-logo="https://i.imgur.com/SFD8CBh.png",TV Zimbo
 https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8
 
+#EXTINF:-1 group-title="TV-AO" tvg-id="KKTV.ao@SD",KK TV Angola (1080p)
+https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="TV-AO" tvg-id="MuzangalaTV.ao@SD",Muzangala TV (1080p)
+https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
+
+#EXTINF:-1 group-title="TV-AO" tvg-id="TPA1.ao@SD",TPA1
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120430/tpa1/playlist.m3u8
+
 #-----------------
 
 #EXTINF:-1 group-title="TV-Anime" group-title="TV-IT" tvg-id="RaiGulp.it",Rai Gulp (1080p)
