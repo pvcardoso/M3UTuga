@@ -261,7 +261,7 @@ https://streaming013.gestec-video.com/hls/negociostv.m3u8
 #EXTINF:-1 group-title="TV-ES" tvg-country="ES" tvg-id="ElConfidencial.TV" tvg-logo="https://graph.facebook.com/elconfidencial/picture?width=200&height=200" tvg-name="El Confidencial",El Confidencial
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
 
-#EXTINF:-1 group-title="TV-ES"  tvg-logo="https://images.pluto.tv/channels/63dac28760bc8f0008a7654b/colorLogoPNG.png"  ,Realmadrid TV
+#EXTINF:-1 group-title="TV-ES"  tvg-logo="https://images.pluto.tv/channels/63dac28760bc8f0008a7654b/colorLogoPNG.png",Realmadrid TV
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63dac28760bc8f0008a7654blivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
 #-----------------
@@ -1764,35 +1764,17 @@ https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 group-title="TV-US" tvg-logo="https://graph.facebook.com/miamitv/picture?width=200&height=200" tvg-name="Miami TV 1",Miami TV 1
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
 
-#EXTINF:-1 group-title="TV-US" tvg-logo="https://graph.facebook.com/miamitv/picture?width=200&height=200" tvg-name="Miami TV 2",Miami TV 2
-https://59ec5453559f0.streamlock.net/Latino/smil:WEB/playlist.m3u8
-
 #EXTINF:-1 group-title="TV-US" tvg-logo="https://graph.facebook.com/miamitv/picture?width=200&height=200" tvg-name="Miami TV 3",Miami TV 3
 https://59ec5453559f0.streamlock.net/JennyLive/smil:41235/playlist.m3u8
 
-#EXTINF:-1 group-title="TV-US" tvg-logo="https://graph.facebook.com/miamitv/picture?width=200&height=200" tvg-name="Miami TV 4",Miami TV 4
-https://59ec5453559f0.streamlock.net/miamitvmusic/smil:WEB/playlist.m3u8
-
-#EXTINF:-1 group-title="TV-US" tvg-logo="https://yt3.ggpht.com/fTP5oS376nZhVbS55-OocogCJCDH4UXIyRrirF6keIya4AN4I54TmLkFnnjvE4FRq5UMv8BO=s200" tvg-name="Bloomberg Quicktake",Bloomberg Quicktake EN
-https://www.bloomberg.com/media-manifest/streams/qt.m3u8
-
 #EXTINF:-1 group-title="TV-US" tvg-logo="https://graph.facebook.com/courttv/picture?width=200&height=200" tvg-name="CourtTV USA",CourtTV USA EN
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
-
-#EXTINF:-1 group-title="TV-US" tvg-logo="https://graph.facebook.com/NASA/picture?width=200&height=200" tvg-name="NASA TV Public",NASA TV Public
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-
-#EXTINF:-1 group-title="TV-US" tvg-logo="https://graph.facebook.com/NASA/picture?width=200&height=200" tvg-name="NASA TV Media",NASA TV Media
-https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
 #EXTINF:-1 group-title="TV-US" tvg-logo="https://graph.facebook.com/WeatherNation/picture?width=200&height=200" tvg-name="WeatherNation USA",WeatherNation USA
 https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
 
 #EXTINF:-1 group-title="TV-US" tvg-logo="https://graph.facebook.com/RealAmericasVoice/picture?width=200&height=200" tvg-name="America's Voice USA",America's Voice USA EN
 https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AmericasVoiceChannel-prod/AVSamsung/AVSamsung.m3u8
-
-#EXTINF:-1 group-title="TV-US" tvg-logo="https://graph.facebook.com/BUZZRtv/picture?width=200&height=200" tvg-name="BUZZR TV USA",BUZZR TV USA EN
-https://dppfr4x925mob.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jhavhys12ky02/playlist.m3u8
 
 #EXTINF:-1 group-title="TV-US" tvg-logo="https://graph.facebook.com/newsmax/picture?width=200&height=200" tvg-name="Newsmax TV USA",Newsmax TV USA EN
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
@@ -1803,21 +1785,11 @@ https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 #EXTINF:-1 group-title="TV-US" tvg-logo="https://graph.facebook.com/americateve/picture?width=200&height=200" tvg-name="America TeVe USA",America TeVe USA
 https://live.gideo.video/americateve2/master.m3u8
 
-#EXTINF:-1 group-title="TV-US" tvg-id="BloombergQuicktake.us",Bloomberg Quicktake (1080p)
-https://bloomberg-quicktake-1-pt.samsung.wurl.tv/manifest/playlist.m3u8
-
-#EXTINF:-1 group-title="TV-US" tvg-id="BloombergTV.us",Bloomberg TV US (1080p)
-https://8c916ce141544c85a361e55898216cf0.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_Bloomberg-2/playlist.m3u8
-
 #EXTINF:-1 group-title="TV-US" tvg-id="Rakuten Documentários",Rakuten Documentários
 https://ead2625dd95b42dabfd015fadcf144e3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6222/master.m3u8
 
 #EXTINF:-1 group-title="TV-US" tvg-id="Rakuten Família",Rakuten Família
 https://48faa1daf24549fab34594bc5bdd99f2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6213/master.m3u8
-
-#EXTINF:-1 group-title="TV-US" tvg-id="space_shower" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/SPACE_SHOWER_TV.jpg",Space Shower TV
-http://luong.utako.moe/spaceshower/index.m3u8
-
 
 #-----------------
 
