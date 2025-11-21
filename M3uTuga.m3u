@@ -47,7 +47,13 @@ https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8
 
 #-----------------
 
-#EXTINF:-1 group-title="TV-Anime;TV-BR; tvg-id="Geekdot.br" tvg-logo="https://i.imgur.com/jML1u4O.png",Geekdot
+#EXTINF:-1 group-title="TV-UK;TV-Anime" tvg-id="BeanoTV.uk" tvg-country="UK",Beano TV (720p)
+https://beanostudios-beanotv-1-gb.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TV-IT;TV-Anime" tvg-id="RaiGulp.it",Rai Gulp (1080p)
+http://188.60.179.180:8000/play/xxRaiGulpxx
+
+#EXTINF:-1 group-title="TV-Anime" group-title="TV-BR" tvg-id="Geekdot.br" tvg-logo="https://i.imgur.com/jML1u4O.png",Geekdot
 #KODIPROP:inputstream=inputstream.adaptive
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 
@@ -2034,9 +2040,6 @@ https://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-country="IT" tvg-language="Italiano" tvg-id="Rai4.it",Rai 4 (576p)
 https://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=746966
 
-#EXTINF:-1 group-title="TV-IT;TV-Anime" tvg-id="RaiGulp.it",Rai Gulp (1080p)
-http://188.60.179.180:8000/play/xxRaiGulpxx
-
 #EXTINF:-1 group-title="TV-IT;TV-Movies" tvg-country="IT" tvg-language="Italiano" tvg-id="RaiMovie.it",Rai Movie (1080p)
 http://188.60.179.180:8000/play/xxRaiMOviexx
 
@@ -2587,9 +2590,6 @@ https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Liv
 
 #EXTINF:-1 group-title="TV-UK" tvg-logo="https://graph.facebook.com/GBNewsOnline/picture?width=200&height=200" tvg-name="GB News UK",GB News UK EN
 https://amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv/playlist/amg01076-lightningintern-gbnews-samsunguk/playlist.m3u8
-
-#EXTINF:-1 group-title="TV-UK;TV-Anime" tvg-id="BeanoTV.uk" tvg-country="UK",Beano TV (720p)
-https://beanostudios-beanotv-1-gb.samsung.wurl.tv/playlist.m3u8
 
 #----------------------------
 
