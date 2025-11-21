@@ -1,20 +1,6 @@
 ## 📺 TV
 
 
-#EXTINF:-1 group-title="TV" tvg-id="RealWild.us" tvg-logo="https://i.imgur.com/T9HHmAO.png",Real Wild
-https://lds-realwild-vizio.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="TV-AO" tvg-id="TVZimbo.ao" tvg-logo="https://i.imgur.com/SFD8CBh.png",TV Zimbo
-https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8
-
-#EXTINF:-1 group-title="TV-US" tvg-id="NTD.com" tvg-logo="https://www.ntd.com/images/ENTD180.jpeg",NTD News
-https://amg17596-amg17596c1-ntdtv-worldwide-3276.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-ntdtvworldwide/playlist.m3u8
-
-#EXTINF:-1 group-title="TV-Anime" tvg-id="RakutenTVFamilyMovies.uk",Rakuten Family
-https://48faa1daf24549fab34594bc5bdd99f2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6213/master.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="Geekdot.br" tvg-logo="https://i.imgur.com/jML1u4O.png",Geekdot
-https://stream.ichibantv.com:3764/hybrid/play.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="XITE.nl" tvg-logo="https://i.imgur.com/jxuwGRi.png",XITE
 https://xite-rakuten.amagi.tv/playlist.m3u8
@@ -56,7 +42,12 @@ https://videos.rtva.ad/live/rtva/playlist.m3u8
 
 #-----------------
 
-#EXTINF:-1 group-title="TV-BR;TV-Anime" tvg-id="Geekdot.br" tvg-logo="https://i.imgur.com/jML1u4O.png",Geekdot
+#EXTINF:-1 group-title="TV-AO" tvg-id="TVZimbo.ao" tvg-logo="https://i.imgur.com/SFD8CBh.png",TV Zimbo
+https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8
+
+#-----------------
+
+#EXTINF:-1 group-title="TV-Anime;TV-BR; tvg-id="Geekdot.br" tvg-logo="https://i.imgur.com/jML1u4O.png",Geekdot
 #KODIPROP:inputstream=inputstream.adaptive
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 
@@ -65,6 +56,9 @@ https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
 #EXTINF:-1 group-title="TV-Anime" tvg-id="PlutoTVAnimauxFrance.fr" tvg-logo="https://i.imgur.com/jxYlLsd.png",Pluto TV Animaux (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60925a44f0350600075a1fdc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc78c1-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5cc06a56-861b-4448-84df-34ad224ceaa7
+
+#EXTINF:-1 group-title="TV-Anime" tvg-id="RakutenTVFamilyMovies.uk",Rakuten Family
+https://48faa1daf24549fab34594bc5bdd99f2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6213/master.m3u8
 
 #-----------------
 
@@ -116,6 +110,33 @@ https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
 
 #EXTINF:-1 group-title="TV-BO" tvg-logo="https://graph.facebook.com/patboliviahd/picture?width=200&height=200" tvg-name="Red Pat Bolivia",Red Pat Bolivia
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/patscz/playlist.m3u8
+
+#----------------------------
+
+#EXTINF:-1 group-title="TV-CO" tvg-logo="https://graph.facebook.com/NoticiasCaracol/picture?width=200&height=200" tvg-name="Noticias Caracol Colombia",Noticias Caracol Colombia
+https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
+
+#EXTINF:-1 group-title="TV-CO" tvg-logo="https://graph.facebook.com/CanalTeleantioquia/picture?width=200&height=200" tvg-name="Teleantioquia Colombia",Teleantioquia Colombia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist_DVR.m3u8
+
+#EXTINF:-1 group-title="TV-CO" tvg-logo="https://graph.facebook.com/CanalCapitalOficial/picture?width=200&height=200" tvg-name="Canal Capital Colombia",Canal Capital Colombia
+https://cdns.livewave.co:19360/canalcapital/canalcapital.m3u8
+
+#EXTINF:-1 group-title="TV-CO" tvg-logo="https://graph.facebook.com/TelepacificoTV/picture?width=200&height=200" tvg-name="Telepacifico Colombia",Telepacifico Colombia
+#EXTVLCOPT:http-referrer=https://telepacifico.com/envivo/
+https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
+
+#EXTINF:-1 group-title="TV-CO" tvg-logo="https://pbs.twimg.com/profile_images/1850052710403342336/m-om6omY_200x200.jpg" tvg-name="Canal Telecaribe Colombia",Canal Telecaribe Colombia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp01.smil/playlist.m3u8?DVR
+
+#EXTINF:-1 group-title="TV-CO" tvg-logo="https://graph.facebook.com/canaltro/picture?width=200&height=200" tvg-name="Canal TRO Colombia",Canal TRO Colombia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
 
 #----------------------------
 
@@ -774,46 +795,44 @@ http://sdream.info:8080/hls/livestream/index.m3u8
 
 #----------------------------
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200" group-title="Eventuales" tvg-name="Congreso de los Diputados",Congreso de los Diputados
+#EXTINF:-1 group-title="TV-ES" tvg-logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200" group-title="Eventuales" tvg-name="Congreso de los Diputados",Congreso de los Diputados
 https://congresodirecto.akamaized.net/hls/live/2038274/canal1/master.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200" group-title="Eventuales" tvg-name="Congreso de los Diputados",Congreso de los Diputados
+#EXTINF:-1 group-title="TV-ES" tvg-logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200" group-title="Eventuales" tvg-name="Congreso de los Diputados",Congreso de los Diputados
 https://congresodirecto.akamaized.net/hls/live/2038275/canal2/master.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200" group-title="Eventuales" tvg-name="Congreso de los Diputados",Congreso de los Diputados
+#EXTINF:-1 group-title="TV-ES" tvg-logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200" group-title="Eventuales" tvg-name="Congreso de los Diputados",Congreso de los Diputados
 https://congresodirecto.akamaized.net/hls/live/2038276/canal3/master.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200" group-title="Eventuales" tvg-name="Congreso de los Diputados",Congreso de los Diputados
+#EXTINF:-1 group-title="TV-ES" tvg-logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200" group-title="Eventuales" tvg-name="Congreso de los Diputados",Congreso de los Diputados
 https://congresodirecto.akamaized.net/hls/live/2038277/canal4/master.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200" group-title="Eventuales" tvg-name="Congreso de los Diputados",Congreso de los Diputados
+#EXTINF:-1 group-title="TV-ES" tvg-logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200" group-title="Eventuales" tvg-name="Congreso de los Diputados",Congreso de los Diputados
 https://congresodirecto.akamaized.net/hls/live/2038278/canal5/master.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/PalaciodelaMoncloa/picture?width=200&height=200" group-title="Eventuales" tvg-name="La Moncloa (Presidente)",La Moncloa (Presidente)
+#EXTINF:-1 group-title="TV-ES" tvg-logo="https://graph.facebook.com/PalaciodelaMoncloa/picture?width=200&height=200" group-title="Eventuales" tvg-name="La Moncloa (Presidente)",La Moncloa (Presidente)
 https://cdnswitch-mediahub.overon.es/stream/stream.m3u8?key=R6w5wbcxW3dLF9aNOGEsHuoNhqfSJoiRWNDWLLfNslI&pwd=QheEdHkaeHFGDHJgIwzUDoqcVjjFMef8TMGuGvkMets&stream=y3-IxQxNk4XjlfJDtBjIh7tfO628d9gbkd010uKioms&output=ginkIjHWeyffMLRZNMVovht3RnH_feedjshkMm7sr14&channel=D1tXjvcs_5NeEEMxP6mrmSggh3Uyu3kE5jyqGlgCZ4A&protocol=4CMm-Q0epGZ0SHQGeELoqqA2gfzFVCFwoiACYszyPM4&type=3pIgQ1TALsxZg7Zf0kZLkA4InWPfKONROAImuoufxKg
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/PalaciodelaMoncloa/picture?width=200&height=200" group-title="Eventuales" tvg-name="La Moncloa (Ministros)",La Moncloa (Ministros)
+#EXTINF:-1 group-title="TV-ES" tvg-logo="https://graph.facebook.com/PalaciodelaMoncloa/picture?width=200&height=200" group-title="Eventuales" tvg-name="La Moncloa (Ministros)",La Moncloa (Ministros)
 https://cdnswitch-mediahub.overon.es/stream/stream.m3u8?key=R6w5wbcxW3dLF9aNOGEsHuoNhqfSJoiRWNDWLLfNslI&pwd=QheEdHkaeHFGDHJgIwzUDoqcVjjFMef8TMGuGvkMets&stream=o0RCNMRf-BPdBiuDSId7vbxANj4YFVpbXkxNkFKm35s&output=z3mwepuDBMOnja63VsgAcCGwmmOPD-I5yFYOiyCvBcc&channel=FBDoImE2NP77XpNbdycjnwCkI0YjxLeqTKr8QGV9bAI&protocol=4CMm-Q0epGZ0SHQGeELoqqA2gfzFVCFwoiACYszyPM4&type=3pIgQ1TALsxZg7Zf0kZLkA4InWPfKONROAImuoufxKg
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://pbs.twimg.com/profile_images/1915674659594420224/qKUnga8L_200x200.jpg" group-title="Eventuales" tvg-name="Senado",Senado
+#EXTINF:-1 group-title="TV-ES" tvg-logo="https://pbs.twimg.com/profile_images/1915674659594420224/qKUnga8L_200x200.jpg" group-title="Eventuales" tvg-name="Senado",Senado
 https://senadolive.akamaized.net/hls/live/2006589/punto7/master.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="Eventuales" tvg-name="Radio Nacional",Radio Nacional
+#EXTINF:-1 group-title="TV-ES" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="Eventuales" tvg-name="Radio Nacional",Radio Nacional
 https://ztnr.rtve.es/ztnr/1938076.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/radio3/picture?width=200&height=200" group-title="Eventuales" tvg-name="Radio 3",Radio 3
+#EXTINF:-1 group-title="TV-ES" tvg-logo="https://graph.facebook.com/radio3/picture?width=200&height=200" group-title="Eventuales" tvg-name="Radio 3",Radio 3
 https://ztnr.rtve.es/ztnr/2795617.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/Radio4RNE/picture?width=200&height=200" group-title="Eventuales" tvg-name="Ràdio 4",Ràdio 4
+#EXTINF:-1 group-title="TV-ES" tvg-logo="https://graph.facebook.com/Radio4RNE/picture?width=200&height=200" group-title="Eventuales" tvg-name="Ràdio 4",Ràdio 4
 https://ztnr.rtve.es/ztnr/6782425.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" group-title="Eventuales" tvg-name="Onda Cero",Onda Cero
+#EXTINF:-1 group-title="TV-ES" tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" group-title="Eventuales" tvg-name="Onda Cero",Onda Cero
 https://atres-live.ondacero.es/h264/live/obs/master.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/COPE/picture?width=200&height=200" group-title="Eventuales" tvg-name="COPE",COPE
+#EXTINF:-1 group-title="TV-ES" tvg-logo="https://graph.facebook.com/COPE/picture?width=200&height=200" group-title="Eventuales" tvg-name="COPE",COPE
 https://hls-directo01-cope-stream.flumotion.com/playlist.m3u8
-
-#-------------------------
 
 #EXTINF:-1 group-title="TV-ES" tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="Eventuales" tvg-name="+24",+24
 https://ztnr.rtve.es/ztnr/6108696.m3u8
@@ -2485,31 +2504,6 @@ https://fe.tring.al/delta/105/out/u/rdghfhsfhfshs.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/currenttimetv/picture?width=200&height=200" tvg-name="Current Time TV",Current Time TV
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/NoticiasCaracol/picture?width=200&height=200" tvg-name="Noticias Caracol Colombia",Noticias Caracol Colombia
-https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/CanalTeleantioquia/picture?width=200&height=200" tvg-name="Teleantioquia Colombia",Teleantioquia Colombia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
-https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist_DVR.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/CanalCapitalOficial/picture?width=200&height=200" tvg-name="Canal Capital Colombia",Canal Capital Colombia
-https://cdns.livewave.co:19360/canalcapital/canalcapital.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/TelepacificoTV/picture?width=200&height=200" tvg-name="Telepacifico Colombia",Telepacifico Colombia
-#EXTVLCOPT:http-referrer=https://telepacifico.com/envivo/
-https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-logo="https://pbs.twimg.com/profile_images/1850052710403342336/m-om6omY_200x200.jpg" tvg-name="Canal Telecaribe Colombia",Canal Telecaribe Colombia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
-https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp01.smil/playlist.m3u8?DVR
-
-#EXTINF:-1 group-title="TV" tvg-logo="https://graph.facebook.com/canaltro/picture?width=200&height=200" tvg-name="Canal TRO Colombia",Canal TRO Colombia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
-#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
-https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
-
 #----------------------------
 
 #EXTINF:-1 group-title="TV-PE" tvg-logo="https://graph.facebook.com/Exitosanoticias/picture?width=200&height=200" tvg-name="Exitosa Noticias Perú",Exitosa Noticias Perú
@@ -2537,6 +2531,12 @@ https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3
 https://media.streambr.com:19360/8158/8158.m3u8
 
 #----------------------------
+
+#EXTINF:-1 group-title="TV-US" tvg-id="RealWild.us" tvg-logo="https://i.imgur.com/T9HHmAO.png",Real Wild
+https://lds-realwild-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TV-US" tvg-id="NTD.com" tvg-logo="https://www.ntd.com/images/ENTD180.jpeg",NTD News
+https://amg17596-amg17596c1-ntdtv-worldwide-3276.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-ntdtvworldwide/playlist.m3u8
 
 #EXTINF:-1 group-title="TV-US" tvg-logo="https://graph.facebook.com/ABCNews/picture?width=200&height=200" tvg-name="ABC News USA",ABC News USA EN
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
