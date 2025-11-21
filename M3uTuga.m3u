@@ -47,28 +47,6 @@ http://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 
-#EXTINF:-1 group-title="TV-Anime" tvg-id="AnimaxAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png",Animax
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L1oxmbJum2k66IGvf/hkzw", "kid":"7fGnFd6XSGON0vrXWkGa8g" } ], "type":"temporary" }
-https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
-
-#EXTINF:-1 group-title="TV-Anime" tvg-id="AnimeTV.br" tvg-logo="https://i.imgur.com/CFSSTID.png",Anime TV
-#KODIPROP:inputstream=inputstream.adaptive
-#https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-
-#EXTINF:-1 group-title="TV-Anime" tvg-id="ducktv.sk" tvg-logo="https://i.imgur.com/gRFQ35W.png",ducktv (720p)
-https://jmp2.uk/sam-ESBC4700001GR.m3u8
-
-#EXTINF:-1 group-title="TV-Anime" tvg-id="Clan.TV" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" tvg-name="Clan",Clan GEO
-https://ztnr.rtve.es/ztnr/5466990.m3u8
-
-#EXTINF:-1 group-title="TV-Anime" tvg-id="Clan.TV" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200"  tvg-name="Clan",Clan GEO
-https://rtvelivestream.akamaized.net/rtvesec/clan/clan_main_dvr.m3u8
-
-#EXTINF:-1 group-title="TV-Anime" tvg-id="Clan.TV" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200"  tvg-name="Clan",Clan
-https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
 
 #EXTINF:-1 group-title="TV-Anime" tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200"  tvg-name="Pequeradio TV",Pequeradio TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
