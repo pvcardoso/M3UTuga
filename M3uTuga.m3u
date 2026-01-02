@@ -91,17 +91,6 @@ https://cc-wn1j3f2wnu5lr.akamaized.net/manifest.m3u8
 
 #----------------------------
 
-#EXTINF:-1 group-title="TV-BO" tvg-logo="https://graph.facebook.com/BoliviaTvCanalOficial/picture?width=200&height=200" tvg-name="Bolivia 7.1 TV",Bolivia 7.1 TV
-https://5ca9af4645e15.streamlock.net/boliviatv/videoboliviatv/playlist.m3u8
-
-#EXTINF:-1 group-title="TV-BO" tvg-logo="https://graph.facebook.com/BoliviaTvCanalOficial/picture?width=200&height=200" tvg-name="Bolivia 7.2 TV",Bolivia 7.2 TV
-https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
-
-#EXTINF:-1 group-title="TV-BO" tvg-logo="https://graph.facebook.com/patboliviahd/picture?width=200&height=200" tvg-name="Red Pat Bolivia",Red Pat Bolivia
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/patscz/playlist.m3u8
-
-#----------------------------
-
 #EXTINF:-1 group-title="TV-CO" tvg-logo="https://graph.facebook.com/NoticiasCaracol/picture?width=200&height=200" tvg-name="Noticias Caracol Colombia",Noticias Caracol Colombia
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 
@@ -2766,5 +2755,6 @@ https://1d1b0d4cb6ae4c31985d13221795695b.mediatailor.eu-west-1.amazonaws.com/v1/
 https://worldofloveisland-rakuten.amagi.tv/playlist.m3u8
 
 #-------------------------------------------------
+
 
 
