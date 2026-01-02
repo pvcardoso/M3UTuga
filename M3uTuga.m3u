@@ -91,9 +91,6 @@ https://cc-wn1j3f2wnu5lr.akamaized.net/manifest.m3u8
 
 #----------------------------
 
-#EXTINF:-1 group-title="TV-CO" tvg-logo="https://graph.facebook.com/NoticiasCaracol/picture?width=200&height=200" tvg-name="Noticias Caracol Colombia",Noticias Caracol Colombia
-https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
-
 #EXTINF:-1 group-title="TV-CO" tvg-logo="https://graph.facebook.com/CanalTeleantioquia/picture?width=200&height=200" tvg-name="Teleantioquia Colombia",Teleantioquia Colombia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 #EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
@@ -101,10 +98,6 @@ https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist_
 
 #EXTINF:-1 group-title="TV-CO" tvg-logo="https://graph.facebook.com/CanalCapitalOficial/picture?width=200&height=200" tvg-name="Canal Capital Colombia",Canal Capital Colombia
 https://cdns.livewave.co:19360/canalcapital/canalcapital.m3u8
-
-#EXTINF:-1 group-title="TV-CO" tvg-logo="https://graph.facebook.com/TelepacificoTV/picture?width=200&height=200" tvg-name="Telepacifico Colombia",Telepacifico Colombia
-#EXTVLCOPT:http-referrer=https://telepacifico.com/envivo/
-https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
 
 #EXTINF:-1 group-title="TV-CO" tvg-logo="https://pbs.twimg.com/profile_images/1850052710403342336/m-om6omY_200x200.jpg" tvg-name="Canal Telecaribe Colombia",Canal Telecaribe Colombia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
@@ -2755,6 +2748,7 @@ https://1d1b0d4cb6ae4c31985d13221795695b.mediatailor.eu-west-1.amazonaws.com/v1/
 https://worldofloveisland-rakuten.amagi.tv/playlist.m3u8
 
 #-------------------------------------------------
+
 
 
 
